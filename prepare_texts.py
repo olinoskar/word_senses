@@ -13,12 +13,15 @@ http://farkastranslations.com/bilingual_books.php
 URLS = [
     'http://farkastranslations.com/books/Verne_Jules-Ile_mysterieuse-fr-en-es-hu.html',
     'http://farkastranslations.com/books/Dumas_Alexandre-Trois_Mousquetaires-fr-en-hu-es-nl.html',
+    'http://farkastranslations.com/books/Bronte_Charlotte-Jane_Eyre-en-fr-es-it-de-hu.html',
+    'http://farkastranslations.com/books/Verne_Jules-20000_lieues_sous_les_mers-fr-en-hu-es-nl.html',
+
     ]
 LANGUAGES = [
     'English', 'French', 'Spanish'
 ]
 
-FNAME_WORD_ALIGNMENT = 'data/word_alignment.txt'
+FNAME_WORD_ALIGNMENT = 'data/word_alignment.csv'
 FNAME_BERT = 'data/bert.txt'
 
 try:
