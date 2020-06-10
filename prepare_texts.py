@@ -46,9 +46,6 @@ def main():
 
     urls = get_book_urls()
 
-
-
-
     print_old_stats()
 
     sys.exit()
