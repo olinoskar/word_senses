@@ -6,7 +6,7 @@ import spacy
 from tqdm import tqdm
 
 """
-Got to the link below for books in multiple languages: 
+Go to the link below for books in multiple languages: 
 http://farkastranslations.com/bilingual_books.php
 """
 
@@ -44,10 +44,6 @@ def main():
     print_stats(df)
 
     
-
-
-
-
 ###############################
 # Fetch data
 
