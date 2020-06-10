@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 import spacy
 from tqdm import tqdm
+from nltk.corpus import stopwords
+import sys
 
 """
 Go to the link below for books in multiple languages: 
@@ -15,7 +17,6 @@ URLS = [
     'http://farkastranslations.com/books/Dumas_Alexandre-Trois_Mousquetaires-fr-en-hu-es-nl.html',
     'http://farkastranslations.com/books/Bronte_Charlotte-Jane_Eyre-en-fr-es-it-de-hu.html',
     'http://farkastranslations.com/books/Verne_Jules-20000_lieues_sous_les_mers-fr-en-hu-es-nl.html',
-
     ]
 LANGUAGES = [
     'English', 'French', 'Spanish'
@@ -23,6 +24,7 @@ LANGUAGES = [
 
 FNAME_WORD_ALIGNMENT = 'data/word_alignment.csv'
 FNAME_BERT = 'data/bert.txt'
+FNAME_OCCURENCES = 'data/occurences.csv'
 
 try:
     with open('data/lemmas.txt', 'r') as f:
@@ -35,6 +37,11 @@ print(WORDS)
 
 
 def main():
+
+    print_old_stats()
+
+    sys.exit()
+    print('bla')
 
     df = get_data_from_urls(URLS)
 
@@ -92,6 +99,21 @@ def prepare_for_bert(df, fname = None):
 # Print and visualize data
 
 
+def print_old_stats():
+    df = pd.read_csv(FNAME_OCCURENCES)
+    df = df.dropna()
+
+    short_words = set([word for word in df['Lemma'] if len(word) <= 3])
+
+    stop_words = set(stopwords.words('english')) 
+    stop_words.add('-PRON-')
+    stop_words = stop_words.union(short_words) 
+
+    df = df[~df['Lemma'].isin(stop_words)]
+    print(df[:50])
+
+
+
 def print_stats(df, language = 'English'):
 
     print("Loading Spacy...")
@@ -132,6 +154,7 @@ def print_stats(df, language = 'English'):
     df = pd.DataFrame(occurences.items(), columns = ['Lemma', 'Occurences'])
     df = df.sort_values(by = 'Occurences', ascending = False)
     df = df.reset_index(drop = True)
+    df.to_csv(FNAME_OCCURENCES, index = False)
 
     if WORDS:
         print(df[df['Lemma'].isin(WORDS)])
