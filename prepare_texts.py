@@ -6,6 +6,8 @@ import spacy
 from tqdm import tqdm
 from nltk.corpus import stopwords
 import sys
+from pprint import pprint
+
 
 """
 Go to the link below for books in multiple languages: 
@@ -21,6 +23,10 @@ URLS = [
 LANGUAGES = [
     'English', 'French', 'Spanish'
 ]
+
+SHORT_LANGS_MAP = {
+    'English': 'en', 'French': 'fr', 'Spanish': 'es',
+}
 
 FNAME_WORD_ALIGNMENT = 'data/word_alignment.csv'
 FNAME_BERT = 'data/bert.txt'
@@ -38,12 +44,17 @@ print(WORDS)
 
 def main():
 
+    urls = get_book_urls()
+
+
+
+
     print_old_stats()
 
     sys.exit()
-    print('bla')
 
-    df = get_data_from_urls(URLS)
+    df = get_data_from_urls(urls)
+
 
     prepare_for_word_alignment(df, fname = FNAME_WORD_ALIGNMENT)
     prepare_for_bert(df, fname = FNAME_BERT)
@@ -57,6 +68,7 @@ def main():
 def get_data_from_urls(urls):
     df = pd.DataFrame()
     for url in urls:
+        print(url)
         df_url = get_data_from_url(url)
         df = df.append(df_url)
     return df
@@ -67,6 +79,42 @@ def get_data_from_url(url):
     df.columns = df.loc[0].values
     df = df.drop(0).reset_index(drop=True)
     return df[LANGUAGES].dropna()
+
+
+def get_book_urls():
+
+    root_url = 'http://farkastranslations.com/bilingual_books.php'
+    resp = requests.get(root_url)
+
+    soup = BeautifulSoup(resp.text, 'html.parser')
+    urls = set()
+
+    langs = [SHORT_LANGS_MAP[lang] for lang in LANGUAGES]
+
+    for tag in soup.find_all('a'):
+        url = tag['href']
+
+        if not url.endswith('.html'):
+            continue
+
+        all_in_url = True
+        for lang in langs:
+            if lang not in url.replace('.html', '').split('-'):
+                all_in_url = False
+                break
+        if not all_in_url:
+            continue
+
+        urls.add(url)
+
+
+
+
+        print(url)
+    pprint(urls)
+
+    urls = ['http://farkastranslations.com/' + url for url in urls]
+    return urls
 
 
 
@@ -116,13 +164,15 @@ def print_old_stats():
 
 def print_stats(df, language = 'English'):
 
+    print('\nSTATS FOR', language.upper())
+    print('-'* (10 + len(language)))
+    print('Number of texts:', len(df))
+
     print("Loading Spacy...")
     sp = spacy.load('en_core_web_md')
     print("Spacy loaded\n")
 
-    print('\nSTATS FOR', language.upper())
-    print('-'* (10 + len(language)))
-    print('Number of texts:', len(df))
+    
 
 
     series = df[language].dropna()
