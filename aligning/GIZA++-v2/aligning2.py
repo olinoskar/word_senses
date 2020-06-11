@@ -71,7 +71,7 @@ def main():
     words = Counter([token.lemma_ for text in texts for token in spacy_en(text) \
                     if token.text not in stop_words and len(token.text) >= 3 and not token.text[0].isdigit()])
 
-    words = set([key for key in words.keys() if words[key] >= 130])
+    words = set([key for key in words.keys() if words[key] >= 80])
     print("Number of words:" + str(len(words)))
     words_to_inds_map = words_to_inds(df, spacy_en)
 
@@ -276,7 +276,7 @@ def find_senses(lemma, df_train, df, spacy_en, spacy_fr, spacy_es, words_to_inds
                 #if not same POS-tag then skip it
                 c = Counter(pos_tags)
                 pos_tag, count = c.most_common()[0]
-                if count == 1:
+                if count != 3:
                     not_annotated += [[clean_text(df.loc[ind, "text_en"], tokenizer=spacy_en.tokenizer), jacket_index]]
                     continue
                     

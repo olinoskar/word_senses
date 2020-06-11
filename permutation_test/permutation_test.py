@@ -69,6 +69,8 @@ def main():
         try:
             path = os.path.join(DATA_DIR, fname)
             df, data = get_data(path, tokenizer)
+            if len(df) >= 750:
+                continue
             if "/" in fname:
                 fname = fname[fname.rfind("/")+1:]
 
@@ -107,7 +109,7 @@ def get_data(fname, tokenizer):
 
     
     for key, val in df["label"].value_counts().items():
-        if val <= 10: #If a sense has less than 10 data points then remove it!
+        if val <= 7: #If a sense has less than 10 data points then remove it!
             df = df.loc[df["label"] != key]
     df.reset_index(drop=True, inplace=True)
     
