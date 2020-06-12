@@ -280,43 +280,6 @@ class FeatureVectorGetterBERT:
 									embeddings[11][j, label_ind, :].detach().numpy()+embeddings[12][j, label_ind, :].detach().numpy())                        
 		return X
 
-#--------------------------------------------------------------------------------------------------------  
-class HyperTuningNet(nn.Module): #This is a network whose architecture is tuned using hyperopt
-    
-    def __init__(self, neurons, activations, dropouts, dropout_prob):
-        super().__init__()
-        
-        layers = []
-        self.dropouts = []
-        for i in range(0, len(neurons)-1,1):
-            if dropouts[i]:
-                self.dropouts += [nn.Dropout(p=dropout_prob)]
-            else:
-                self.dropouts += [nn.Dropout(p=0)]
-            layers += [nn.Linear(neurons[i], neurons[i+1])]
-
-        self.layers = nn.ModuleList(layers)
-        self.activations = activations
-
-    def forward(self, x):
-        for i in range(0, len(self.layers)-1, 1):
-            layer = self.layers[i]
-            activation =  self.activations[i]
-            dropout = self.dropouts[i]
-            x = dropout(activation(layer(x)))
-        
-        layer = self.layers[-1]
-        x = F.softmax(layer(x), dim=1)
-        return x
-    
-    def predict(self, x): #can only predict one test point at a time
-        
-        x = torch.Tensor(x)
-        with torch.no_grad():
-            self.eval()
-            y_pred = torch.argmax(self(x.view(-1, x.shape[1])), dim=1)
-        return y_pred
-
 if __name__ == '__main__':
 	main()
 
