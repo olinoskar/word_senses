@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from collections import Counter
 
 '''
 write_file = open('merg.results.txt', 'w')
@@ -25,12 +26,17 @@ for word in words:
 file.close()
 '''
 
-file = open('merg.results.txt', 'r')
-words = [word[:word.index(' ')] for word in file.readlines()]
-file.close()
+write_file = open('top_10_words.txt', 'w')
+words = {}
 
 for file in os.listdir():
 	if os.path.isdir(file):
-		if file not in words:
-			os.system('rm -r ' + file)
-			os.remove(file + '.csv')
+		length = len(pd.read_csv(os.path.join(file, file + '.csv')))
+		words[file] = length
+
+counter = Counter(words)
+for key, val in counter.most_common(20):
+	write_file.write(key  + ' ' + str(val) + '\n')
+
+write_file.close()
+		

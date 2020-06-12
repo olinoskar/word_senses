@@ -1,0 +1,2 @@
+merging ('reporter', 'reporter', 'corresponsal') to ('reporter', 'reporter', 'periodista') p-value: 0.5751416194601799
+merging ('reporter', 'reporter', 'spilett') to ('reporter', 'reporter', 'periodista') p-value: 0.39053648783738754

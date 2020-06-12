@@ -1,0 +1,2 @@
+merging ('leave', 'quitter', 'dejar') to ('leave', 'quitter', 'abandonar') p-value: 0.18993668777074307
+merging ('leave', 'sortir', 'salir') to ('leave', 'quitter', 'salir') p-value: 0.21592802399200267

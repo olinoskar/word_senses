@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import json
 
 
 '''
@@ -15,8 +16,13 @@ for file in os.listdir():
 		pass
 write_file.close()'''
 
+'''
 file = open('merg.results.txt', 'r')
 words = [word[:word.index(' ')] for word in file.readlines()]
 
 for word in words:
 	os.system('cp ' + word + '.csv ' + '../train2')
+'''
+
+
+		

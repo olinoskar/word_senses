@@ -1,0 +1,2 @@
+merging ('work', 'travail', 'tarea') to ('work', 'travail', 'trabajo') p-value: 0.3298900366544485
+merging ('work', 'oeuvre', 'obrar') to ('work', 'ouvrage', 'obrar') p-value: 0.7944018660446518
