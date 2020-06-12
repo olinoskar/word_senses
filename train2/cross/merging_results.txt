@@ -1,0 +1,1 @@
+merging ('cross', 'traverser', 'cruzar') to ('cross', 'traverser', 'atravesar') p-value: 0.39186937687437523

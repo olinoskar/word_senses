@@ -1,0 +1,1 @@
+merging ('easily', 'facile', 'fácil') to ('easily', 'facilement', 'fácilmente') p-value: 0.06331222925691436

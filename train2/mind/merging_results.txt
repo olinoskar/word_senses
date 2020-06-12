@@ -1,0 +1,1 @@
+merging ('mind', 'esprit', 'ánimo') to ('mind', 'esprit', 'espíritu') p-value: 0.080973008997001

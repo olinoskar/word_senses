@@ -1,0 +1,2 @@
+merging ('glance', 'oeil', 'mirar') to ('glance', 'oeil', 'ojear') p-value: 0.19726757747417528
+merging ('glance', 'regard', 'mirar') to ('glance', 'oeil', 'ojear') p-value: 0.05998000666444518

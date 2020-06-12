@@ -1,0 +1,1 @@
+merging ('arrest', 'arrêter', 'detener') to ('arrest', 'arrêter', 'arrestar') p-value: 0.327890703098967

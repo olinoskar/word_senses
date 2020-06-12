@@ -1,0 +1,2 @@
+merging ('convict', 'convict', 'bandido') to ('convict', 'convict', 'presidiario') p-value: 0.6904365211596135
+merging ('convict', 'convict', 'pirata') to ('convict', 'convict', 'presidiario') p-value: 0.2659113628790403

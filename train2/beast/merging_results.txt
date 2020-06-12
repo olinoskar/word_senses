@@ -1,0 +1,1 @@
+merging ('beast', 'bête', 'animal') to ('beast', 'bête', 'bestia') p-value: 0.08497167610796401

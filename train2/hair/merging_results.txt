@@ -1,0 +1,2 @@
+merging ('hair', 'cheveu', 'pelar') to ('hair', 'cheveu', 'cabello') p-value: 0.3678773742085971
+merging ('hair', 'cheveu', 'cabellar') to ('hair', 'cheveu', 'cabello') p-value: 0.5451516161279574

@@ -1,0 +1,2 @@
+merging ('face', 'face', 'rostro') to ('face', 'visage', 'rostro') p-value: 0.14628457180939686
+merging ('face', 'figure', 'rostro') to ('face', 'visage', 'rostro') p-value: 0.12095968010663112

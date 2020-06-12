@@ -1,0 +1,1 @@
+merging ('coal', 'houille', 'hulla') to ('coal', 'charbon', 'carbón') p-value: 0.28757080973008997

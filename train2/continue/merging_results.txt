@@ -1,0 +1,1 @@
+merging ('continue', 'continuer', 'proseguir') to ('continue', 'continuer', 'continuar') p-value: 0.8513828723758747

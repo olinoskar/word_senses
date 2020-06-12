@@ -1,0 +1,2 @@
+merging ('master', 'maître', 'maestro') to ('master', 'maître', 'amar') p-value: 0.11796067977340886
+merging ('master', 'maître', 'señor') to ('master', 'maître', 'amar') p-value: 0.10429856714428523

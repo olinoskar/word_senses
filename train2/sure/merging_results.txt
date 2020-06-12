@@ -1,0 +1,1 @@
+merging ('sure', 'sûre', 'seguro') to ('sure', 'sûr', 'seguro') p-value: 0.10496501166277908

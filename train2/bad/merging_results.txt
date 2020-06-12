@@ -1,0 +1,1 @@
+merging ('bad', 'mauvais', 'mal') to ('bad', 'mauvais', 'malo') p-value: 0.09330223258913696
