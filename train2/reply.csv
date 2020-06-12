@@ -1,0 +1,689 @@
+text,ind,sense,label
+""" jean , if monsieur pleases , "" replied the newcomer , "" jean passepartout , a surname which has clung to me because i have a natural aptness for going out of one business into another . i believe i 'm honest , monsieur , but , to be outspoken , i 've had several trades . i 've been an itinerant singer , a circus - rider , when i used to vault like leotard , and dance on a rope like blondin . then i got to be a professor of gymnastics , so as to make better use of my talents ; and then i was a sergeant fireman at paris , and assisted at many a big fire . but i quitted france five years ago , and , wishing to taste the sweets of domestic life , took service as a valet here in england . finding myself out of place , and hearing that monsieur phileas fogg was the most exact and settled gentleman in the united kingdom , i have come to monsieur in the hope of living with him a tranquil life , and forgetting even the name of passepartout . """,8,"('reply', 'répondre', 'responder')",0
+""" oh , "" replied stuart , "" the bank will lose the money . """,4,"('reply', 'répondre', 'responder')",0
+""" i am rubbing , "" replied herbert , laughing , "" but i do n't pretend to do anything else but warm myself instead of shivering , and soon i shall be as hot as you are , my good pencroft ! """,6,"('reply', 'répondre', 'contestar')",1
+""" i feel dreadfully weak , "" replied harding .",7,"('reply', 'répondre', 'responder')",0
+""" we shall consider , "" replied the engineer , "" and if we do not find some substance similar to tinder-- """,6,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied my uncle , shrugging his shoulders ; "" but , in addition to all this , the icelandic has three numbers like the greek , and irregular declensions of nouns proper like the latin . """,4,"('reply', 'répondre', 'responder')",0
+""" thanks , my boy , "" replied harding ; "" it will do -- for this morning at least . """,7,"('reply', 'répondre', 'responder')",0
+""" no , captain , "" replied the boy .",6,"('reply', 'répondre', 'contestar')",1
+""" we will make it , pencroft , "" replied harding . "" while you were carrying me yesterday , did i not see in the west a mountain which commands the country ? """,9,"('reply', 'répondre', 'decir')",2
+""" yes , "" replied spilett , "" a mountain which must be rather high-- """,4,"('reply', 'répondre', 'contestar')",1
+""" the unforeseen does not exist , "" quietly replied phileas fogg .",9,"('reply', 'répondre', 'responder')",0
+""" i can not say exactly , "" replied the engineer , "" but i presume it is some land in the pacific .",8,"('reply', 'répondre', 'contestar')",1
+passepartout did not reply . it could not be he who was called ; it was not the right hour .,3,"('reply', 'répondre', 'responder')",0
+""" better to put things at the worst at first , "" replied the engineer , "" and reserve the best for a surprise . """,12,"('reply', 'répondre', 'contestar')",1
+""" i hope so , "" replied the engineer , "" provided you and pencroft , my boy , show yourselves quick and clever hunters . """,6,"('reply', 'répondre', 'contestar')",1
+""" bring it back all the same , pencroft , "" replied harding .",11,"('reply', 'répondre', 'decir')",2
+""" three , "" replied aramis , smiling .",4,"('reply', 'répondre', 'responder')",0
+""" hunters , "" replied herbert .",4,"('reply', 'répondre', 'contestar')",1
+""" no doubt , "" i ventured to reply , "" but what interest would he have in thus hiding so marvellous a discovery ? """,8,"('reply', 'répondre', 'responder')",0
+""" have patience , "" replied the sailor , "" it is n't the game which will be wanting on our return . """,5,"('reply', 'répondre', 'contestar')",1
+""" no , mr . fix , "" replied the consul . "" she was bespoken yesterday at port said , and the rest of the way is of no account to such a craft . i repeat that the mongolia has been in advance of the time required by the company 's regulations , and gained the prize awarded for excess of speed . """,8,"('reply', 'répondre', 'responder')",0
+""" yes , "" replied porthos , "" it is the one that ought to have been sent to me at first . a bad joke of the husband ’s substituted the other ; but the husband has been punished since , and i have obtained full satisfaction . """,4,"('reply', 'répondre', 'responder')",0
+""" no , "" replied herbert , "" since he has webbed feet , and is almost an amphibious animal .",4,"('reply', 'répondre', 'contestar')",1
+""" well , mr . fix , "" replied the consul , "" i shall not be sorry to see the rascal 's face ; but perhaps he wo n't come here -- that is , if he is the person you suppose him to be . a robber does n't quite like to leave traces of his flight behind him ; and , besides , he is not obliged to have his passport countersigned . """,8,"('reply', 'répondre', 'responder')",0
+""" well , he looks and acts like a perfectly honest man , "" replied the consul .",14,"('reply', 'répondre', 'responder')",0
+""" no , my boy , "" replied he , "" but i made one . """,7,"('reply', 'répondre', 'contestar')",1
+""" it is noted , "" replied the reporter .",6,"('reply', 'répondre', 'contestar')",1
+""" yes , monseigneur , "" replied the young man .",6,"('reply', 'répondre', 'responder')",0
+""" the letter was lost , "" replied his eminence ; "" yes , i know that . but monsieur de treville is a skilled physiognomist , who knows men at first sight ; and he placed you in the company of his brother - in - law , monsieur dessessart , leaving you to hope that one day or other you should enter the musketeers . """,7,"('reply', 'reprendre', 'proseguir')",3
+""" and yours ! "" replied the indefatigable professor , entering the dining - room .",5,"('reply', 'répondre', 'responder')",0
+""" alas , monseigneur ! "" replied the young man , "" very easily , no doubt , for they are strong and well supported , while i am alone . """,6,"('reply', 'répondre', 'responder')",0
+""" well , "" replied the reporter , who had already hunted the tiger in india , and the lion in africa , "" we shall soon learn how successfully to encounter them .",4,"('reply', 'répondre', 'contestar')",1
+""" we 'll see about that , "" replied fix .",8,"('reply', 'répondre', 'responder')",0
+""" your goodness confounds me , monseigneur , "" replied d’artagnan , "" and i am conscious of a greatness of soul in your eminence that makes me mean as an earthworm ; but since monseigneur permits me to speak freely-- """,9,"('reply', 'répondre', 'responder')",0
+""" yes , "" replied herbert .",4,"('reply', 'répondre', 'contestar')",1
+""" why yes , "" replied fix , who spoke cautiously .",5,"('reply', 'répondre', 'responder')",0
+""" i will try to do so , monseigneur , "" replied the gascon , with a noble confidence .",11,"('reply', 'répondre', 'responder')",0
+"he opened his mouth to reply , but with a haughty gesture the cardinal dismissed him .",5,"('reply', 'répondre', 'responder')",0
+""" very well , sir francis , "" replied mr . fogg ; "" if he had been caught he would have been condemned and punished , and then would have quietly returned to europe . i do n't see how this affair could have delayed his master . """,8,"('reply', 'répondre', 'responder')",0
+"the train entered the defiles of the sutpour mountains , which separate the khandeish from bundelcund , towards evening . the next day sir francis cromarty asked passepartout what time it was ; to which , on consulting his watch , he replied that it was three in the morning . this famous timepiece , always regulated on the greenwich meridian , which was now some seventy - seven degrees westward , was at least four hours slow . sir francis corrected passepartout 's time , whereupon the latter made the same remark that he had done to fix ; and upon the general insisting that the watch should be regulated in each new meridian , since he was constantly going eastward , that is in the face of the sun , and therefore the days were shorter by four minutes for each degree gone over , passepartout obstinately refused to alter his watch , which he kept at london time . it was an innocent delusion which could harm no one .",42,"('reply', 'répondre', 'decir')",2
+"to a look of interrogation which they made , milady replied by a sign that it was he .",10,"('reply', 'répondre', 'responder')",0
+""" let 's go and see the elephant , "" replied mr . fogg .",10,"('reply', 'répondre', 'responder')",0
+"sir francis cromarty took mr . fogg aside , and begged him to reflect before he went any further ; to which that gentleman replied that he was not in the habit of acting rashly , that a bet of twenty thousand pounds was at stake , that the elephant was absolutely necessary to him , and that he would secure him if he had to pay twenty times his value . returning to the indian , whose small , sharp eyes , glistening with avarice , betrayed that with him it was only a question of how great a price he could obtain . mr . fogg offered first twelve hundred , then fifteen hundred , eighteen hundred , two thousand pounds . passepartout , usually so rubicund , was fairly white with suspense .",24,"('reply', 'répondre', 'responder')",0
+""" i do n't know , officer , "" replied the parsee , listening attentively to a confused murmur which came through the thick branches .",9,"('reply', 'répondre', 'responder')",0
+""" these sacrifices do not occur in the larger portion of india , "" replied sir francis ; "" but we have no power over these savage territories , and especially here in bundelcund . the whole district north of the vindhias is the theatre of incessant murders and pillage . """,14,"('reply', 'répondre', 'responder')",0
+""" certainly , "" replied the engineer , "" for it must be fed by the water which flows from the mountain . """,4,"('reply', 'répondre', 'contestar')",1
+""" sometimes , "" replied phileas fogg , quietly ; "" when i have the time . """,4,"('reply', 'répondre', 'responder')",0
+""" thanks , my captain ! "" replied d’artagnan , who wished for nothing better than an opportunity to distinguish himself under the eye of the lieutenant general .",7,"('reply', 'répondre', 'responder')",0
+""" that is foreseen , "" replied mr . fogg . "" i think we must wait till night before acting . """,6,"('reply', 'répondre', 'responder')",0
+""" and you are right , my dear cyrus , "" replied the reporter , with animation .",11,"('reply', 'répondre', 'contestar')",1
+"they set noiselessly to work , and the parsee on one side and passepartout on the other began to loosen the bricks so as to make an aperture two feet wide . they were getting on rapidly , when suddenly a cry was heard in the interior of the temple , followed almost instantly by other cries replying from the outside . passepartout and the guide stopped . had they been heard ? was the alarm being given ? common prudence urged them to retire , and they did so , followed by phileas fogg and sir francis . they again hid themselves in the wood , and waited till the disturbance , whatever it might be , ceased , holding themselves ready to resume their attempt without delay . but , awkwardly enough , the guards now appeared at the rear of the temple , and there installed themselves , in readiness to prevent a surprise .",57,"('reply', 'répondre', 'responder')",0
+""" excellent , "" replied captain bjarne ; "" a sou'-easter . we shall pass down the sound full speed , with all sails set . """,4,"('reply', 'répondre', 'responder')",0
+""" exactly ! "" replied pencroft .",4,"('reply', 'répondre', 'reponer')",4
+""" ten days , "" the captain replied , "" if we do n't meet a nor'-wester in passing the faroes . """,7,"('reply', 'répondre', 'responder')",0
+""" well , "" replied pencroft , "" we can have north mandible cape and south mandible cape . """,4,"('reply', 'répondre', 'contestar')",1
+""" indeed ! "" replied m. fridrikssen , "" why we possess eight thousand volumes , many of them valuable and scarce , works in the old scandinavian language , and we have all the novelties that copenhagen sends us every year . """,4,"('reply', 'répondre', 'responder')",0
+""" she may , "" replied the policeman .",5,"('reply', 'répondre', 'responder')",0
+""" we shall be on board by noon , "" replied his master , placidly .",10,"('reply', 'répondre', 'responder')",0
+""" i am here , "" replied mr . fogg .",6,"('reply', 'répondre', 'responder')",0
+""" certainly , "" replied my uncle ; "" but i am rather late ; or have not others been here before me ? """,4,"('reply', 'répondre', 'responder')",0
+""" yes , sir , "" replied mr . fogg , consulting his watch , "" and i admit it . """,6,"('reply', 'répondre', 'responder')",0
+""" well , "" replied my uncle , who was frantically locking his legs together to keep himself from jumping up in the air , "" that is where i mean to begin my geological studies , there on that seffel -- fessel -- what do you call it ? """,4,"('reply', 'répondre', 'responder')",0
+""" oh , no , no ! "" replied my uncle with great animation , "" we would not disturb any one for the world , m. fridrikssen . still , i thank you with all my heart : the company of such a talented man would have been very serviceable , but the duties of your profession-- """,8,"('reply', 'répondre', 'responder')",0
+""" admitted , "" replied mr . fogg , coldly .",4,"('reply', 'répondre', 'responder')",0
+""" smoke , "" replied herbert .",4,"('reply', 'répondre', 'contestar')",1
+""" well , pardieu ! there is yours , my dear friend , "" replied d’artagnan .",14,"('reply', 'répondre', 'responder')",0
+""" we must avoid showing ourselves before knowing with whom we have to deal , "" replied cyrus harding .",16,"('reply', 'répondre', 'contestar')",1
+""" no , no , "" replied fix ; "" i shall stop at hong kong -- at least for some days . """,6,"('reply', 'répondre', 'responder')",0
+""" a young lady ? "" replied the detective , not seeming to comprehend what was said .",6,"('reply', 'répondre', 'responder')",0
+""" perhaps , "" replied the engineer , "" but we will begin by first manufacturing some bows and arrows , and i do n't doubt that you will become as clever in the use of them as the australian hunters . """,4,"('reply', 'répondre', 'contestar')",1
+""" do n't be proud , friend pencroft , "" replied the reporter .",10,"('reply', 'répondre', 'contestar')",1
+""" we will live there ! "" replied harding .",7,"('reply', 'répondre', 'contestar')",1
+""" you say she is in a convent ? "" replied porthos .",10,"('reply', 'reprendre', 'proseguir')",3
+""" at the beginning , "" replied cyrus harding .",6,"('reply', 'répondre', 'contestar')",1
+""" to make the pottery which we have need of , "" replied harding .",12,"('reply', 'répondre', 'contestar')",1
+""" nothing , "" replied passepartout , again emptying his glass .",4,"('reply', 'répondre', 'responder')",0
+""" no , "" replied the reporter ; "" but if there is a lack of food for want of instruments for the chase ? """,4,"('reply', 'répondre', 'reponer')",4
+""" who goes there , yourselves ? "" replied one of the horsemen .",8,"('reply', 'répondre', 'responder')",0
+""" see here , "" replied fix ; "" i have tracked mr . fogg to this place , but as yet i have failed to receive the warrant of arrest for which i sent to london . you must help me to keep him here in hong kong-- """,5,"('reply', 'répondre', 'responder')",0
+""" i was , sir , "" replied mr . fogg coldly . "" but i have not the honour-- """,7,"('reply', 'répondre', 'responder')",0
+""" _ mistour , _ "" replied the guide .",6,"('reply', 'répondre', 'reponer')",4
+"the question being put , hans replied : "" scartaris . """,6,"('reply', 'répondre', 'responder')",0
+""" well , your honour , "" replied he , "" i could not risk myself , my men , or my little boat of scarcely twenty tons on so long a voyage at this time of year . besides , we could not reach yokohama in time , for it is sixteen hundred and sixty miles from hong kong . """,7,"('reply', 'répondre', 'responder')",0
+""" no , "" replied harding , "" it is wormwood ; chinese wormwood to the learned , but to us it will be tinder . """,4,"('reply', 'répondre', 'responder')",0
+""" forward ! "" replied my uncle .",4,"('reply', 'répondre', 'responder')",0
+""" i listen to your eminence with greatest attention , "" replied a female voice which made the musketeer start .",11,"('reply', 'répondre', 'responder')",0
+""" no , my boy , "" replied the latter , "" we are going to proceed differently , but in as precise a way . """,7,"('reply', 'répondre', 'contestar')",1
+""" slightly , captain , "" replied herbert , who did not wish to put himself forward .",6,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied herbert ; "" their homologous sides are proportional . """,4,"('reply', 'répondre', 'contestar')",1
+""" just so , herbert , "" replied the engineer ; "" and when we have measured the two first distances , knowing the height of the pole , we shall only have a sum in proportion to do , which will give us the height of the cliff , and will save us the trouble of measuring it directly . """,7,"('reply', 'répondre', 'contestar')",1
+"i then remembered that we had searched for it in vain the evening before . my uncle questioned hans , who , after having examined attentively with the eye of a huntsman , replied :",33,"('reply', 'répondre', 'contestar')",1
+"he descended to the saloon . mr . fogg was not there . passepartout had only , however , to ask the purser the number of his master 's state - room . the purser replied that he did not know any passenger by the name of fogg .",35,"('reply', 'répondre', 'contestar')",1
+""" no , "" replied harding .",4,"('reply', 'répondre', 'responder')",0
+""" capital ! "" replied pencroft .",4,"('reply', 'répondre', 'reponer')",4
+""" that is to say , she was there , "" replied milady ; "" but the queen has obtained an order from the king by means of which she has been conveyed to a convent . """,11,"('reply', 'reprendre', 'proseguir')",3
+""" doubtless , pencroft , "" replied the reporter , "" but it depends on you .",6,"('reply', 'répondre', 'contestar')",1
+""" oh ! "" replied the engineer , "" we might , no doubt , find all these substances on the island , but a gun is a delicate instrument , and needs very particular tools .",4,"('reply', 'répondre', 'decir')",2
+""" yes , "" replied the engineer , "" but the distance which separates us from it is more than twelve hundred miles . """,4,"('reply', 'répondre', 'contestar')",1
+""" that way , nothing , "" replied pencroft .",7,"('reply', 'répondre', 'contestar')",1
+""" well , "" replied the engineer , "" instead of building a house we will build a boat , and master pencroft shall be put in command-- """,4,"('reply', 'répondre', 'contestar')",1
+""" we shall do it , if it is necessary , "" replied cyrus harding .",12,"('reply', 'répondre', 'contestar')",1
+""" be easy on that head , "" replied athos ; "" you know i am cool enough . """,8,"('reply', 'répondre', 'responder')",0
+""" monseigneur , "" replied porthos , "" he has gone as a scout , on account of some words of our host , which made him believe the road was not safe . """,4,"('reply', 'répondre', 'responder')",0
+"meanwhile as the sun slowly advanced , the shadow slowly diminished , and when it appeared to cyrus harding that it was beginning to increase , he asked , "" what o'clock is it ? "" "" one minute past five , "" replied gideon spilett directly .",43,"('reply', 'répondre', 'contestar')",1
+""" what the captain pleases , "" replied the reporter .",7,"('reply', 'répondre', 'contestar')",1
+""" no , "" replied fix coldly , "" i think him a rascal . sh ! do n't budge , and let me speak . as long as mr . fogg was on english ground , it was for my interest to detain him there until my warrant of arrest arrived . i did everything i could to keep him back . i sent the bombay priests after him , i got you intoxicated at hong kong , i separated you from him , and i made him miss the yokohama steamer . """,4,"('reply', 'répondre', 'responder')",0
+""" a mine without miners , "" my uncle replied .",9,"('reply', 'répondre', 'responder')",0
+""" friends?--no , "" replied passepartout ; "" but allies , perhaps . at the least sign of treason , however , i 'll twist your neck for you . """,4,"('reply', 'répondre', 'responder')",0
+""" yes , my friend , "" replied the engineer , "" and for that -- something which will please you -- we must begin by having a seal hunt on the islet . """,7,"('reply', 'répondre', 'contestar')",1
+""" since cyrus has said so ! "" replied the reporter .",8,"('reply', 'répondre', 'contestar')",1
+""" no thanks are necessary , "" replied . fix ; "" but let us go . """,7,"('reply', 'répondre', 'responder')",0
+"the detective smiled , but did not reply . it was clear that mr . fogg was one of those englishmen who , while they do not tolerate duelling at home , fight abroad when their honour is attacked .",7,"('reply', 'répondre', 'responder')",0
+""" capital , "" replied harding .",4,"('reply', 'répondre', 'contestar')",1
+""" it was a political meeting , sir , "" replied the porter .",10,"('reply', 'répondre', 'responder')",0
+""" we were in a place where it was not very cold , "" replied porthos , giving his mustache a twist which was peculiar to him .",14,"('reply', 'répondre', 'responder')",0
+""" but that is not quite what i mean to ask you , aramis , "" replied athos . "" i want to know if you were left alone , and nobody interrupted you . """,16,"('reply', 'reprendre', 'proseguir')",3
+""" an excellent piece of beef , "" replied herbert .",8,"('reply', 'répondre', 'contestar')",1
+d’artagnan looked at athos to know if he ought to reply to this intruder who thus mixed unasked in their conversation .,10,"('reply', 'répondre', 'responder')",0
+""" one , sir , "" replied the mormon , raising his arms heavenward--""one , and that was enough ! """,6,"('reply', 'répondre', 'contestar')",1
+""" the bastion st . gervais , "" replied d’artagnan , "" from behind which the rochellais annoyed our workmen . """,8,"('reply', 'répondre', 'responder')",0
+""" you are right , madam , "" replied fix ; "" a meeting between them might ruin all . whether he were victorious or beaten , mr . fogg would be delayed , and-- """,8,"('reply', 'répondre', 'responder')",0
+""" i would do anything , "" replied fix , in a tone which betrayed determined will , "" to get him back living to europe ! """,7,"('reply', 'répondre', 'responder')",0
+""" yes , "" replied mr . fogg ; "" but they pass . """,4,"('reply', 'répondre', 'decir')",2
+""" _ watten ! _ "" replied the huntsman .",6,"('reply', 'répondre', 'responder')",0
+""" colonel , "" replied the conductor , "" we have telegraphed to omaha for a train , but it is not likely that it will reach medicine bow in less than six hours . """,4,"('reply', 'répondre', 'responder')",0
+""" yes , my boy , "" replied the engineer .",7,"('reply', 'répondre', 'contestar')",1
+""" well , "" replied pencroft , "" we will fortify ourselves against savages with two legs as well as against savages with four .",4,"('reply', 'répondre', 'decir')",2
+""" that is true , "" replied the engineer , "" but you forget , my friends , that it will be necessary to establish ourselves in the neighborhood of a watercourse , and that , from the summit of mount franklin , we could not see towards the west , either stream or river .",6,"('reply', 'répondre', 'reponer')",4
+""" well , never mind , let it cool , "" my uncle replied .",13,"('reply', 'répondre', 'responder')",0
+""" that is true , cyrus , "" replied the reporter , "" but we have already examined all that mass of granite , and there is not a hole , not a cranny ! """,8,"('reply', 'répondre', 'decir')",2
+""" no matter , "" replied forster ; "" i think that by putting on the very highest speed we might have a chance of getting over . """,5,"('reply', 'répondre', 'responder')",0
+""" eighty chances ! "" replied the passenger , turning his back on him .",5,"('reply', 'répondre', 'responder')",0
+""" and who plays it , "" replied phileas fogg coolly , throwing down the ten of spades .",7,"('reply', 'répondre', 'responder')",0
+""" when and where you will , "" replied the american , "" and with whatever weapon you choose . """,8,"('reply', 'répondre', 'responder')",0
+""" well , what 's that to me ? "" replied colonel proctor .",10,"('reply', 'répondre', 'responder')",0
+""" top smells some amphibious creature , "" replied herbert .",8,"('reply', 'répondre', 'contestar')",1
+""" judge not rashly , say the gospel and the cardinal , "" replied athos . "" how many guns , gentlemen ? """,13,"('reply', 'répondre', 'responder')",0
+""" twelve , "" replied aramis .",4,"('reply', 'répondre', 'responder')",0
+""" considerable importance , "" replied the engineer ; "" for if it flows through the cliff there is probably some cavity , which it would be easy to render habitable after turning away the water . """,5,"('reply', 'répondre', 'contestar')",1
+""" that might be , "" replied the engineer , "" and should it be so we shall be obliged to build our house ourselves , since nature has not done it for us . """,6,"('reply', 'répondre', 'contestar')",1
+""" not so bad yet , "" replied athos ; "" for by this time she must have quit the shores of france . """,7,"('reply', 'reprendre', 'proseguir')",3
+""" no , my dear spilett , "" replied the engineer , "" and i really do not know how to account for the incident of yesterday . """,8,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied the engineer , who had become thoughtful ; "" there is something there that i can not understand .",4,"('reply', 'répondre', 'contestar')",1
+""" i can not interrupt the trip , "" replied the conductor . "" we are already three hours behind time . """,9,"('reply', 'répondre', 'responder')",0
+""" well , "" replied cyrus harding , "" i will blow up the granite , and the water escaping , will subside , so as to lay bare this opening-- """,4,"('reply', 'répondre', 'contestar')",1
+""" masons,--no , but chemists , "" replied the engineer .",7,"('reply', 'répondre', 'reponer')",4
+""" gone , "" replied fix .",4,"('reply', 'répondre', 'responder')",0
+grimaud obeyed without replying .,3,"('reply', 'répondre', 'responder')",0
+""" i say i am entirely of porthos ’s opinion , "" replied aramis .",12,"('reply', 'répondre', 'responder')",0
+""" you think so , porthos ? "" replied the musketeer , with a sad smile which d’artagnan alone understood .",8,"('reply', 'répondre', 'responder')",0
+""" impossible , for three reasons , "" replied athos . "" the first , that we have not finished breakfast ; the second , that we still have some very important things to say ; and the third , that it yet wants ten minutes before the lapse of the hour . """,8,"('reply', 'répondre', 'responder')",0
+""" yes , my friend , "" replied the engineer , "" and this nitro - glycerine will produce so much the more effect , as the granite is extremely hard , and will oppose a greater resistance to the explosion . """,7,"('reply', 'répondre', 'contestar')",1
+""" to - morrow , as soon as we have dug a hole for the mine , replied the engineer . """,17,"('reply', 'répondre', 'contestar')",1
+""" the owners are myself , "" replied the captain . "" the vessel belongs to me . """,7,"('reply', 'répondre', 'responder')",0
+""" we will be on board at nine o'clock , "" replied , no less simply , mr . fogg .",11,"('reply', 'répondre', 'responder')",0
+""" ass ! "" replied the detective , shrugging his shoulders and turning on his heel .",4,"('reply', 'répondre', 'responder')",0
+""" without any doubt , the island , continents , and the world itself , "" replied the engineer .",16,"('reply', 'répondre', 'contestar')",1
+""" do not let the fires go down , "" replied mr . fogg . "" keep them up to the last . let the valves be filled . """,10,"('reply', 'répondre', 'responder')",0
+""" seven hundred and seven miles from liverpool , "" replied mr . fogg , with imperturbable calmness .",10,"('reply', 'répondre', 'responder')",0
+""" oh , captain , "" replied the sailor , "" with a little determination-- """,6,"('reply', 'répondre', 'contestar')",1
+""" here are sixty thousand , "" replied phileas fogg , handing the captain a roll of bank - bills . this had a prodigious effect on andrew speedy . an american can scarcely remain unmoved at the sight of sixty thousand dollars . the captain forgot in an instant his anger , his imprisonment , and all his grudges against his passenger . the henrietta was twenty years old ; it was a great bargain . the bomb would not go off after all . mr . fogg had taken away the match .",7,"('reply', 'répondre', 'responder')",0
+""" there is no harm in that . if he detested her , it would be all the better , "" replied athos .",21,"('reply', 'répondre', 'responder')",0
+""" yes , "" my uncle replied , "" the liedenbrock sea ; and i do n't suppose any other discoverer will ever dispute my claim to name it after myself as its first discoverer . """,6,"('reply', 'répondre', 'responder')",0
+""" stay , "" replied mr . fogg calmly , without betraying in his features that by a supreme inspiration he was about to attempt once more to conquer ill - fortune .",4,"('reply', 'répondre', 'responder')",0
+""" nearly a third , "" replied harding , "" for we have descended a hundred feet from the opening , and it is not impossible that a hundred feet farther down-- """,6,"('reply', 'répondre', 'reponer')",4
+""" let us join him , "" replied harding .",7,"('reply', 'répondre', 'reponer')",4
+""" what matters , "" replied the philosopher , "" whether this or another serves to guide us ? """,5,"('reply', 'répondre', 'responder')",0
+""" they are firing at the corpses , "" replied athos .",9,"('reply', 'répondre', 'responder')",0
+""" well , the creature , amphibious or otherwise , has made off through this opening , "" replied the engineer , "" and has left the place for us . """,18,"('reply', 'répondre', 'decir')",2
+""" what influence could i have ? "" replied aouda . "" mr . fogg is influenced by no one . has he ever understood that my gratitude to him is overflowing ? has he ever read my heart ? my friend , he must not be left alone an instant ! you say he is going to speak with me this evening ? """,8,"('reply', 'répondre', 'responder')",0
+""" i , mr . fogg ! "" replied aouda , checking the pulsations of her heart .",8,"('reply', 'répondre', 'responder')",0
+""" as for me , madam , "" replied the gentleman , coldly , "" i have need of nothing . """,8,"('reply', 'répondre', 'decir')",2
+""" to sell the diamond , "" replied aramis .",7,"('reply', 'répondre', 'responder')",0
+""" forward ! "" replied cyrus harding .",4,"('reply', 'répondre', 'contestar')",1
+""" at twenty - three minutes past seven , "" replied gauthier ralph ; "" and the next does not arrive till ten minutes after twelve . """,10,"('reply', 'répondre', 'responder')",0
+""" wait ; do n't let us be too hasty , "" replied samuel fallentin . "" you know that mr . fogg is very eccentric . his punctuality is well known ; he never arrives too soon , or too late ; and i should not be surprised if he appeared before us at the last minute . """,12,"('reply', 'répondre', 'responder')",0
+""" it is clear , "" replied gauthier ralph ; "" and we have nothing to do but to present mr . fogg 's cheque at barings to - morrow . """,6,"('reply', 'répondre', 'responder')",0
+""" my friend , "" replied harding , "" if it is easy for us to reach our dwelling by this passage , it will be equally easy for others besides us .",5,"('reply', 'répondre', 'decir')",2
+""" by an outside ladder , "" replied cyrus harding , "" a rope ladder , which , once drawn up , will render access to our dwelling impossible . """,7,"('reply', 'répondre', 'decir')",2
+""" of course we shall not be quite sure , till we have explored it in every direction , "" replied pencroft .",20,"('reply', 'répondre', 'contestar')",1
+""" monday , "" replied mr . fogg .",4,"('reply', 'répondre', 'responder')",0
+""" mr . fogg , "" replied she , "" it is for me to ask that question . you were ruined , but now you are rich again . """,6,"('reply', 'répondre', 'responder')",0
+""" what aramis says is very sensible , "" replied athos ; "" we must speculate upon the faults of people , and not upon their virtues . monsieur abbe , you are a great moralist . """,9,"('reply', 'reprendre', 'proseguir')",3
+""" yes , "" replied the reporter , "" so i see . """,4,"('reply', 'répondre', 'contestar')",1
+""" you may even say , my lord , "" replied athos , who stickled for propriety .",10,"('reply', 'reprendre', 'proseguir')",3
+""" doubtless , "" replied the engineer , "" but some winters in spain are very cold !",4,"('reply', 'répondre', 'contestar')",1
+""" nothing is easier , "" replied harding .",6,"('reply', 'répondre', 'responder')",0
+""" well , "" replied the latter , blushing , "" what must i say ? """,4,"('reply', 'répondre', 'responder')",0
+""" no ! "" replies my uncle .",4,"('reply', 'répondre', 'responder')",0
+""" we will make bread of it , "" replied cyrus harding .",9,"('reply', 'répondre', 'responder')",0
+""" one , i suppose ! "" replied the sailor , surprised at the question .",7,"('reply', 'répondre', 'reponer')",4
+""" no , "" replied the sailor ; "" but what i do know is , that i am nothing better than a fool ! """,4,"('reply', 'répondre', 'responder')",0
+""" in four years , "" replied cyrus harding , "" and even in two years , if , as i hope , in this latitude we can obtain two crops a year . """,6,"('reply', 'répondre', 'contestar')",1
+""" no , captain , no , we sha n't forget it , "" replied pencroft ; "" and if ever i find one of those tobacco - seeds , which multiply by three hundred and sixty thousand , i assure you i wo n't throw it away !",14,"('reply', 'répondre', 'decir')",2
+""" we must plant this grain , "" replied herbert .",8,"('reply', 'répondre', 'contestar')",1
+"neb remarked that the year finished on a bad day , but pencroft replied that naturally the next would begin on a good one , which was better .",13,"('reply', 'répondre', 'responder')",0
+""" that ’s all very well , "" replied d’artagnan ; "" but i am tired of fearing when i open a fresh bottle that the wine may come from the cellar of milady . """,8,"('reply', 'répondre', 'responder')",0
+""" no , "" replied herbert ; "" but zoologists have not yet found out if the eye of these foxes is diurnal or nocturnal , or whether it is correct to class them in the genus dog , properly so called . """,4,"('reply', 'répondre', 'responder')",0
+""" i believe that we should not have been able to reach it , "" replied the engineer , "" for the sea is deep , and there is not a rock on which we could have taken refuge .",15,"('reply', 'répondre', 'responder')",0
+""" why not ? "" replied cyrus harding .",5,"('reply', 'répondre', 'reponer')",4
+""" it is probable , "" replied cyrus harding , "" and that would sufficiently , explain the variety of productions which are seen on its surface . """,6,"('reply', 'répondre', 'responder')",0
+""" yes , my boy , "" replied the engineer , "" and you furnish me with an argument to support my theory .",7,"('reply', 'répondre', 'reponer')",4
+""" yes , "" replied harding , "" there will be new continents which millions and millions of animalculae are building at this moment . """,4,"('reply', 'répondre', 'reponer')",4
+"the gentleman raised his eyes slowly from the nag to his cavalier , as if he required some time to ascertain whether it could be to him that such strange reproaches were addressed ; then , when he could not possibly entertain any doubt of the matter , his eyebrows slightly bent , and with an accent of irony and insolence impossible to be described , he replied to d’artagnan , "" i was not speaking to you , sir . """,67,"('reply', 'répondre', 'responder')",0
+""" coral insects , "" replied cyrus harding .",5,"('reply', 'répondre', 'contestar')",1
+""" i do not often laugh , sir , "" replied the stranger , "" as you may perceive by the expression of my countenance ; but nevertheless i retain the privilege of laughing when i please . """,10,"('reply', 'reprendre', 'proseguir')",3
+""" no human creature ? "" replied my uncle in a lower voice . "" you are wrong , axel . look , look down there ! i fancy i see a living creature similar to ourselves : it is a man ! """,6,"('reply', 'répondre', 'responder')",0
+""" my dear cyrus , "" replied spilett , "" these theories are prophecies to me , and they will be accomplished some day . """,6,"('reply', 'répondre', 'responder')",0
+""" you may perceive , madame , by my uniform , that i am an officer in the english navy , "" replied the young man .",22,"('reply', 'répondre', 'responder')",0
+""" no , "" replied harding ; "" it is of a purely volcanic origin . """,4,"('reply', 'répondre', 'contestar')",1
+""" in the meantime , "" replied gideon spilett , "" let us establish ourselves here as if forever .",6,"('reply', 'répondre', 'decir')",2
+""" oh , no , your excellency , he is not the devil , "" replied the host , with a grin of contempt ; "" for during his fainting we rummaged his valise and found nothing but a clean shirt and eleven crowns -- which however , did not prevent his saying , as he was fainting , that if such a thing had happened in paris , you should have cause to repent of it at a later period . """,15,"('reply', 'reprendre', 'proseguir')",3
+""" yes , madame , "" replied the officer .",6,"('reply', 'répondre', 'responder')",0
+no voice replied to hers ; the carriage continued to roll on with rapidity ; the officer seemed a statue .,2,"('reply', 'répondre', 'responder')",0
+impossible to reply to this in the affirmative : my little world held a contrary opinion : i was silent .,2,"('reply', 'répondre', 'contestar')",1
+""" my boy , "" replied the sailor , bending over the trap and drawing out one of these representatives of the family of sus by the little appendage which served it as a tail . "" let me believe that these are pigs . """,5,"('reply', 'répondre', 'reponer')",4
+"the stranger was about to reply ; but at the moment he opened his mouth , d’artagnan , who had heard all , precipitated himself over the threshold of the door .",5,"('reply', 'répondre', 'responder')",0
+""" yes , fair lady ! "" replied lord de winter , making a bow , half courteous , half ironical ; "" it is i , myself . """,7,"('reply', 'répondre', 'responder')",0
+""" axel , "" replied the professor with perfect coolness , "" our situation is almost desperate ; but there are some chances of deliverance , and it is these that i am considering . if at every instant we may perish , so at every instant we may be saved . let us then be prepared to seize upon the smallest advantage . """,4,"('reply', 'répondre', 'responder')",0
+milady replied to this question by another question .,1,"('reply', 'répondre', 'responder')",0
+""" on the new continent , "" replied the lad , "" they are found from mexico to the pampas of buenos aires .",7,"('reply', 'répondre', 'contestar')",1
+""" but tell me , my dear sister , "" replied he , "" what makes you come to england ? """,10,"('reply', 'reprendre', 'proseguir')",3
+""" i come to see you , "" replied milady , without knowing how much she aggravated by this reply the suspicions to which d’artagnan ’s letter had given birth in the mind of her brother - in - law , and only desiring to gain the good will of her auditor by a falsehood .",8,"('reply', 'reprendre', 'proseguir')",3
+""" then that ’s my thief , "" replied d’artagnan . "" i will complain to monsieur de treville , and monsieur de treville will complain to the king . """,8,"('reply', 'répondre', 'responder')",0
+"ah , i can understand how the sight of him struck you , "" replied lord de winter . "" you came from a country where he must be very much talked of , and i know that his armaments against france greatly engage the attention of your friend the cardinal . """,14,"('reply', 'reprendre', 'proseguir')",3
+""" well , i reply that you shall be served to the height of your wishes , and that we shall see each other every day . """,4,"('reply', 'répondre', 'responder')",0
+""" no , "" replied my uncle , "" that is impossible -- quite impossible ! """,4,"('reply', 'répondre', 'responder')",0
+""" yes , "" replied the professor , eyeing me over his spectacles , "" i do n't see any other way of reaching the surface of the earth . """,4,"('reply', 'répondre', 'decir')",2
+""" it is a halt , "" replied my uncle .",7,"('reply', 'répondre', 'responder')",0
+""" no , "" replied gideon spilett , without showing any enthusiasm ; "" provided one does n't eat too much . """,4,"('reply', 'répondre', 'reponer')",4
+""" the matter ? the matter is that i have just broken a tooth ! "" replied the sailor .",16,"('reply', 'répondre', 'contestar')",1
+""" i had it from aramis , "" replied the musketeer .",8,"('reply', 'répondre', 'responder')",0
+""" say no more about it ? that ’s your opinion ! "" replied porthos .",13,"('reply', 'reprendre', 'proseguir')",3
+""" well , then , let us talk about it , since you desire it , "" replied aramis , patiently .",17,"('reply', 'reprendre', 'proseguir')",3
+""" and you -- you would pass rather a sad quarter - hour with the red duke , "" replied aramis . "" oh , the red duke !",19,"('reply', 'reprendre', 'proseguir')",3
+""" oh , it ’s only a temporary postponement , "" replied aramis ; "" i shall be one someday . you very well know , porthos , that i continue to study theology for that purpose . """,11,"('reply', 'reprendre', 'proseguir')",3
+""" they say that monsieur de buckingham is in france , "" replied aramis , with a significant smile which gave to this sentence , apparently so simple , a tolerably scandalous meaning .",12,"('reply', 'reprendre', 'proseguir')",3
+"be one or the other , but not both , "" replied porthos .",11,"('reply', 'reprendre', 'proseguir')",3
+""" porthos , you are as vain as narcissus ; i plainly tell you so , "" replied aramis . "" you know i hate moralizing , except when it is done by athos .",17,"('reply', 'répondre', 'responder')",0
+""" monseigneur , "" replied athos , for amid the general fright he alone had preserved the noble calmness and coolness that never forsook him , "" monseigneur , the musketeers , when they are not on duty , or when their duty is over , drink and play at dice , and they are certainly superior officers to their lackeys . """,4,"('reply', 'répondre', 'responder')",0
+""" neb 's supposition is certainly inadmissible , "" replied harding , who , notwithstanding the gravity of his thoughts , could not restrain a smile .",9,"('reply', 'répondre', 'responder')",0
+""" of wood , "" replied pencroft , "" of rather of bark .",5,"('reply', 'répondre', 'contestar')",1
+""" in five days , then , be it , "" replied the engineer .",11,"('reply', 'répondre', 'decir')",2
+""" ah , you gentlemen of policy ! "" replied the cardinal , knitting his brow in his turn , "" the secret of many unknown things might perhaps be found in your brains , if we could read them as you read that letter which you concealed as soon as you saw me coming . """,9,"('reply', 'reprendre', 'proseguir')",3
+""" thus i have told your eminence that you had but to question us , and we are ready to reply . """,20,"('reply', 'répondre', 'responder')",0
+""" it is feared that it may be the smallpox , sir , "" replied porthos , desirous of taking his turn in the conversation ; "" and what is serious is that it will certainly spoil his face . """,14,"('reply', 'répondre', 'responder')",0
+grimaud was about to reply to excuse himself .,4,"('reply', 'répondre', 'responder')",0
+""" very astonishing if they are still here , "" replied the reporter , "" but not astonishing at all if they are here no longer ! """,10,"('reply', 'répondre', 'contestar')",1
+""" the idea is good , "" replied the reporter ; "" but could you climb to the top of those giants ? """,7,"('reply', 'répondre', 'responder')",0
+""" i can at least try , "" replied herbert .",8,"('reply', 'répondre', 'reponer')",4
+""" i did not know that , "" replied m. de treville , in a somewhat softened tone .",8,"('reply', 'reprendre', 'proseguir')",3
+""" nothing is easier , neb , "" replied herbert .",8,"('reply', 'répondre', 'contestar')",1
+""" it appears so , "" replied herbert , who could not understand it at all , and was gazing at the stones scattered on the sand .",6,"('reply', 'répondre', 'reponer')",4
+""" on the contrary , neb , we must speak about it , "" replied herbert .",14,"('reply', 'répondre', 'decir')",2
+""" it is indeed a favor , young man , "" replied m. de treville , "" but it may not be so far beyond your hopes as you believe , or rather as you appear to believe .",11,"('reply', 'répondre', 'responder')",0
+"d’artagnan bowed without replying , feeling his desire to don the musketeer ’s uniform vastly increased by the great difficulties which preceded the attainment of it .",3,"('reply', 'répondre', 'responder')",0
+""" that is true , my boy , "" replied cyrus harding .",9,"('reply', 'répondre', 'contestar')",1
+""" fifteen feet at the most , "" replied herbert .",8,"('reply', 'répondre', 'responder')",0
+""" well , "" replied the engineer , "" what the turtle could not do on the sand it might have been able to do in the water .",4,"('reply', 'répondre', 'decir')",2
+""" i certainly am surprised , "" replied m. de treville , "" that you should undertake so long a journey without that necessary passport , the sole resource of us poor bearnese . """,7,"('reply', 'répondre', 'responder')",0
+""" i thank you , sir , "" replied the prisoner , humbly .",8,"('reply', 'répondre', 'responder')",0
+""" so , "" replied de winter , laughing , "" that beautiful hair so skillfully disheveled , that white skin , and that languishing look , have not yet seduced you , you heart of stone ? """,4,"('reply', 'reprendre', 'proseguir')",3
+""" no , my lord , "" replied the impassive young man ; "" your lordship may be assured that it requires more than the tricks and coquetry of a woman to corrupt me . """,7,"('reply', 'répondre', 'responder')",0
+""" barrels , barrels , which perhaps are full , "" replied the sailor .",11,"('reply', 'répondre', 'contestar')",1
+""" that is to say , "" replied d’artagnan , "" that you will wait until i have proved myself worthy of it .",7,"('reply', 'reprendre', 'proseguir')",3
+""" we shall find that out , pencroft , "" replied the engineer ; "" but trust to me , and do not break the chest , which may be useful to us .",10,"('reply', 'répondre', 'reponer')",4
+""" he , my thief ! "" replied d’artagnan .",7,"('reply', 'répondre', 'responder')",0
+""" i hope not , "" replied the reporter .",6,"('reply', 'répondre', 'decir')",2
+""" yes , my boy , "" replied the engineer , "" that may have been the case .",7,"('reply', 'répondre', 'reponer')",4
+""" as to that apparatus , "" replied harding , "" i do not quite see the use of it ; and a more complete supply of clothes or more abundant ammunition would have been more valuable to us as well as to any other castaways ! """,7,"('reply', 'répondre', 'reponer')",4
+""" no , "" replied d’artagnan , piqued , "" and thanks to my eyes , i can see what other people can not see . """,4,"('reply', 'répondre', 'responder')",0
+""" explain yourself , my lord , "" replied the prisoner , with majesty ; "" for though i hear your words , i declare i do not understand them . """,8,"('reply', 'reprendre', 'proseguir')",3
+""" then you have no religion at all ; i like that best , "" replied lord de winter , laughing .",15,"('reply', 'reprendre', 'proseguir')",3
+""" very well , at one o’clock , then , "" replied d’artagnan , turning the angle of the street .",11,"('reply', 'répondre', 'responder')",0
+""" you only speak thus because you are overheard , "" coolly replied milady ; "" and you wish to interest your jailers and your hangmen against me . """,12,"('reply', 'répondre', 'responder')",0
+""" half a pound of tobacco , "" replied pencroft seriously , "" and nothing would have been wanting to complete my happiness ! """,8,"('reply', 'répondre', 'contestar')",1
+""" willingly , "" replied cyrus harding .",4,"('reply', 'répondre', 'decir')",2
+""" you make the demand badly , "" replied aramis ; "" and while acknowledging the justice of your reclamation , i refuse it on account of the form . """,8,"('reply', 'répondre', 'responder')",0
+""" and you were deceived , my dear sir , "" replied aramis , coldly , very little sensible to the reparation .",11,"('reply', 'répondre', 'responder')",0
+""" no , pencroft , "" replied herbert ; "" this is not tobacco , it is mustard . """,6,"('reply', 'répondre', 'decir')",2
+""" pooh ! "" replied pencroft .",4,"('reply', 'répondre', 'decir')",2
+""" i think that you are mistaken , pencroft , "" replied gideon spilett , "" and that the wood of the eucalyptus has begun to be very advantageously employed in cabinet - making . """,11,"('reply', 'répondre', 'reponer')",4
+""" not too much so , "" replied d’artagnan , with a bow that was not deficient in dignity , "" since you do me the honor to draw a sword with me while suffering from a wound which is very inconvenient . """,7,"('reply', 'répondre', 'responder')",0
+""" or , rather , who pretend not to understand me , sir ! "" replied the prisoner , with a smile of incredulity .",15,"('reply', 'répondre', 'responder')",0
+""" whom pagans and unbelieving gentiles call duke of buckingham , "" replied milady . "" i could not have thought that there was an englishman in all england who would have required so long an explanation to make him understand of whom i was speaking . """,12,"('reply', 'reprendre', 'proseguir')",3
+""" about seven miles , "" replied the engineer , "" taking into calculation , however , the detours of the river , which has carried us to the northwest . """,6,"('reply', 'répondre', 'contestar')",1
+""" yes , as long as we can , "" replied cyrus harding .",10,"('reply', 'répondre', 'contestar')",1
+""" but not before one o’clock , "" replied d’artagnan .",8,"('reply', 'répondre', 'responder')",0
+""" oh , ours is a theological quarrel , "" replied aramis , making a sign to d’artagnan to keep secret the cause of their duel .",10,"('reply', 'répondre', 'responder')",0
+""" that order does not concern me , "" replied milady , coldly , "" since it bears another name than mine . """,9,"('reply', 'répondre', 'responder')",0
+""" very well , "" replied cyrus harding .",5,"('reply', 'répondre', 'reponer')",4
+""" that ’s true , "" replied d’artagnan ; "" i have not the uniform , but i have the spirit .",6,"('reply', 'répondre', 'responder')",0
+""" come , come , choose your part , "" replied jussac .",10,"('reply', 'reprendre', 'proseguir')",3
+""" of what consequence ? "" replied milady .",6,"('reply', 'répondre', 'responder')",0
+""" when god sees one of his creatures persecuted unjustly , placed between suicide and dishonor , believe me , sir , "" replied milady , in a tone of deep conviction , "" god pardons suicide , for then suicide becomes martyrdom . """,23,"('reply', 'répondre', 'responder')",0
+""" we are about to have the honor of charging you , "" replied aramis , lifting his hat with one hand and drawing his sword with the other .",13,"('reply', 'répondre', 'responder')",0
+""" but i repeat it again to you , "" replied felton , in great emotion , "" no danger threatens you ; i will answer for lord de winter as for myself . """,10,"('reply', 'reprendre', 'proseguir')",3
+""" perfect , my boy , perfect ! "" replied pencroft .",9,"('reply', 'répondre', 'decir')",2
+""" well , my boy , "" replied the reporter , "" you could have done the same . """,7,"('reply', 'répondre', 'decir')",2
+""" into the jaguar 's house , then ! "" replied the sailor , dragging after him the body of the animal .",10,"('reply', 'répondre', 'decir')",2
+""" no , sire , "" replied treville , who saw at the first glance how things would go , "" on the contrary , they are good creatures , as meek as lambs , and have but one desire , i ’ll be their warranty . and that is that their swords may never leave their scabbards but in your majesty ’s service .",6,"('reply', 'répondre', 'responder')",0
+""" a knife , which she would return to me through the grating of the door a minute after she had received it , "" replied felton .",25,"('reply', 'répondre', 'responder')",0
+""" there is myself , "" replied milady .",6,"('reply', 'répondre', 'responder')",0
+""" about thirty miles , "" replied the engineer , "" if we take into consideration the curvings of the coast . """,6,"('reply', 'répondre', 'contestar')",1
+""" make it forty miles in all , "" replied the engineer , "" and do not hesitate to do it .",9,"('reply', 'répondre', 'decir')",2
+""" listen , "" replied felton , in a low voice . "" i have just sent away the sentinel that i might remain here without anybody knowing it , in order to speak to you without being overheard .",4,"('reply', 'répondre', 'responder')",0
+""" by the mercy ! of course , "" replied herbert , "" and we shall have neither bridge nor boat by which to cross . """,9,"('reply', 'répondre', 'decir')",2
+""" there might be pieces of wood on the rocks , but nothing on the sands , "" replied the sailor .",18,"('reply', 'répondre', 'decir')",2
+""" and as since that which you have said is too clear to require any explanation , "" replied d’artagnan , in a low voice , "" i beg you to follow me . """,18,"('reply', 'répondre', 'responder')",0
+""" this , "" replied the engineer , "" that three months or more ago , a vessel , either voluntarily or not , came here . """,4,"('reply', 'répondre', 'contestar')",1
+""" what you say is full of sense , "" replied d’artagnan ; "" but unfortunately i have very little time to spare , having an appointment at twelve precisely .",10,"('reply', 'répondre', 'responder')",0
+""" no , your excellency , "" replied the valet de chambre , "" the master of the hounds came this morning to inform him that he had marked down a stag .",7,"('reply', 'répondre', 'responder')",0
+""" in all probability he has , "" replied the valet , "" for i saw the horses harnessed to his eminence ’s carriage this morning , and when i asked where he was going , they told me , ’ to st . germain . ’ """,8,"('reply', 'répondre', 'responder')",0
+""" we shall see , pencroft , "" replied cyrus harding ; "" we shall see . """,8,"('reply', 'répondre', 'contestar')",1
+""" i have no objection , "" replied m. de la tremouille , "" but i warn you that i am well informed , and all the fault is with your musketeers . """,7,"('reply', 'répondre', 'responder')",0
+""" bad , monsieur , bad ! "" replied the king ; "" i am bored . """,8,"('reply', 'répondre', 'responder')",0
+"she continued , then , as if she had not heard his exclamation , or as if she thought the moment was not yet come to reply to it .",26,"('reply', 'répondre', 'responder')",0
+""" who but the hunter who fired the bullet ? "" replied the reporter .",11,"('reply', 'répondre', 'contestar')",1
+""" is it thus you perform your charge , monsieur ? "" continued the king , without directly replying to de treville ’s question . "" is it for this i name you captain of my musketeers , that they should assassinate a man , disturb a whole quarter , and endeavor to set fire to paris , without your saying a word ?",18,"('reply', 'répondre', 'responder')",0
+"but no voice replied to pencroft , who in vain repeated his vigorous shouts .",3,"('reply', 'répondre', 'responder')",0
+""" sire , "" replied m. de treville , calmly , "" on the contrary , i come to demand it of you . """,4,"('reply', 'répondre', 'responder')",0
+"this is something new , "" replied the king .",6,"('reply', 'reprendre', 'proseguir')",3
+""" i mustered all my strength to reply to him with a burst of laughter .",7,"('reply', 'répondre', 'responder')",0
+""" magnificent , if you like , "" replied pencroft ; "" but still i do not see how we are to get into our house . """,8,"('reply', 'répondre', 'contestar')",1
+""" have patience , "" replied harding ; "" these creatures can not keep us long at bay . """,5,"('reply', 'répondre', 'responder')",0
+"it was difficult to reply to pencroft , and as for the young boy making another attempt , that was not easy ; for the lower part of the ladder had been drawn again into the door , and when another pull was given , the line broke and the ladder remained firm .",4,"('reply', 'répondre', 'responder')",0
+""" let us try to enter granite house by the old opening at the lake , "" replied the engineer .",17,"('reply', 'répondre', 'contestar')",1
+""" and therein consisted the infamy , "" replied milady .",8,"('reply', 'répondre', 'responder')",0
+""" yes , neb , "" replied the engineer , smiling .",6,"('reply', 'répondre', 'contestar')",1
+the orang replied by a little grunt which did not show any anger .,2,"('reply', 'répondre', 'responder')",0
+""" let us tie its lower end down firmly , "" replied cyrus harding .",11,"('reply', 'répondre', 'contestar')",1
+""" oh , i do n’t doubt that , "" replied d’artagnan ; "" but it seems to me that you are tolerably familiar with coats of arms -- a certain embroidered handkerchief , for instance , to which i owe the honor of your acquaintance ? """,10,"('reply', 'reprendre', 'proseguir')",3
+"this time aramis was not angry , but assumed the most modest air and replied in a friendly tone , "" my dear friend , do not forget that i wish to belong to the church , and that i avoid all mundane opportunities .",14,"('reply', 'répondre', 'responder')",0
+"milady replied that she was too weak at present , and that her only desire was to be left alone .",1,"('reply', 'répondre', 'responder')",0
+""" oh , it is a proof that the lord is on our side , felton , "" replied milady . "" they have closed up the grating with a board . """,18,"('reply', 'reprendre', 'proseguir')",3
+"nothing was heard but that , and jup without ever being disconcerted , replied to every one , watched for everything , and he shook his head in a knowing way when pencroft , referring to his joke of the first day , said to him,--",13,"('reply', 'répondre', 'responder')",0
+""" yes , monsieur , "" replied the terrified citizen , in a tone so low that he was scarcely audible .",6,"('reply', 'répondre', 'responder')",0
+""" yes , monsieur , "" replied the citizen , giving a still fainter intonation to his voice .",6,"('reply', 'répondre', 'responder')",0
+"a similar signal replied to him ; and five minutes after , a boat appeared , rowed by four men .",3,"('reply', 'répondre', 'responder')",0
+""" pardieu ! know it ! "" replied d’artagnan , who knew nothing about it , but who wished to appear to know everything that was going on .",7,"('reply', 'répondre', 'responder')",0
+""" saved ! "" replied the young officer .",4,"('reply', 'répondre', 'responder')",0
+a sailor on watch hailed the boat ; the boat replied .,10,"('reply', 'répondre', 'responder')",0
+""" how can it be otherwise , my dear bonacieux ? "" replied d’artagnan ; "" trust me , i am fully grateful for such unparalleled conduct , and if , as i told you , i can be of any service to you-- """,12,"('reply', 'reprendre', 'proseguir')",3
+"the captain replied by ordering the necessary maneuvers , and toward seven o’clock in the morning the little vessel cast anchor in the bay that had been named .",2,"('reply', 'répondre', 'responder')",0
+""" well , pencroft , we will try to please you , "" replied cyrus harding .",13,"('reply', 'répondre', 'decir')",2
+""" the man of meung ! "" replied d’artagnan , and disappeared .",7,"('reply', 'répondre', 'responder')",0
+""" it is of that prisoner that i wish to speak to your grace , "" replied felton .",16,"('reply', 'reprendre', 'proseguir')",3
+""" no , captain , "" replied herbert ; "" but its stem contains a flour with which nature has provided us all ready ground . """,6,"('reply', 'répondre', 'contestar')",1
+""" well , my boy , "" replied the engineer , "" this is a valuable discovery , since our wheat harvest is not yet ripe ; i hope that you are not mistaken ! """,7,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied d’artagnan , "" from this very day ; and mind , if the wine is bad , we will send him to find better . """,4,"('reply', 'répondre', 'responder')",0
+""" yes , sir , i know it , "" replied the duke , dipping the quill in the ink .",10,"('reply', 'répondre', 'responder')",0
+""" i always said that d’artagnan had the longest head of the four , "" said athos , who , having uttered his opinion , to which d’artagnan replied with a bow , immediately resumed his accustomed silence .",28,"('reply', 'répondre', 'responder')",0
+""" be satisfied , "" replied d’artagnan ; "" the honor of no one will have cause to complain of what i have to tell . """,5,"('reply', 'répondre', 'responder')",0
+""" and knowing that real name , my lord , "" replied felton , "" will you sign it all the same ? """,11,"('reply', 'reprendre', 'proseguir')",3
+""" no , "" replied the engineer .",4,"('reply', 'répondre', 'contestar')",1
+""" spain is her country , "" replied d’artagnan ; "" and it is very natural that she should love the spanish , who are the children of the same soil as herself .",7,"('reply', 'répondre', 'responder')",0
+""" we shall know to - morrow , "" replied cyrus harding , "" and if it had not been for the occupations which left me no leisure , we should have known it already . """,9,"('reply', 'répondre', 'reponer')",4
+""" about a hundred and fifty miles to the northeast , "" replied harding .",12,"('reply', 'répondre', 'contestar')",1
+""" ah , if you laugh , if you doubt me , "" replied aramis , "" you shall know nothing . """,13,"('reply', 'reprendre', 'proseguir')",3
+""" porthos , "" replied aramis , "" i have had the occasion to observe to you more than once that you are very indiscreet ; and that is injurious to you among the women . """,4,"('reply', 'reprendre', 'proseguir')",3
+""" five bushels , "" replied the engineer ; "" and a hundred and thirty thousand grains a bushel will make six hundred and fifty thousand grains . """,5,"('reply', 'répondre', 'contestar')",1
+""" yes , monseigneur , "" replied the faithful cloak bearer of anne of austria , "" but too late , perhaps . """,6,"('reply', 'répondre', 'responder')",0
+""" i believe so , "" replied aramis .",6,"('reply', 'répondre', 'responder')",0
+""" just so , "" replied aramis .",5,"('reply', 'répondre', 'responder')",0
+""" ah ! an idea occurs to me , mr . spilett , "" replied herbert .",14,"('reply', 'répondre', 'decir')",2
+""" we can only save you by being free ourselves , "" replied d’artagnan , in a rapid , low tone ; "" and if we appear inclined to defend you , they will arrest us with you . """,12,"('reply', 'répondre', 'responder')",0
+""" oh , mr . spilett , that does n't prove anything ! "" replied pencroft .",14,"('reply', 'répondre', 'contestar')",1
+""" thank you , mr . spilett , "" replied the sailor , "" i am going back to my work . """,9,"('reply', 'répondre', 'contestar')",1
+""" only to leave it for a few days , "" replied pencroft , "" only for a few days , captain .",11,"('reply', 'répondre', 'contestar')",1
+""" pencroft , "" replied the engineer , placing his hand on the sailor 's shoulder , "" if any misfortune happens to you , or to this lad , whom chance has made our child , do you think we could ever cease to blame ourselves ? """,4,"('reply', 'répondre', 'reponer')",4
+but the abbess contented herself with listening and smiling without replying a word .,10,"('reply', 'répondre', 'responder')",0
+""" towards new zealand , "" replied herbert .",6,"('reply', 'répondre', 'contestar')",1
+""" yes , the most precious indeed , "" replied the engineer ; "" and it would seem that nature wished to prove that it was so by making the diamond , which is simply pure carbon crystallized . """,9,"('reply', 'répondre', 'contestar')",1
+""" no , my friend , "" replied harding .",7,"('reply', 'répondre', 'contestar')",1
+""" with the increasing consumption of coal , "" replied gideon spilett , "" it can be foreseen that the hundred thousand workmen will soon become two hundred thousand , and that the rate of extraction will be doubled . """,9,"('reply', 'répondre', 'reponer')",4
+""" and yet i speak ill of him , "" replied milady , finishing the thought of the superior .",10,"('reply', 'reprendre', 'proseguir')",3
+""" water , "" replied harding .",4,"('reply', 'répondre', 'responder')",0
+""" yes , but water decomposed into its primitive elements , "" replied cyrus harding , "" and decomposed doubtless , by electricity , which will then have become a powerful and manageable force , for all great discoveries , by some inexplicable laws , appear to agree and become complete at the same time .",12,"('reply', 'répondre', 'reponer')",4
+""" no , madame , "" replied the novice , "" only i thought i had chosen my time ill ; you were asleep , you are fatigued . """,6,"('reply', 'répondre', 'responder')",0
+""" that does not prevent , "" replied milady , softening her smile so as to give it an angelic expression , "" my being alone or being persecuted . """,7,"('reply', 'reprendre', 'proseguir')",3
+""" no , neb , "" replied the sailor ; "" i have the rigging of the vessel to finish and to look after , and you will have to do without me . """,6,"('reply', 'répondre', 'contestar')",1
+""" i must go to the corral to - morrow , neb , "" replied the lad .",14,"('reply', 'répondre', 'contestar')",1
+""" to oblige you , neb , i will , "" replied the reporter ; "" but i warn you that if you disclose your recipes to me , i shall publish them . """,11,"('reply', 'répondre', 'reponer')",4
+""" all those he is in the habit of receiving ! "" replied milady , for whom this conversation began to have a real interest .",12,"('reply', 'répondre', 'responder')",0
+""" wolves , jaguars , or apes ? "" replied neb .",9,"('reply', 'répondre', 'contestar')",1
+""" they must have crossed the bridge on the shore , "" replied the engineer , "" which one of us must have forgotten to close . """,12,"('reply', 'répondre', 'contestar')",1
+"the young woman in the street replied by a single tap , and the shutter was opened a little way .",6,"('reply', 'répondre', 'responder')",0
+""" and we will save him , "" replied the sailor . "" we will nurse him as if he was one of ourselves . """,8,"('reply', 'répondre', 'reponer')",4
+""" yes , "" replied she , trying to recover her self - possession . "" who wants me ? """,4,"('reply', 'répondre', 'responder')",0
+""" my word , no , "" replied neb .",7,"('reply', 'répondre', 'contestar')",1
+""" nothing , "" replied neb ; "" nothing , captain . """,4,"('reply', 'répondre', 'contestar')",1
+""" she appears to behave well , "" replied the engineer .",8,"('reply', 'répondre', 'contestar')",1
+""" my friend , "" replied harding , "" i think that in any pressing emergency we need not hesitate to trust ourselves to the ' bonadventure ' even for a longer voyage ; but you know i should see you set off to tabor island with great uneasiness , since nothing obliges you to go there . """,5,"('reply', 'répondre', 'reponer')",4
+"the obstinate sailor did not reply , and let the conversation drop , quite determined to resume it again .",5,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied mme . bonacieux ; "" therefore , ask my own secrets , and i will reveal them to you ; but those of others -- that is quite another thing . """,4,"('reply', 'répondre', 'responder')",0
+""" no , pencroft , "" replied cyrus harding ; "" and you shall set out as soon as possible . """,6,"('reply', 'répondre', 'contestar')",1
+""" perhaps you are right , pencroft , "" replied the engineer ; "" and yet-- """,9,"('reply', 'répondre', 'reponer')",4
+""" nothing , "" replied gideon spilett , "" and the document appears even to have been recently written .",4,"('reply', 'répondre', 'contestar')",1
+""" it is not quite so deserted as all that , "" replied pencroft .",12,"('reply', 'répondre', 'contestar')",1
+""" badly , monsieur , badly ! "" replied a voice which the young man recognized as that of planchet ; for , soliloquizing aloud , as very preoccupied people do , he had entered the alley , at the end of which were the stairs which led to his chamber .",8,"('reply', 'répondre', 'responder')",0
+""" so as to do here , "" replied herbert , "" that which captain harding did the very first thing on lincoln island , by climbing mount franklin . """,8,"('reply', 'répondre', 'responder')",0
+""" yes , "" replied the stranger .",4,"('reply', 'répondre', 'responder')",0
+""" doubtless , "" replied gideon spilett , "" but to see the state in which we find these plantations , it is to be feared that the island has not been inhabited for some time . """,4,"('reply', 'répondre', 'reponer')",4
+""" my lord , yes ; it is possible that the influence of the place , the charm of the beautiful evening , the fascination of your look -- the thousand circumstances , in short , which sometimes unite to destroy a woman -- were grouped around me on that fatal evening ; but , my lord , you saw the queen come to the aid of the woman who faltered . at the first word you dared to utter , at the first freedom to which i had to reply , i called for help . """,90,"('reply', 'répondre', 'responder')",0
+""" alas ! there is no doubt about it , "" replied spilett .",11,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied gideon spilett , "" but the unfortunate man has no longer anything human about him ! """,4,"('reply', 'répondre', 'reponer')",4
+""" yes , yes ! "" replied herbert , "" and perhaps with care we may arouse in him some gleam of intelligence . """,6,"('reply', 'répondre', 'contestar')",1
+""" constance ? constance ? "" replied the young man , "" where are you ? where are you ?",6,"('reply', 'répondre', 'responder')",0
+""" it is difficult to say , "" replied the reporter , "" for it is impossible to see his features under the thick beard which covers his face , but he is no longer young , and i suppose he might be about fifty . """,8,"('reply', 'répondre', 'reponer')",4
+"the accused replied that his name was jacques michel bonacieux , that he was fifty - one years old , a retired mercer , and lived rue des fossoyeurs , no . 14 .",2,"('reply', 'répondre', 'responder')",0
+""" yes , monsieur , "" replied the mercer , in a tremble , feeling that it was at this point affairs were likely to become perplexing ; "" that is to say , i had one . """,6,"('reply', 'répondre', 'responder')",0
+""" no , "" replied gideon spilett ; "" on the contrary , everything went wonderfully well .",4,"('reply', 'répondre', 'contestar')",1
+""" excuse me , captain , "" replied the sailor , "" we are four . """,7,"('reply', 'répondre', 'reponer')",4
+""" he is , "" replied the reporter , "" or rather he was a man !",5,"('reply', 'répondre', 'contestar')",1
+""" certainly you have , pencroft , "" replied the engineer quickly .",8,"('reply', 'répondre', 'responder')",0
+""" no , "" replied athos , "" fortunately monsieur d’artagnan has only fainted . """,4,"('reply', 'répondre', 'responder')",0
+""" that is possible at present , "" replied cyrus harding , "" but only a few months ago the wretched creature was a man like you and me .",8,"('reply', 'répondre', 'decir')",2
+""" because the document would then have spoken of two castaways , "" replied harding , "" and it mentioned only one . """,13,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied the engineer .",4,"('reply', 'répondre', 'contestar')",1
+""" not the least in the world , "" replied bonacieux .",9,"('reply', 'répondre', 'responder')",0
+""" athos , "" replied the musketeer .",4,"('reply', 'répondre', 'responder')",0
+""" in port balloon , "" replied the sailor .",6,"('reply', 'répondre', 'contestar')",1
+""" do it then , pencroft , and take your ' bonadventure ' there , "" replied the engineer , "" and yet i would rather have her under our more immediate protection .",16,"('reply', 'répondre', 'contestar')",1
+""" to wait , "" replied athos .",5,"('reply', 'répondre', 'responder')",0
+""" to wait ! "" replied athos .",5,"('reply', 'répondre', 'responder')",0
+""" castaways , like you , "" replied the engineer , whose emotion was deep .",7,"('reply', 'répondre', 'contestar')",1
+"you are stupid , "" replied the cardinal .",5,"('reply', 'reprendre', 'proseguir')",3
+""" december , "" replied herbert .",4,"('reply', 'répondre', 'contestar')",1
+""" you must be right , pencroft , "" replied the reporter , "" and if it is so it is not impossible that those who left him on the island may return to fetch him some day ! """,9,"('reply', 'répondre', 'decir')",2
+""" that is probable , "" replied cyrus harding .",6,"('reply', 'répondre', 'responder')",0
+""" that is not absolutely impossible , "" replied the reporter .",8,"('reply', 'répondre', 'contestar')",1
+""" it is for me to reply to that ! """,6,"('reply', 'répondre', 'responder')",0
+""" he will come back , "" replied the engineer .",7,"('reply', 'répondre', 'decir')",2
+""" the punishment of death , "" replied d’artagnan .",7,"('reply', 'répondre', 'responder')",0
+""" there is no need for it to go so very fast , "" replied cyrus harding .",14,"('reply', 'répondre', 'reponer')",4
+"and the cardinal made him a sign with his hand , to which bonacieux replied by bowing to the ground . he then went out backward , and when he was in the antechamber the cardinal heard him , in his enthusiasm , crying aloud , "" long life to the monseigneur ! long life to his eminence ! long life to the great cardinal ! """,14,"('reply', 'répondre', 'responder')",0
+""" no , "" replied the stranger in a hoarse voice ; "" no !",4,"('reply', 'répondre', 'contestar')",1
+""" on the other bank , "" replied the executioner .",7,"('reply', 'répondre', 'responder')",0
+"the messenger , without replying a single word , bowed , took the letter , with the order for the two hundred pistoles , and retired .",4,"('reply', 'répondre', 'responder')",0
+""" thank you , sir , "" replied the stranger as he withdrew .",7,"('reply', 'répondre', 'responder')",0
+"the engineer announced to the stranger that his dwelling was ready to receive him , and the latter replied that he would go and sleep there that very evening .",18,"('reply', 'répondre', 'responder')",0
+""" a written examination attests it , "" said the cardinal , replying aloud to the mute interrogation of his majesty ; "" and the ill - treated people have drawn up the following , which i have the honor to present to your majesty . """,12,"('reply', 'répondre', 'responder')",0
+""" and is the written report of the gownsmen to be placed in comparison with the word of honor of a swordsman ? "" replied treville haughtily .",24,"('reply', 'répondre', 'responder')",0
+""" we are ready to hear you , "" replied harding .",9,"('reply', 'répondre', 'reponer')",4
+""" well , "" replied the cardinal , who could not for an instant suspect the loyalty of treville , and who felt that the victory was escaping him , "" well , but athos was taken in the house in the rue des fossoyeurs . """,4,"('reply', 'répondre', 'responder')",0
+""" of milady de winter , "" replied d’artagnan , "" yes , of milady de winter , of whose crimes your eminence is doubtless ignorant , since you have honored her with your confidence . """,7,"('reply', 'répondre', 'responder')",0
+""" ' a scotchman like yourself , my lord , ' replied the man ; ' i am one of captain grant 's crew -- one of the castaways of the "" britannia . ' """,11,"('reply', 'répondre', 'responder')",0
+""" only , "" replied treville , "" it is a sad thing that in the unfortunate times in which we live , the purest life , the most incontestable virtue , can not exempt a man from infamy and persecution .",4,"('reply', 'reprendre', 'proseguir')",3
+""" another might reply to your eminence that he had his pardon in his pocket . i content myself with saying : command , monseigneur ; i am ready . """,3,"('reply', 'répondre', 'responder')",0
+""" sire , "" replied treville , without lowering his voice in the least , "" either order my musketeer to be restored to me , or let him be tried . """,4,"('reply', 'répondre', 'responder')",0
+""" i shall never forget it , "" replied d’artagnan . "" your eminence may be certain of that . """,8,"('reply', 'répondre', 'responder')",0
+""" an opportunity will come , "" replied rochefort .",7,"('reply', 'répondre', 'responder')",0
+""" here i am , my friends , "" replied d’artagnan ; "" not only free , but in favor . """,9,"('reply', 'répondre', 'responder')",0
+""" captain harding , leave me some time longer , "" replied ayrton , "" leave me alone in the hut in the corral ! """,11,"('reply', 'répondre', 'contestar')",1
+""" it can only be explained in that way , my friends , "" replied harding quickly , "" and i understand now how ayrton was able to point out exactly the situation of tabor island , since the events which had preceded his being left on the island had made it known to him . """,14,"('reply', 'répondre', 'responder')",0
+""" of course it must be so , "" replied pencroft , "" without that the fact would be unaccountable . """,9,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied the reporter .",4,"('reply', 'répondre', 'contestar')",1
+""" you are young , "" replied athos ; "" and your bitter recollections have time to change themselves into sweet remembrances . """,6,"('reply', 'répondre', 'responder')",0
+""" sire , "" replied the cardinal , sighing , "" i believed myself secure from such a suspicion . """,4,"('reply', 'répondre', 'responder')",0
+""" yes ! "" replied the engineer quickly , "" yes , even if i have to penetrate into the bowels of this island ! """,4,"('reply', 'répondre', 'contestar')",1
+""" electric , "" replied cyrus harding .",4,"('reply', 'répondre', 'contestar')",1
+""" i do not say no , "" replied pencroft , who had always the casting vote in maritime questions ; "" i do not say no , although it is not exactly the same thing to make a long as a short voyage !",8,"('reply', 'répondre', 'reponer')",4
+"the frigate then went along the new jersey coast -- the wonderful right bank of this river , all loaded down with country homes-- and passed by the forts to salutes from their biggest cannons . the abraham lincoln replied by three times lowering and hoisting the american flag , whose thirty - nine stars gleamed from the gaff of the mizzen sail ; then , changing speed to take the buoy - marked channel that curved into the inner bay formed by the spit of sandy hook , it hugged this sand - covered strip of land where thousands of spectators acclaimed us one more time .",39,"('reply', 'répondre', 'responder')",0
+"she asked upon what day this fete would take place , but the king replied that he must consult the cardinal upon that head .",14,"('reply', 'répondre', 'responder')",0
+""" that is the more certain , "" replied herbert , "" as lincoln island is not even marked on the map . """,8,"('reply', 'répondre', 'decir')",2
+""" yes , "" replied harding , "" it was too late , and we must put off the voyage until next spring . """,4,"('reply', 'répondre', 'decir')",2
+""" that is not probable , "" replied the engineer , "" for lord glenarvan would not choose the winter season to venture into these seas .",7,"('reply', 'répondre', 'reponer')",4
+"the harpooner stared at me awhile before replying , slapped his broad forehead in one of his standard gestures , closed his eyes as if to collect himself , and finally said :",7,"('reply', 'répondre', 'responder')",0
+""" i hope that it is not so , "" replied cyrus harding , "" and that heaven has not deprived us of the best chance which remains to us . """,10,"('reply', 'répondre', 'decir')",2
+""" no , pencroft , "" replied the engineer , "" it will be because we are far from all that a man holds dearest in the world , his family , his friends , his native land ! """,6,"('reply', 'répondre', 'reponer')",4
+"louis xiii felt instinctively that he ought not to reply to this question , the queen having put it in an almost dying voice .",9,"('reply', 'répondre', 'responder')",0
+""" yes , madame , "" replied the astonished king ; "" but why do you ask that ? """,6,"('reply', 'répondre', 'responder')",0
+""" perfectly , "" replied pencroft , "" and besides , the north coast is merely sand , very uninteresting to look at . """,4,"('reply', 'répondre', 'responder')",0
+""" a very fine wind , "" replied the sailor ; "" but we must tack to enter the gulf , and i should like to see my way clear in these unknown quarters . """,7,"('reply', 'répondre', 'contestar')",1
+""" do n't make your mind uneasy , captain , "" replied the sailor , "" i shall not expose myself needlessly !",11,"('reply', 'répondre', 'responder')",0
+""" ten o'clock , "" replied gideon spilett .",5,"('reply', 'répondre', 'contestar')",1
+""" about fifteen miles , "" replied the engineer .",6,"('reply', 'répondre', 'reponer')",4
+""" yes , yes ! that was a lucky idea of mine ! "" replied the engineer .",14,"('reply', 'répondre', 'reponer')",4
+"mr . spilett , "" replied the sailor , "" i agree that it is too large for the ' bonadventure , ' but if the fleets of the union were in want of a harbor in the pacific , i do n't think they would ever find a better place than this ! """,5,"('reply', 'répondre', 'contestar')",1
+""" right into its mouth , my honest neb ! "" replied herbert , "" but you are not afraid that it will shut upon us , are you ? """,11,"('reply', 'répondre', 'contestar')",1
+""" no , "" replied pencroft , "" for the sky was covered with thick clouds , and at any rate a star would not have been so low on the horizon .",4,"('reply', 'répondre', 'contestar')",1
+""" madame , "" replied bonacieux , "" your august mistress is a perfidious spaniard , and what the cardinal does is well done . """,4,"('reply', 'reprendre', 'proseguir')",3
+""" at least you should tell me what i should have to do in london , "" replied bonacieux , who remembered a little too late that rochefort had desired him to endeavor to obtain his wife ’s secrets .",17,"('reply', 'reprendre', 'proseguir')",3
+""" in person , sir , and still after his prize ! "" the canadian replied .",15,"('reply', 'répondre', 'responder')",0
+""" thank you , monsieur , you are not brave enough to be of any use to me whatever , "" replied mme . bonacieux . "" i shall return very safely to the louvre all alone . """,21,"('reply', 'répondre', 'responder')",0
+""" wait , "" replied harding .",4,"('reply', 'répondre', 'contestar')",1
+""" i am coming , "" replied ayrton .",6,"('reply', 'répondre', 'contestar')",1
+the other replied with a shake of the head and added two or three utterly incomprehensible words . then he seemed to question me directly with a long stare .,2,"('reply', 'répondre', 'responder')",0
+""" certainly , "" replied pencroft .",4,"('reply', 'répondre', 'reponer')",4
+"i replied in clear french that i was n't familiar with his language ; but he did n't seem to understand me , and the situation grew rather baffling .",1,"('reply', 'répondre', 'responder')",0
+"but cyrus harding , after some moments ' thought , replied in the calm tone which was usual to him,--",10,"('reply', 'répondre', 'contestar')",1
+""" then , "" replied mme . bonacieux , opening a cupboard and taking from it the very bag which a half hour before her husband had caressed so affectionately , "" take this bag . """,4,"('reply', 'reprendre', 'proseguir')",3
+""" the cardinal ’s , "" replied mme . bonacieux . "" you see it makes a very respectable appearance . """,6,"('reply', 'répondre', 'decir')",2
+""" you are sure , "" replied the stranger , "" that she did not suspect the intentions with which you went out ? """,6,"('reply', 'répondre', 'responder')",0
+""" no , "" replied bonacieux , with a self - sufficient air , "" she is too superficial a woman . """,4,"('reply', 'répondre', 'responder')",0
+""" yes , cyrus , "" replied the reporter , "" and if necessary we will die to defend it ! """,6,"('reply', 'répondre', 'contestar')",1
+the young woman only replied by the beautiful glow which mounted to her cheeks .,4,"('reply', 'répondre', 'responder')",0
+"to all these questions which he mentally asked himself , harding knew not what to reply ; but he felt that the safety of the colony could not but be seriously threatened by the arrival of the brig .",15,"('reply', 'répondre', 'responder')",0
+"i ca n't deny it ; the commander 's words had a tremendous effect on me . he had caught me on my weak side , and i momentarily forgot that not even this sublime experience was worth the loss of my freedom . besides , i counted on the future to resolve this important question . so i was content to reply :",62,"('reply', 'répondre', 'responder')",0
+and what had the colonists of lincoln island to reply to the pirates ' guns ?,9,"('reply', 'répondre', 'responder')",0
+""" i have more than my duty to do , "" replied ayrton .",11,"('reply', 'répondre', 'contestar')",1
+""" go , ayrton , "" replied the engineer , who felt sure that a refusal would have deeply wounded the former convict , now become an honest man .",6,"('reply', 'répondre', 'contestar')",1
+""" the leave of absence monsieur has asked for , "" replied the lackey . "" for me !",11,"('reply', 'répondre', 'responder')",0
+""" become of whom ? "" replied aramis .",6,"('reply', 'reprendre', 'proseguir')",3
+"but ayrton , without replying , wrenched himself from his grasp and attempted to rush into the magazine .",4,"('reply', 'répondre', 'responder')",0
+""" i have , "" replied d’artagnan , pulling out his treasure from his pocket , and placing it on the table .",5,"('reply', 'reprendre', 'proseguir')",3
+""" immediately , "" replied d’artagnan ; "" we have not a minute to lose . "" "" hello , grimaud !",4,"('reply', 'répondre', 'responder')",0
+"cyrus did not reply , but pointed upwards .",3,"('reply', 'répondre', 'responder')",0
+"the host replied that he had no other worthy of their excellencies ; but the travelers declared they would sleep in the common chamber , each on a mattress which might be thrown upon the ground .",2,"('reply', 'répondre', 'responder')",0
+""" here is my bed , "" replied planchet , producing a bundle of straw .",7,"('reply', 'répondre', 'responder')",0
+""" no doubt , "" replied herbert ; "" but what can two rifles do against the brig 's guns ? """,5,"('reply', 'répondre', 'contestar')",1
+""" as i told you , monsieur , "" replied planchet , "" picards are found out by being used . besides , i am here in my own country , and that excites me . """,9,"('reply', 'répondre', 'responder')",0
+"what could be more terrible for the colonists than to be exposed , at a short distance , to the brig 's guns , without being able to reply with any effect ?",28,"('reply', 'répondre', 'responder')",0
+the pirate 's design was now only too evident ; he wished to bring her broadside to bear on the chimneys and from there to reply with shell and ball to the shot which had till then decimated her crew .,25,"('reply', 'répondre', 'responder')",0
+""" yes , "" replied pencroft , "" and in ten minutes she will have anchored before granite house ! """,4,"('reply', 'répondre', 'responder')",0
+""" that is , my opinion , too , "" replied gideon spilett , "" but once shut up-- """,10,"('reply', 'répondre', 'contestar')",1
+""" yes , monsieur , "" replied d’artagnan ; "" here it is . """,6,"('reply', 'répondre', 'responder')",0
+""" and it astonishes me also , herbert , "" replied he , "" but when we visit the hull of the brig , we shall no doubt find the explanation of the matter . """,10,"('reply', 'répondre', 'contestar')",1
+""" yes ! yes ! "" replied the sailor , "" but that is not the question .",6,"('reply', 'répondre', 'reponer')",4
+"this short break was a delight . it lacked only the charm of conversation . but it was impossible to speak , impossible to reply . i simply nudged my big copper headpiece against conseil 's headpiece . i saw a happy gleam in the gallant lad 's eyes , and to communicate his pleasure , he jiggled around inside his carapace in the world 's silliest way .",24,"('reply', 'répondre', 'responder')",0
+""" yes , captain , "" replied herbert .",6,"('reply', 'répondre', 'contestar')",1
+""" a bed , my lord , "" replied d’artagnan . "" at present , i confess , that is the thing i stand most in need of . """,8,"('reply', 'répondre', 'responder')",0
+""" let us understand each other , my lord , "" replied d’artagnan , "" and let us make things clear beforehand in order that there may be no mistake .",11,"('reply', 'répondre', 'responder')",0
+""" you are right in speaking thus , my dear cyrus , "" replied gideon spilett .",13,"('reply', 'répondre', 'decir')",2
+""" and we say , ’ proud as a gascon , ’ "" replied d’artagnan .",13,"('reply', 'répondre', 'responder')",0
+""" captain harding , "" replied ayrton , "" i can give you no better advice in this matter .",5,"('reply', 'répondre', 'contestar')",1
+""" captain harding , "" replied ayrton , "" i think that we ought to do everything to discover this unknown benefactor .",5,"('reply', 'répondre', 'contestar')",1
+""" enough , "" replied the questioner .",4,"('reply', 'répondre', 'responder')",0
+""" try them , pencroft , "" replied the engineer .",7,"('reply', 'répondre', 'decir')",2
+"immediately the aldermen , clothed in their cloth robes and preceded by six sergeants , each holding a flambeau in his hand , went to attend upon the king , whom they met on the steps , where the provost of the merchants made him the speech of welcome -- a compliment to which his majesty replied with an apology for coming so late , laying the blame upon the cardinal , who had detained him till eleven o’clock , talking of affairs of state .",56,"('reply', 'répondre', 'responder')",0
+""" believe me , pencroft , "" replied the engineer , "" it would be better not to have to make the experiment . """,7,"('reply', 'répondre', 'contestar')",1
+"and he was much moved when ayrton replied in a humble tone,--",7,"('reply', 'répondre', 'contestar')",1
+"not to deceive myself , i must reply -- no : i felt desolate to a degree .",7,"('reply', 'répondre', 'contestar')",1
+""" sire , "" replied the queen , with a faltering voice , "" because , in the midst of such a crowd as this , i feared some accident might happen to them . """,4,"('reply', 'répondre', 'responder')",0
+""" nothing , "" replied the latter ; "" only , if the queen has the studs , which i very much doubt , count them , sire , and if you only find ten , ask her majesty who can have stolen from her the two studs that are here . """,4,"('reply', 'répondre', 'responder')",0
+""" well , well ! "" replied pencroft , whom no reasoning could have convinced .",6,"('reply', 'répondre', 'reponer')",4
+""" i would fire on him as i would on a mad dog , neb , "" replied pencroft coldly .",17,"('reply', 'répondre', 'contestar')",1
+""" this means , sire , "" replied the cardinal , "" that i was desirous of presenting her majesty with these two studs , and that not daring to offer them myself , i adopted this means of inducing her to accept them . """,7,"('reply', 'répondre', 'responder')",0
+"ayrton replied that this was unnecessary , as he was enough for the work , and that besides he apprehended no danger .",1,"('reply', 'répondre', 'responder')",0
+""" has anyone brought a letter for me ? "" asked d’artagnan , eagerly . "" no one has brought a letter , monsieur , "" replied planchet ; "" but one has come of itself . """,26,"('reply', 'répondre', 'responder')",0
+""" you are mistaken , planchet , "" replied d’artagnan ; "" and as a proof , there is a crown to drink my health . """,8,"('reply', 'répondre', 'responder')",0
+""" why , mr . spilett , "" replied the sailor , "" they would only have to start in the night with a good breeze , and they would be out of sight of the island in two hours . """,8,"('reply', 'répondre', 'decir')",2
+""" why , mr . spilett , "" replied the sailor , "" we must put that among the unaccountable things , and not think anything more about it .",8,"('reply', 'répondre', 'contestar')",1
+""" and you have returned , have you not ? "" replied m. bonacieux , giving to his countenance a most sly air .",11,"('reply', 'reprendre', 'proseguir')",3
+""" perhaps yes , "" replied pencroft .",5,"('reply', 'répondre', 'decir')",2
+""" nothing , "" replied bonacieux , "" nothing .",4,"('reply', 'répondre', 'responder')",0
+""" madame bonacieux is not at liberty this evening , "" replied the husband , seriously ; "" she is detained at the louvre this evening by her duties . """,11,"('reply', 'répondre', 'responder')",0
+""" what have i to fear , "" replied d’artagnan , "" as long as i shall have the luck to enjoy the favor of their majesties ? """,8,"('reply', 'répondre', 'responder')",0
+""" yes , doubtless , "" replied d’artagnan , who had never been able to cram the first rudiments of that language into his head , and who had by his ignorance driven his master to despair , "" yes , doubtless there is one . """,6,"('reply', 'reprendre', 'proseguir')",3
+""" no , "" replied gideon spilett .",4,"('reply', 'répondre', 'reponer')",4
+""" no , pencroft , "" replied cyrus harding , "" no !",6,"('reply', 'répondre', 'decir')",2
+""" no , pencroft , "" replied the reporter .",6,"('reply', 'répondre', 'contestar')",1
+""" yes , we will save him ! "" replied the reporter .",9,"('reply', 'répondre', 'decir')",2
+this inquiry was so unexpected that i stared at him a good while without replying .,14,"('reply', 'répondre', 'responder')",0
+"he clapped his hands three times -- the ordinary signal of lovers ; but nobody replied to him , not even an echo .",15,"('reply', 'répondre', 'responder')",0
+"i took a last look at the wounded man , then i replied :",12,"('reply', 'répondre', 'responder')",0
+""" that which struck herbert did not miss , pencroft , "" replied the engineer .",12,"('reply', 'répondre', 'decir')",2
+""" be patient , pencroft , "" replied the engineer . "" how long will it be , my dear spilett , before you think herbert may be carried to granite house ? """,7,"('reply', 'répondre', 'decir')",2
+""" then , "" replied the engineer , "" he must have some note on him . """,4,"('reply', 'répondre', 'reponer')",4
+""" no , monsieur jester , "" replied d’artagnan ; "" but with our four horses we may bring back our three friends , if we should have the good fortune to find them living . """,7,"('reply', 'répondre', 'responder')",0
+""" which is a great chance , "" replied planchet , "" but we must not despair of the mercy of god . """,8,"('reply', 'répondre', 'responder')",0
+""" ah , captain , "" replied the lad , "" do n't be uneasy , i shall not die on the road ! """,6,"('reply', 'répondre', 'contestar')",1
+"i did n't reply , and while staring at these suspicious waves , i began to put on my heavy aquatic clothes , helped by the longboat 's sailors . captain nemo and my two companions suited up as well . none of the nautilus 's men were to go with us on this new excursion .",3,"('reply', 'répondre', 'responder')",0
+"as captain nemo pronounced these words , i turned to conseil and ned land . but my two friends had already encased their craniums in their metal headgear , and they could neither hear nor reply .",35,"('reply', 'répondre', 'responder')",0
+""" then , "" continued the host , "" i replied that as from the moment we seemed not likely to come to a good understanding with respect to payment , i hoped that he would have at least the kindness to grant the favor of his custom to my brother host of the golden eagle ; but monsieur porthos replied that , my house being the best , he should remain where he was .",60,"('reply', 'répondre', 'responder')",0
+""" let us try it without losing a moment , "" replied cyrus harding .",11,"('reply', 'répondre', 'reponer')",4
+""" i am not mistaken , "" replied the reporter .",7,"('reply', 'répondre', 'decir')",2
+captain nemo did not reply . after some minutes of silence :,4,"('reply', 'répondre', 'responder')",0
+""" so , so , "" replied porthos .",6,"('reply', 'répondre', 'responder')",0
+""" we let them tell their story out , "" replied mousqueton .",10,"('reply', 'reprendre', 'proseguir')",3
+porthos replied that in all probability his sprain would not permit him to depart yet awhile .,1,"('reply', 'répondre', 'responder')",0
+"i replied , that nothing ailed me save anxiety of mind , which i hoped soon to alleviate .",1,"('reply', 'répondre', 'contestar')",1
+""" i have not failed to do so , your reverences , "" replied the young man , returning their salutation .",13,"('reply', 'répondre', 'responder')",0
+""" the opinion of a swordsman can have very little weight , "" replied d’artagnan , who began to be uneasy at the turn things were taking , "" and you had better be satisfied , believe me , with the knowledge of these gentlemen . """,13,"('reply', 'répondre', 'responder')",0
+""" on the contrary , "" replied aramis , "" your opinion will be very valuable . the question is this : monsieur the principal thinks that my thesis ought to be dogmatic and didactic . """,6,"('reply', 'reprendre', 'proseguir')",3
+""" without doubt , "" replied the jesuit . "" in the examination which precedes ordination , a thesis is always a requisite . """,5,"('reply', 'répondre', 'responder')",0
+""" no , my friend , "" replied the engineer ; "" you forget that we have a reason for wishing to know if the forests of the far west do not contain some habitation .",7,"('reply', 'répondre', 'reponer')",4
+""" that was well said , captain , "" replied the sailor , "" but , all the same , it is my opinion that we shall not find the gentleman until he pleases . """,9,"('reply', 'répondre', 'reponer')",4
+i did not reply .,3,"('reply', 'répondre', 'responder')",0
+""" certes , "" replied aramis , in a pleased tone , "" but the thing is subtle . """,4,"('reply', 'répondre', 'responder')",0
+""" not so , for it is religious , "" replied aramis ; "" it is theology in verse . """,10,"('reply', 'répondre', 'responder')",0
+""" no , "" replied the engineer , "" it is our wagon of ammunition and provisions , and , if necessary , it would serve as an entrenchment . """,4,"('reply', 'répondre', 'contestar')",1
+ned land did n't reply . his pursed lips and frowning brow indicated that he was in the grip of his monomania .,4,"('reply', 'répondre', 'responder')",0
+""" it is possible that since our exploration of the crater , "" replied cyrus harding , "" some change has occurred .",13,"('reply', 'répondre', 'contestar')",1
+""" always , "" replied the engineer , "" especially when the subterranean forces begin to awake , as they risk meeting with some obstruction , after a long rest .",4,"('reply', 'répondre', 'reponer')",4
+""" i have not that honor , monseigneur , "" replied the latter , his eyes dazzled by the brilliant style in which d’artagnan traveled .",10,"('reply', 'répondre', 'responder')",0
+""" seven or eight months at least , "" replied pencroft .",9,"('reply', 'répondre', 'contestar')",1
+""" well , "" replied cyrus harding , "" that will be exactly the most favorable time for undertaking a voyage of any importance , either to tabor island or to a more distant land . """,4,"('reply', 'répondre', 'reponer')",4
+"upon this i went and complained to the governor , who replied that i only had what i deserved , and that it would teach me to insult honorable gentlemen who took up their abode in my house . """,11,"('reply', 'répondre', 'responder')",0
+""" so that since that time-- "" replied d’artagnan , totally unable to refrain from laughing at the pitiable face of the host .",7,"('reply', 'reprendre', 'proseguir')",3
+""" ' pon my word , "" he replied , "" the only thing i think about is my daily work ! """,8,"('reply', 'répondre', 'decir')",2
+""" mr . naturalist , "" the canadian replied in all seriousness , "" when it comes to whales , you can believe anything ! ( look at that one move ! look at it stealing away ! ) people claim these animals can circle around the world in just fifteen days . """,8,"('reply', 'répondre', 'responder')",0
+"a voice -- i can not tell whence the voice came , but i know whose voice it was -- replied , ' i am coming : wait for me ; ' and a moment after , went whispering on the wind the words--'where are you ? '",20,"('reply', 'répondre', 'decir')",2
+""" well , sir , "" replied the canadian , whose enthusiasm had subsided , "" it 's a dreadful sight for sure . but i 'm a hunter not a butcher , and this is plain butchery . """,6,"('reply', 'répondre', 'responder')",0
+""" it is that , then , "" replied the young man , anxious to find out the truth , "" it is that , then , i remember as we remember a dream . we were speaking of hanging . """,8,"('reply', 'reprendre', 'proseguir')",3
+""" yes , yes , "" replied d’artagnan . "" i remember now ; yes , it was about -- stop a minute -- yes , it was about a woman . """,6,"('reply', 'reprendre', 'proseguir')",3
+""" that ’s it , "" replied athos , becoming almost livid ; "" that is my grand story of the fair lady , and when i relate that , i must be very drunk . """,6,"('reply', 'répondre', 'responder')",0
+""" well , you see how a man may compromise himself when he does not know what he says , "" replied athos , shrugging his shoulders as if he thought himself an object of pity .",21,"('reply', 'reprendre', 'proseguir')",3
+""" either the cavern will be completely dry , "" replied harding , "" and in that case we can traverse it on foot , or it will not be dry , and some means of transport will be put at our disposal . """,10,"('reply', 'répondre', 'contestar')",1
+""" but , my dear friend , put yourself in my place , "" replied the musketeer . "" i was hipped to death ; and still further , upon my honor , i do n’t like english horses .",14,"('reply', 'reprendre', 'proseguir')",3
+""" nevertheless , i know you ! "" replied cyrus harding .",8,"('reply', 'répondre', 'contestar')",1
+"i was unwilling to get into a pointless argument with the canadian and did n't reply . moreover , the panels opened just then , and the outside light burst through the uncovered windows .",15,"('reply', 'répondre', 'responder')",0
+"cyrus harding extended his hand to the ci - devant prince and replied gravely , "" sir , your error was in supposing that the past can be resuscitated , and in contending against inevitable progress .",12,"('reply', 'répondre', 'contestar')",1
+""" pardieu ! "" replied d’artagnan , "" for my part , i am eating veal garnished with shrimps and vegetables . """,4,"('reply', 'répondre', 'responder')",0
+""" life is simply fading out , "" replied the reporter .",8,"('reply', 'répondre', 'contestar')",1
+""" still , "" replied porthos .",4,"('reply', 'répondre', 'responder')",0
+""" sir , "" the canadian replied , "" this is no time to bore you with my complaints . i 'm ready to do anything i can for the common good . """,6,"('reply', 'répondre', 'responder')",0
+""" you have , captain , "" replied the engineer .",7,"('reply', 'répondre', 'contestar')",1
+""" and here shall i sleep the sleep of eternity , if-- "" replied the captain .",13,"('reply', 'répondre', 'contestar')",1
+""" i was within two paces of you , monsieur , "" replied the procurator ’s wife ; "" but you did not perceive me because you had no eyes but for the pretty lady to whom you just now gave the holy water . """,12,"('reply', 'répondre', 'responder')",0
+""" less quickly than the women , it seems to me , "" replied porthos ; "" for i , madame , i may say i was your victim , when wounded , dying , i was abandoned by the surgeons . i , the offspring of a noble family , who placed reliance upon your friendship -- i was near dying of my wounds at first , and of hunger afterward , in a beggarly inn at chantilly , without you ever deigning once to reply to the burning letters i addressed to you . """,13,"('reply', 'répondre', 'responder')",0
+""" it may be so , "" replied cyrus harding , "" for the ancient track of the lava is still open ; and thanks to this , the crater has hitherto overflowed towards the north .",7,"('reply', 'répondre', 'contestar')",1
+""" when i said rich , "" replied the procurator ’s wife , who saw that she had gone too far , "" you must not take the word literally .",7,"('reply', 'reprendre', 'proseguir')",3
+""" yes , "" replied herbert , "" two months and a half ago ! """,4,"('reply', 'répondre', 'reponer')",4
+""" yes , "" replied gideon spilett , "" but there is a great difference between that and an earthquake . """,4,"('reply', 'répondre', 'contestar')",1
+""" true , "" replied cyrus harding , "" and i do not fear an earthquake in the sense in which the term is commonly applied to convulsions of the soil provoked by the expansion of subterranean gases .",4,"('reply', 'répondre', 'reponer')",4
+""" as for me , "" replied athos to this recital , "" i am quite at my ease ; it will not be women that will defray the expense of my outfit . """,6,"('reply', 'répondre', 'responder')",0
+""" we shall return to - morrow , "" replied cyrus harding , "" but it is necessary that i should go to the corral .",9,"('reply', 'répondre', 'reponer')",4
+""" it is here , captain harding , "" replied ayrton , drawing towards him the fragile craft , which was protected by the arch of the vault .",9,"('reply', 'répondre', 'reponer')",4
+""" very well , my worthy gentleman , "" replied d’artagnan , "" pick out the longest , and come and show it to me this evening . """,9,"('reply', 'reprendre', 'proseguir')",3
+""" i will do so , "" replied cyrus harding , "" or rather i will simply afford you the explanation which , during our few minutes of private conversation , was given me by captain nemo . """,7,"('reply', 'répondre', 'contestar')",1
+""" which only gives us a greater desire to know the real ones , "" replied the englishman .",15,"('reply', 'répondre', 'responder')",0
+he did n't reply .,3,"('reply', 'répondre', 'responder')",0
+"i did n't reply to the canadian 's proposition but kept watching the ship , which was looming larger on the horizon . whether it was english , french , american , or russian , it would surely welcome us aboard if we could just get to it .",3,"('reply', 'répondre', 'responder')",0
+"d’artagnan replied that he had been sent thither by m. de treville to treat for a supply of horses , and that he had brought back four as specimens .",1,"('reply', 'répondre', 'responder')",0
+""" captain harding , "" replied robert grant , "" it was in order to find , not only ayrton , but yourself and your companions . """,5,"('reply', 'répondre', 'responder')",0
+""" this evening , at ten o'clock , "" replied captain harding ; "" and heaven grant that the storm does not abate before our departure . """,9,"('reply', 'répondre', 'responder')",0
+""" certainly it is empty , "" replied the procurator ’s wife , in real innocence .",7,"('reply', 'répondre', 'responder')",0
+""" because , monsieur , "" replied kitty , "" my mistress loves you not at all . """,6,"('reply', 'reprendre', 'proseguir')",3
+""" yes , neb , "" replied gideon spilett , "" and we will find him too ! """,6,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied neb , "" and besides , top is there . """,4,"('reply', 'répondre', 'contestar')",1
+""" perhaps he has fainted or is wounded , and unable to reply directly , so we will not despair . """,12,"('reply', 'répondre', 'responder')",0
+""" the second reason , monsieur the chevalier , "" replied kitty , emboldened by the kiss in the first place , and still further by the expression of the eyes of the young man , "" is that in love , everyone for herself ! """,10,"('reply', 'reprendre', 'proseguir')",3
+""" you are right , "" replied the reporter , "" we will not separate more than we can help . """,6,"('reply', 'répondre', 'responder')",0
+""" there is some good and some bad , as in everything , "" replied the sailor .",14,"('reply', 'répondre', 'contestar')",1
+""" i am ready , "" replied herbert .",6,"('reply', 'répondre', 'contestar')",1
+""" they are not mussels , "" replied herbert , who was attentively examining the molluscs attached to the rocks ; "" they are lithodomes . """,7,"('reply', 'répondre', 'responder')",0
+to this reproach there is always one response which deludes women . d’artagnan replied in such a manner that kitty remained in her great delusion .,13,"('reply', 'répondre', 'responder')",0
+""" yes and no , "" replied mousqueton .",6,"('reply', 'répondre', 'responder')",0
+""" a man wishes to see monsieur at home , "" replied bazin .",11,"('reply', 'répondre', 'responder')",0
+""" well , my boy , "" replied the sailor , "" there must be some way of carrying this wood ; there is always a way of doing everything .",7,"('reply', 'répondre', 'responder')",0
+""" we shall be all right if we wait till it ebbs , "" replied the sailor , "" and then we will trust it to carry our fuel to the chimneys .",14,"('reply', 'répondre', 'responder')",0
+""" at any rate , it seems to be big enough , "" replied the lad .",13,"('reply', 'répondre', 'responder')",0
+""" we will not give them time to hatch , unless it is in the shape of an omelet ! "" replied pencroft merrily .",21,"('reply', 'répondre', 'contestar')",1
+""" ah , my dear , "" replied d’artagnan , "" upon that very horse i came to paris . """,7,"('reply', 'reprendre', 'proseguir')",3
+""" i can well believe it , "" replied d’artagnan , "" and that was why i got three crowns for him . it must have been for his hide , for , certes , the carcass is not worth eighteen livres .",8,"('reply', 'reprendre', 'proseguir')",3
+""" very likely , "" replied the seaman ; "" but , as we do n't know , we must work all the same .",5,"('reply', 'répondre', 'contestar')",1
+""" god forbid ! "" replied the sailor .",5,"('reply', 'répondre', 'contestar')",1
+"alice replied eagerly , for she was always ready to talk about her pet : ' dinah 's our cat . and she 's such a capital one for catching mice you ca n't think ! and oh , i wish you could see her after the birds ! why , she 'll eat a little bird as soon as look at it ! '",1,"('reply', 'répondre', 'contestar')",1
+""" still we might get fire as the savages do , "" replied herbert , "" by rubbing two bits of dry stick one against the other . """,12,"('reply', 'répondre', 'contestar')",1
+""" i do n't deny it , "" replied pencroft , "" but the savages must know how to do it or employ a peculiar wood , for more than once i have tried to get fire in that way , but i could never manage it .",8,"('reply', 'répondre', 'contestar')",1
+""" i knew better than that , "" replied the sailor ; "" but such a small article could easily disappear in the tumbling about we have gone through .",8,"('reply', 'répondre', 'contestar')",1
+""" no , my boy , "" replied the sailor ; "" they were in a copper box which shut very tightly ; and now what are we to do ? """,7,"('reply', 'répondre', 'contestar')",1
+""" i doubt it , "" replied the sailor , shaking his head , "" for neither neb nor captain harding smoke , and i believe that mr . spilett would rather keep his note - book than his match - box . """,6,"('reply', 'répondre', 'responder')",0
+herbert did not reply .,3,"('reply', 'répondre', 'contestar')",1
+""" here , "" replied spilett , after some hesitation tearing a leaf out of his note - book .",4,"('reply', 'répondre', 'responder')",0
+""" i shall , "" replied d’artagnan , "" and instantly . """,5,"('reply', 'répondre', 'responder')",0
+""" sir , "" replied martin , "" our priest accused me of being a socinian ; but the real truth is , i am a manichaean . """,4,"('reply', 'répondre', 'responder')",0
+""" burnt linen , "" replied the boy .",5,"('reply', 'répondre', 'contestar')",1
+""" this will be a good opportunity to taste jacamar , "" replied the sailor , "" if that fellow is in a humor to be roasted ! """,12,"('reply', 'répondre', 'contestar')",1
+""" no , no , my boy ! "" replied the sailor .",9,"('reply', 'répondre', 'contestar')",1
+""" well , "" replied milady , after a moment of silence , "" from the present time , cease to talk of impossibilities . """,4,"('reply', 'reprendre', 'proseguir')",3
+""" i , sir ! "" replied the man of letters , "" i think no such thing , i assure you ; i find that all in this world is set the wrong end uppermost . no one knows what is his rank , his office , nor what he does , nor what he should do . with the exception of our evenings , which we generally pass tolerably merrily , the rest of our time is spent in idle disputes and quarrels , jansenists against molinists , the parliament against the church , and one armed body of men against another ; courtier against courtier , husband against wife , and relations against relations . in short , this world is nothing but one continued scene of civil war . """,6,"('reply', 'répondre', 'responder')",0
+""" like a fish , "" replied the sailor quite seriously .",6,"('reply', 'répondre', 'contestar')",1
+""" yes , madam , "" replied candide .",6,"('reply', 'répondre', 'responder')",0
+""" about that , "" replied pencroft .",5,"('reply', 'répondre', 'contestar')",1
+""" it is not astonishing , with such a heavy sea , "" replied the sailor .",13,"('reply', 'répondre', 'contestar')",1
+""" no , "" replied gideon spilett , listening again , "" i thought i heard-- """,4,"('reply', 'répondre', 'contestar')",1
+""" it 's not possible ! "" replied the sailor .",7,"('reply', 'répondre', 'contestar')",1
+""" yes -- yes ! "" replied pencroft .",6,"('reply', 'répondre', 'contestar')",1
+""" you can not think so , dear love ! "" replied d’artagnan ; "" but now , suppose this poor comte de wardes were less guilty than you think him ? """,11,"('reply', 'répondre', 'responder')",0
+""" indeed i never read him at all , "" replied pococurante . "" what is it to me whether he pleads for rabirius or cluentius ?",10,"('reply', 'répondre', 'responder')",0
+neb did not reply .,3,"('reply', 'répondre', 'responder')",0
+""" my dear master , "" replied cacambo , "" miss cunegund washes dishes on the banks of the propontis , in the house of a prince who has very few to wash . she is at present a slave in the family of an ancient sovereign named ragotsky , whom the grand turk allows three crowns a day to maintain him in his exile ; but the most melancholy circumstance of all is , that she is turned horribly ugly . """,6,"('reply', 'répondre', 'responder')",0
+""" yes ! quite dead ! "" replied neb , "" and if top had not found you , and brought you here , i should have buried my master , and then have lain down on his grave to die ! """,7,"('reply', 'répondre', 'responder')",0
+""" why , then , christian cur , "" replied the turkish captain , "" since these two dogs of christian slaves are barons and metaphysicians , who no doubt are of high rank in their own country , thou shalt give me fifty thousand sequins . """,9,"('reply', 'répondre', 'responder')",0
+""" yes ! "" replied neb .",4,"('reply', 'répondre', 'contestar')",1
+""" no , "" replied neb , "" only above high - water mark , for the others must have been washed out by the tide . """,4,"('reply', 'répondre', 'contestar')",1
+""" well , "" replied d’artagnan , bending his mouth to athos ’s ear , and lowering his voice , "" milady is marked with a fleur - de - lis upon her shoulder ! """,4,"('reply', 'répondre', 'responder')",0
+""" no , it was not i , "" replied the negro .",9,"('reply', 'répondre', 'contestar')",1
+""" yes , "" replied the engineer .",4,"('reply', 'répondre', 'contestar')",1
+""" thanks , my friend , "" replied the engineer ; "" wait another hour or two , and then we will set out .",7,"('reply', 'répondre', 'responder')",0
+""" i have no more than twenty acres of ground , "" he replied , "" the whole of which i cultivate myself with the help of my children ; and our labor keeps off from us three great evils - idleness , vice , and want . """,13,"('reply', 'répondre', 'responder')",0
+""" no , "" replied the reporter .",4,"('reply', 'répondre', 'contestar')",1
+"grimaud replied by another sign that he understood perfectly , and set off .",1,"('reply', 'répondre', 'responder')",0
+""" about a mile , "" replied pencroft ; "" and if you are astonished , captain , we are not less surprised ourselves at seeing you in this place ! """,6,"('reply', 'répondre', 'contestar')",1
+""" perfectly inexplicable ! "" replied gideon spilett .",5,"('reply', 'répondre', 'contestar')",1
+""" is n't cyrus here ? "" replied the reporter .",7,"('reply', 'répondre', 'contestar')",1

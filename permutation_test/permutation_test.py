@@ -29,7 +29,7 @@ parser.add_argument('--data_dir', type=str, default="../train",
 parser.add_argument('-f','--word_file', type=str, default=None, help='Csv file with texts.')
 parser.add_argument('-m','--maxlen', type=int, default=128, help='Maximum number of tokens passed to BERT.')
 parser.add_argument('-bs', '--batch_size', type=int, default=200, help='Batch size for BERT.')
-parser.add_argument('-i', '--iterations', type=int, default=2000, help='Number of iterations for permutation test.')
+parser.add_argument('-i', '--iterations', type=int, default=3000, help='Number of iterations for permutation test.')
 parser.add_argument('-d', '--display_figs', type=str, default=None, help='Whether to display figures or not.')
 parser.add_argument('-s', '--signlevel', type=float, default=0.05, help='Significance level of the permutation test')
 parser.add_argument('-k', '--k', type=int, default=3, help='k-nearest neighbors in dahlberg merge')
@@ -74,23 +74,36 @@ def main():
             if "/" in fname:
                 fname = fname[fname.rfind("/")+1:]
 
-            X = bert_embed(data, bert_model)
-            y = df['label'].values
-            p_values = test(X, y, word = fname.replace('.csv', ''))
+            save_dir = os.path.join(DATA_DIR, fname.replace('.csv', ''))
+            if not os.path.exists(save_dir): # Create directory if it doesn't exist
+                os.mkdir(save_dir)
 
-            df["new_label"] = df["label"]
-            _, df = dahlberg_merge(init_graph(p_values), df, calculate_distances(X)) 
 
+            #PLOT BEFORE
             sense_dict = df["sense"].value_counts()
             df_plot = pd.DataFrame({'sense':sense_dict.index, 'count':sense_dict.values})
 
             fig = plt.figure(figsize = (6,7))
             sns.barplot(x = "count", y = "sense", data = df_plot)
-            save_file = os.path.join(SAVE_DIR, fname.replace('.csv', ''), 'sense_hist.png')
+            save_file = os.path.join(save_dir, 'sense_hist1.png')
+            plt.savefig(save_file , bbox_inches='tight')
+
+            X = bert_embed(data, bert_model)
+            y = df['label'].values
+            df = test(X, y, df, word = fname.replace('.csv', ''))
+
+
+            #PLOT AFTER
+            sense_dict = df["sense"].value_counts()
+            df_plot = pd.DataFrame({'sense':sense_dict.index, 'count':sense_dict.values})
+
+            fig = plt.figure(figsize = (6,7))
+            sns.barplot(x = "count", y = "sense", data = df_plot)
+            save_file = os.path.join(save_dir, 'sense_hist2.png')
             plt.savefig(save_file , bbox_inches='tight')
             df.drop(['embedding', 'ind'], axis=1, inplace=True) 
             df = df.rename(columns={'old_ind': 'ind'})
-            df.to_csv(os.path.join(SAVE_DIR, fname.replace('.csv', ''), fname), index=False)
+            df.to_csv(os.path.join(save_dir, fname), index=False)
 
         except Exception as e:
             print(fname, str(e))
@@ -109,7 +122,7 @@ def get_data(fname, tokenizer):
 
     
     for key, val in df["label"].value_counts().items():
-        if val <= 7: #If a sense has less than 10 data points then remove it!
+        if val <= 10: #If a sense has less than 10 data points then remove it!
             df = df.loc[df["label"] != key]
     df.reset_index(drop=True, inplace=True)
     
@@ -141,43 +154,12 @@ def get_data(fname, tokenizer):
     }
 
 
-def test(X, y, word):
+def test(X, y, df, word):
     print('Performing permutation test')
 
+    df["new_label"] = df["label"]
 
     save_dir = os.path.join(DATA_DIR, word)
-    if not os.path.exists(save_dir): # Create directory if it doesn't exist
-        os.mkdir(save_dir)
-
-    classes = len(np.unique(y))
-    pairs = []
-    for i in range(0, classes-1, 1):
-        for j in range(i +1, classes, 1):
-            pairs += [(i,j)]
-            
-    if classes%2 == 0:
-        nrows = int(classes/2)
-        ncols = int(classes-1)
-    else:
-        nrows = int((classes-1)/2)
-        ncols = int(classes)
-
-    fig = plt.figure(figsize=(20,10))
-    p_values = np.zeros((classes, classes))
-    for i in range(1, (nrows)*ncols+1, 1): #Do permutation test between all pair of senses.
-        plt.subplot(nrows, ncols, i)
-        classA = pairs[i-1][0]
-        classB = pairs[i-1][1]
-        p_value, distances, distance = permutation_test(classA, classB, X, y)
-        p_values[classA, classB] = p_value
-        p_values[classB,classA] = p_value
-    
-        sns.distplot(distances).set_title("Comparing class {} to class {}. P-value is {}".format(classA, classB, round(p_value,4)))
-        plt.axvline(distance, color='red')
-
-
-    fname = os.path.join(save_dir, 'pvals.png')
-    plt.savefig(fname)
 
     tsne_model = TSNE(perplexity=30, n_components=2, init='random', n_iter=750, metric='euclidean')
     new_values = tsne_model.fit_transform(X)
@@ -192,7 +174,30 @@ def test(X, y, word):
     fname = os.path.join(save_dir, 'tSNE.png') 
     plt.savefig(fname)
 
-    return p_values
+    file = open(os.path.join(save_dir, 'merging_results.txt'), 'w')
+
+    while True:
+        classes = set(df['new_label'].values)
+        break_outer=False
+        for classA in classes:
+            for classB in classes: #Do permutation test between all pair of senses.
+                if classA == classB:
+                    continue
+                p_value, _, _ = permutation_test(classA, classB, X, y)
+                if p_value >= SIGN_LEVEL:
+                    df = merge(classA, classB, p_value, df, file)
+                    break_outer=True
+                    break
+
+            if break_outer:
+                break
+        if not break_outer:
+            break
+
+    file.close()
+
+    return df
+
 
 def tokenize_input(row, tokenizer):
         
@@ -319,101 +324,22 @@ def permutation_test(classA, classB, X, y):
     p_value = (sum( distances1 >= distance) + sum( distances2 >= distance) + 1)/(ITERATIONS+1)
     return (p_value, np.concatenate((distances1, distances2)), distance)
 
-#Create a graph where quadruples/senses are nodes and an edge between Q_i and Q_j iff
-# p_ij >= alpha, the significance level
-def init_graph(p_values):
 
-    graph = dict()
-    for i in range(len(p_values)):
-        graph[i] = set(range(len(p_values))).difference(set([i]))
+def merge(classA, classB, p_value, df, file):
 
-    for i in range(0, len(p_values)-1, 1):
-        for j in range(i+1, len(p_values), 1):
-            p_value = p_values[i,j]
-            if p_value <= SIGN_LEVEL:
-                graph[i].remove(j)
-                graph[j].remove(i)
-    return graph
-
-
-def dahlberg_merge(graph, df, X_dist):
-    print("Doing dahlberg merge")
-    #Step 1. See if graph contains any edges
-    no_edges = True
-    for key, val in graph.items():
-        if len(val) >= 1:
-            no_edges = False
-            break
-    if no_edges:
-        return graph, df #Done!
-
-    #Step 2. See if two nodes are isomorphic (there an edge between them and same configuraiton of edges and no edges to all other nodes)
-    for node1 in graph:
-        for node2 in graph:
-            if node1 == node2:
-                continue    
-                
-            if node2 in graph[node1] and node1 in graph[node2]:
-                set2 = graph[node2].copy()
-                set1 = graph[node1].copy()
-                set2.remove(node1)
-                set1.remove(node2)
-
-                if set1 == set2: # Merge smallest node/sense into the larger one
-                    if len(df.loc[df["new_label"] == node2]) < len(df.loc[df["new_label"] == node1]):
-                        graph.pop(node2)
-                        for node, val in graph.items():
-                            try:
-                                val.remove(node2)
-                            except:
-                                pass              
-                        df.loc[df["new_label"] == node2, "sense"] = df.loc[df["new_label"] == node1, "sense"].iloc[0]
-                        df.loc[df["new_label"] == node2, "new_label"] = node1
-
-                    else:
-                        graph.pop(node1)
-                        for node, val in graph.items():
-                            try:
-                                val.remove(node1)
-                            except:
-                                pass     
-                        df.loc[df["new_label"] == node1, "sense"] = df.loc[df["new_label"] == node2, "sense"].iloc[0]
-                        df.loc[df["new_label"] == node1, "new_label"] = node2                      
-                    return dahlberg_merge(graph, df, X_dist)
+    if len(df.loc[df["new_label"] == classB]) < len(df.loc[df["new_label"] == classA]):
     
-    #Step 3. Find the node/sense that has the most edges. If there is a tie then take the smallest node/sense
-    argmax, maximum = -1,-1
-    for node, val in graph.items():
-        if len(val) > maximum:
-            argmax = node
-            maximum = len(val)
-        elif len(val) == maximum:
-            if len(df.loc[df["new_label"] == node]) < len(df.loc[df["new_label"] == argmax]):
-                argmax = node
-    
-    #Merge points in this sense/node to the other senses that this sense/node has an edge to.
-    #Look at the K nearest neighbours in the classes that this node has an edge to.
-    #Take a majority vote and relabel the point.
-    inds_points = np.array(df.loc[df["new_label"] == argmax].index)
-    inds_others = np.array(df.loc[df["new_label"].isin(graph[argmax])].index)
-    yy = df.loc[inds_others, "new_label"].values
-    
-    for i in inds_points:
-        dists = X_dist[i, inds_others]
-        idx = np.argpartition(dists, K)
-        labels = yy[idx]
-        label = Counter(labels).most_common(1)[0][0]
-        df.loc[i, "sense"] = df.loc[df["new_label"] == label, "sense"].iloc[0]
-        df.loc[i, "new_label"] = label
+        file.write('merging ' + df.loc[df["new_label"] == classB, "sense"].iloc[0] + ' to ' +  df.loc[df["new_label"] == classA, "sense"].iloc[0] + ' p-value: ' + str(p_value) + '\n')
+        df.loc[df["new_label"] == classB, "sense"] = df.loc[df["new_label"] == classA, "sense"].iloc[0]
+        df.loc[df["new_label"] == classB, "new_label"] = classA
 
-    graph.pop(argmax)
-    for node, val in graph.items():
-        try:
-            val.remove(argmax)
-        except:
-            pass
-        
-    return dahlberg_merge(graph, df, X_dist)
+    else:
+    
+        file.write('merging ' + df.loc[df["new_label"] == classA, "sense"].iloc[0] + ' to ' +  df.loc[df["new_label"] == classB, "sense"].iloc[0] + ' p-value: ' + str(p_value) + '\n')
+        df.loc[df["new_label"] == classA, "sense"] = df.loc[df["new_label"] == classB, "sense"].iloc[0]
+        df.loc[df["new_label"] == classA, "new_label"] = classB 
+
+    return df
 
 
 if __name__ == '__main__':
