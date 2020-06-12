@@ -1,0 +1,490 @@
+text,sense,label,ind,new_label
+""" you are a frenchman , i believe , "" asked phileas fogg , "" and your name is john ? ""","('ask', 'demander', 'preguntar')",0,10,0
+""" why ! how are you going to manage that , captain ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,14,0
+""" but have you got the robber 's description ? "" asked stuart .","('ask', 'demander', 'preguntar')",0,11,0
+""" do you know what this plant is ? "" asked herbert of the sailor .","('ask', 'demander', 'preguntar')",0,10,0
+""" well ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,4,0
+""" monsieur is a gascon ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,7,0
+"on this day , harding , having sent the current through the wire , asked if all was going on well at the corral , and received in a few moments a satisfactory reply from ayrton .","('ask', 'demander', 'preguntar')",0,14,0
+"that was the question the three musketeers put to one another . then , seeing that none of their replies could throw any light on the subject , porthos called the host and asked for dice .","('ask', 'demander', 'pedir')",1,33,1
+""" what is that ? "" asked the queen , who did not understand , or rather was not willing to understand .","('ask', 'demander', 'preguntar')",0,6,0
+""" and who has struck the blow ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,9,0
+""" well ? "" i asked him .","('ask', 'demander', 'preguntar')",0,5,0
+""" you know no one but monsieur de treville ? "" he asked .","('ask', 'demander', 'preguntar')",0,12,0
+"i experienced a shock of horror , then a strong thrill of grief , then a desire -- a necessity to see her ; and i asked in what room she lay .","('ask', 'demander', 'preguntar')",0,26,0
+""" well , he asked me for anything outside the ordinary routine . ""","('ask', 'demander', 'preguntar')",0,4,0
+""" do you think , then , that any harm can have happened to him ? "" asked aramis . "" athos is so cool , so brave , and handles his sword so skillfully . ""","('ask', 'demander', 'preguntar')",0,17,0
+""" this very evening ? "" asked stuart .","('ask', 'demander', 'preguntar')",0,6,0
+""" but , whether it is an island or a continent , "" asked gideon spilett , "" whereabouts do you think , cyrus , this storm has thrown us ? ""","('ask', 'demander', 'preguntar')",0,13,0
+""" what are you looking at ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,8,0
+""" whom do you call ’ that wretch ’ ? "" asked felton .","('ask', 'demander', 'preguntar')",0,11,0
+""" shall we stay at the corral ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,9,0
+""" but to - morrow , captain , "" asked herbert , "" shall you be in a state to bear the fatigue of the ascent ? ""","('ask', 'demander', 'preguntar')",0,9,0
+""" one of yours ! how many have you , then ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,13,0
+""" what 's the nautilus 's heading ? "" i asked .","('ask', 'demander', 'preguntar')",0,10,0
+""" you have forgotten nothing ? "" asked he .","('ask', 'demander', 'preguntar')",0,7,0
+""" at what distance are we from granite house ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,11,0
+""" shall we go on ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,7,0
+""" but , pencroft , "" asked ayrton , "" how do you intend to make this voyage ? ""","('ask', 'demander', 'preguntar')",0,6,0
+"our baggage was immediately carried to the deck of the frigate . i rushed aboard . i asked for commander farragut . one of the sailors led me to the afterdeck , where i stood in the presence of a smart - looking officer who extended his hand to me .","('ask', 'demander', 'preguntar')",0,17,0
+"near eleven o'clock in the evening , i received a most unexpected visit from captain nemo . he asked me very graciously if i felt exhausted from our vigil the night before . i said no .","('ask', 'demander', 'preguntar')",0,18,0
+""" what 's the matter ? "" asked mr . fogg .","('ask', 'demander', 'preguntar')",0,7,0
+""" but what are you going to fight about , athos ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,13,0
+""" are we up to pressure ? "" he asked the man .","('ask', 'demander', 'preguntar')",0,9,0
+""" and you , aramis ? "" asked athos .","('ask', 'demander', 'preguntar')",0,7,0
+""" would you not , in that case , pencroft , attempt the adventure ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,16,0
+""" who is that ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,6,0
+""" so you say , consul , "" asked he for the twentieth time , "" that this steamer is never behind time ? ""","('ask', 'demander', 'preguntar')",0,8,0
+"she asked upon what day this fete would take place , but the king replied that he must consult the cardinal upon that head .","('ask', 'demander', 'preguntar')",0,1,0
+"indeed , every day the king asked the cardinal when this fete should take place ; and every day the cardinal , under some pretext , deferred fixing it .","('ask', 'demander', 'preguntar')",0,6,0
+"fix took up a position , and carefully examined each face and figure which made its appearance . presently one of the passengers , after vigorously pushing his way through the importunate crowd of porters , came up to him and politely asked if he could point out the english consulate , at the same time showing a passport which he wished to have visaed . fix instinctively took the passport , and with a rapid glance read the description of its bearer . an involuntary motion of surprise nearly escaped him , for the description in the passport was identical with that of the bank robber which he had received from scotland yard .","('ask', 'demander', 'preguntar')",0,42,0
+"this document remained locked in my drawer all day : after tea , i asked leave of the new superintendent to go to lowton , in order to perform some small commissions for myself and one or two of my fellow - teachers ; permission was readily granted ; i went .","('ask', 'demander', 'pedir')",1,14,1
+""" wo n't he drown ? "" asked neb .","('ask', 'demander', 'preguntar')",0,7,0
+""" but if an eruption of mount franklin occurred , "" asked spilett , "" would there not be some danger to lincoln island ? ""","('ask', 'demander', 'preguntar')",0,11,0
+""" what 's the matter ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,7,0
+""" remember what i asked you , when we were in the garden this morning . ""","('ask', 'demander', 'pedir')",1,4,1
+""" who ? "" asked neb .","('ask', 'demander', 'preguntar')",0,4,0
+""" what were you doing on that armchair ? "" asked he .","('ask', 'demander', 'preguntar')",0,10,0
+we had a pleasant luncheon in which little was said of the business which had brought us together . it was in the private sitting - room to which we afterwards repaired that holmes asked baskerville what were his intentions .,"('ask', 'demander', 'preguntar')",0,34,0
+""" had you a burning - glass , sir ? "" asked herbert of harding .","('ask', 'demander', 'preguntar')",0,11,0
+""" and what is your choice ? "" asked jussac .","('ask', 'demander', 'preguntar')",0,8,0
+"i asked , ' sophie , what are you doing ? '","('ask', 'demander', 'preguntar')",0,1,0
+""" yes , mr . rochester , i liked him : but you asked me that before . ""","('ask', 'demander', 'preguntar')",0,13,0
+"as for myself , as soon as i recovered my senses i went to monsieur the governor , to whom i related all that had passed , and asked , what i should do with my prisoner .","('ask', 'demander', 'preguntar')",0,28,0
+"athos would have died rather than appeal for help ; but he could look , and with that look ask assistance .","('ask', 'demander', 'pedir')",1,19,1
+""" and how many months would be required to build a vessel of from 250 to 300 tons ? "" asked harding .","('ask', 'demander', 'preguntar')",0,20,0
+""" is that all ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,6,0
+""" what o'clock is it ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,7,0
+""" what o'clock is it ? "" he asked after a few moments of silence .","('ask', 'demander', 'preguntar')",0,8,0
+"at the same instant aramis placed his sword point on the breast of his fallen enemy , and forced him to ask for mercy .","('ask', 'demander', 'pedir')",1,21,1
+""" well , pencroft , "" asked harding , "" can you not anchor off the cape ? ""","('ask', 'demander', 'preguntar')",0,6,0
+""" is bombay far from here ? "" asked passepartout .","('ask', 'demander', 'preguntar')",0,8,0
+""" a fire ? "" asked harding , much astonished at the reporter 's words .","('ask', 'demander', 'preguntar')",0,5,0
+""" does not sophie sleep with adele in the nursery ? "" he asked , as i lit my candle .","('ask', 'demander', 'preguntar')",0,13,0
+i asked captain nemo if he had observed any fish at more considerable depths .,"('ask', 'demander', 'preguntar')",0,1,0
+""" well , the english like good wine , as you may know , monsieur ; these have asked for the best .","('ask', 'demander', 'pedir')",1,18,1
+"sophie came at seven to dress me : she was very long indeed in accomplishing her task ; so long that mr . rochester , grown , i suppose , impatient of my delay , sent up to ask why i did not come .","('ask', 'demander', 'preguntar')",0,38,0
+""" have they legs and chops ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,8,0
+""" and what favor , pray ? "" asked lord de winter .","('ask', 'demander', 'preguntar')",0,8,0
+""" would you like , "" captain nemo asked me , "" to bring back more than just a memory ? ""","('ask', 'demander', 'preguntar')",0,8,0
+""" i fear you are right , "" answered mr . erskine . "" i myself used to have literary ambitions , but i gave them up long ago . and now , my dear young friend , if you will allow me to call you so , may i ask if you really meant all that you said to us at lunch ? ""","('ask', 'demander', 'preguntar')",0,50,0
+"gideon spilett proposed to continue the exploration , that the question of the supposed wreck might be completely settled , and he asked at what distance claw cape might be from the extremity of the peninsula .","('ask', 'demander', 'preguntar')",0,22,0
+""" and mr . fogg is getting on well ? "" asked fix , in the most natural tone in the world .","('ask', 'demander', 'preguntar')",0,11,0
+""" but then , captain harding , "" asked herbert , "" why does lincoln island appear to escape the common law ? ""","('ask', 'demander', 'preguntar')",0,8,0
+""" but , at any rate , is the water deep enough ? "" asked the engineer , "" for a depth sufficient for the keel of the ' bonadventure ' would not be enough for those of our iron - clads . ""","('ask', 'demander', 'preguntar')",0,14,0
+"is it not the desire of seeing a husband again from whom you have been separated for a week ? "" asked the mercer , piqued to the quick .","('ask', 'demander', 'preguntar')",0,21,0
+""" you 're up to maximum pressure ? "" the commander asked him .","('ask', 'demander', 'preguntar')",0,11,0
+""" what do you want to say , neb ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,11,0
+"m. de treville contented himself with asking d’artagnan if he could do anything for him , but d’artagnan answered that he was supplied with all he wanted .","('ask', 'demander', 'preguntar')",0,6,0
+""" how do you like thornfield ? "" she asked .","('ask', 'demander', 'preguntar')",0,9,0
+""" so , pencroft , "" asked the engineer , "" if a ship has been wrecked on these banks , is it not astonishing that there is now no trace of her remaining ? ""","('ask', 'demander', 'preguntar')",0,6,0
+""" what do you mean ? "" asked sir francis .","('ask', 'demander', 'preguntar')",0,7,0
+""" where are we ? "" asked sir francis .","('ask', 'demander', 'preguntar')",0,6,0
+""" can you understand her when she runs on so fast ? "" asked mrs . fairfax .","('ask', 'demander', 'preguntar')",0,13,0
+""" what is it , captain ? "" asked herbert quickly .","('ask', 'demander', 'preguntar')",0,8,0
+""" and when ? "" asked the guardsman , with the same jeering air .","('ask', 'demander', 'preguntar')",0,5,0
+"mr . rochester asked me if i would like to go and live with him in england , and i said yes ; for i knew mr . rochester before i knew madame frederic , and he was always kind to me and gave me pretty dresses and toys : but you see he has not kept his word , for he has brought me to england , and now he is gone back again himself , and i never see him . ""","('ask', 'demander', 'preguntar')",0,3,0
+""" what 's the matter ? "" asked sir francis , putting out his head .","('ask', 'demander', 'preguntar')",0,7,0
+""" what is it ? "" asked spilett .","('ask', 'demander', 'preguntar')",0,6,0
+""" what ? "" asked the host , quite cheerful again .","('ask', 'demander', 'preguntar')",0,4,0
+""" and the corpse ? "" asked mr . fogg .","('ask', 'demander', 'preguntar')",0,6,0
+""" had his majesty , "" asked he , "" any intention of holding this hunting party yesterday ? ""","('ask', 'demander', 'preguntar')",0,6,0
+""" and the king has seen the cardinal ? "" asked m. de treville .","('ask', 'demander', 'preguntar')",0,10,0
+""" is it a freshwater lake ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+""" in all probability he has , "" replied the valet , "" for i saw the horses harnessed to his eminence ’s carriage this morning , and when i asked where he was going , they told me , ’ to st . germain . ’ ""","('ask', 'demander', 'preguntar')",0,30,0
+""" you have , then , overheard our conversation ? "" asked mme . bonacieux , eagerly , and looking at d’artagnan with disquiet .","('ask', 'demander', 'preguntar')",0,11,0
+""" is she coming here ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,7,0
+""" and what guarantee will you give me , "" asked she , "" if i consent to confide this message to you ? ""","('ask', 'demander', 'preguntar')",0,10,0
+""" but who , then was this man ? "" asked felton .","('ask', 'demander', 'preguntar')",0,10,0
+""" you particularly wish it ? "" asked he .","('ask', 'demander', 'preguntar')",0,7,0
+""" is the wind favourable ? "" my uncle asked .","('ask', 'demander', 'preguntar')",0,9,0
+""" is your secret of enough importance to me to spare your life for it ? "" asked the young man , withholding his arm .","('ask', 'demander', 'preguntar')",0,17,0
+"the idiot ! "" "" how so , if he love her ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,14,0
+""" well ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,4,0
+""" and how do you know there is a young woman whom i love , and that i believed that woman dead ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,24,0
+""" who came here the last time ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,9,0
+""" and in what have i been so unfortunate as to displease your majesty ? "" asked m. de treville , feigning the most profound astonishment .","('ask', 'demander', 'preguntar')",0,16,0
+"ned needed no persuading and started our story all over again , most of which i could follow . its content was the same , but the form differed . carried away by his volatile temperament , the canadian put great animation into it . he complained vehemently about being imprisoned in defiance of his civil rights , asked by virtue of which law he was hereby detained , invoked writs of habeas corpus , threatened to press charges against anyone holding him in illegal custody , ranted , gesticulated , shouted , and finally conveyed by an expressive gesture that we were dying of hunger .","('ask', 'demander', 'pedir')",1,58,1
+""" but who is it that has played us this cool trick ? "" again asked pencroft , unable to make up his mind to retire from the spot .","('ask', 'demander', 'preguntar')",0,15,0
+""" and who told you this fine story , sire ? "" asked treville , quietly .","('ask', 'demander', 'preguntar')",0,12,0
+""" farther south ? "" i asked , gaping at the captain .","('ask', 'demander', 'preguntar')",0,6,0
+""" but what were you to do with that woman ? "" asked d’artagnan , with anguish .","('ask', 'demander', 'preguntar')",0,12,0
+""" why ? "" asked gideon spilett , who had closed his notebook and risen to depart .","('ask', 'demander', 'preguntar')",0,4,0
+""" may this young lady go with us ? "" asked he .","('ask', 'demander', 'preguntar')",0,10,0
+""" what ? "" asked d’artagnan , seeing that mme . bonacieux hesitated to continue .","('ask', 'demander', 'preguntar')",0,4,0
+""" how on earth did you know that ? "" i asked in astonishment .","('ask', 'demander', 'preguntar')",0,11,0
+"the settlers asked if granite house was inhabited or not , and yet the position of the ladder was sufficient to show that it was ; it was also certain that the inhabitants , whoever they might be , had not been able to escape .","('ask', 'demander', 'preguntar')",0,2,0
+""" why do you not think so ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,9,0
+""" do you include violin - playing in your category of rows ? "" he asked , anxiously .","('ask', 'demander', 'preguntar')",0,15,0
+""" but what can make you think- "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+"moreover , the sailor thought of simply asking the engineer to manufacture some powder and one or two fowling - pieces ; he supposed there would be no difficulty in that .","('ask', 'demander', 'pedir')",1,7,1
+""" but who was it ? "" asked neb .","('ask', 'demander', 'preguntar')",0,7,0
+""" what secret ? "" asked m. fridrikssen , starting .","('ask', 'demander', 'preguntar')",0,5,0
+""" is it to your mind ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,8,0
+""" you hear the charge ? "" asked the judge .","('ask', 'demander', 'preguntar')",0,7,0
+""" what shall we do when night comes on ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,11,0
+""" what 's the matter , my boy ? "" asked spilett .","('ask', 'demander', 'preguntar')",0,10,0
+""" is there any drinkable wine in your tavern ? "" asked athos .","('ask', 'demander', 'preguntar')",0,11,0
+""" what is it ? "" asked sherlock holmes .","('ask', 'demander', 'preguntar')",0,6,0
+""" i will ask his servant . ""","('ask', 'demander', 'preguntar')",0,3,0
+""" and how ? "" i asked involuntarily .","('ask', 'demander', 'preguntar')",0,6,0
+""" what , are you coming , watson ? "" he asked , looking at me in a curious way .","('ask', 'demander', 'preguntar')",0,11,0
+"herbert having asked on what he based this calculation,--","('ask', 'demander', 'preguntar')",0,2,0
+"love ! "" pardon for what ? "" asked she .","('ask', 'demander', 'preguntar')",0,8,0
+""" how in the world did you deduce that ? "" i asked .","('ask', 'demander', 'preguntar')",0,12,0
+""" do n't ask me , sir henry -- don't ask me ! i give you my word , sir , that it is not my secret , and that i can not tell it . if it concerned no one but myself i would not try to keep it from you . ""","('ask', 'demander', 'preguntar')",0,3,0
+""" do n't ask me , sir henry -- don't ask me ! i give you my word , sir , that it is not my secret , and that i can not tell it . if it concerned no one but myself i would not try to keep it from you . ""","('ask', 'demander', 'preguntar')",0,10,0
+""" but how can lord de winter , my protector , my father , "" asked felton , "" possibly be mixed up with all this ? ""","('ask', 'demander', 'preguntar')",0,15,0
+""" oh , john , john , have i brought you to this ? it is my doing , sir henry -- all mine . he has done nothing except for my sake and because i asked him . ""","('ask', 'demander', 'pedir')",1,36,1
+""" you know the name i formerly bore , sir ? "" he asked .","('ask', 'demander', 'preguntar')",0,13,0
+"the pilot went on board at six , and took his place on the bridge , to guide the rangoon through the channels to the port of hong kong . passepartout longed to ask him if the steamer had left for yokohama ; but he dared not , for he wished to preserve the spark of hope , which still remained till the last moment . he had confided his anxiety to fix who -- the sly rascal!--tried to console him by saying that mr . fogg would be in time if he took the next boat ; but this only put passepartout in a passion .","('ask', 'demander', 'preguntar')",0,33,0
+""" you wish to join the colony ? "" again asked the sailor .","('ask', 'demander', 'preguntar')",0,10,0
+""" what is the steamer 's name ? "" asked mr . fogg .","('ask', 'demander', 'preguntar')",0,9,0
+"this chance did , then , for him at once more than he would have dared to ask of providence .","('ask', 'demander', 'pedir')",1,17,1
+""" what did you say ? "" asked m. de treville , glancing round to see if they were surely alone , and then fixing his questioning look upon d’artagnan .","('ask', 'demander', 'preguntar')",0,7,0
+""" i asked about stangerson . ""","('ask', 'demander', 'pedir')",1,2,1
+""" what she ? "" asked athos .","('ask', 'demander', 'preguntar')",0,5,0
+""" what ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,4,0
+""" and what does it mean now that you have found it ? "" asked gregson in a depreciatory voice .","('ask', 'demander', 'preguntar')",0,14,0
+""" well , what is the matter ? "" asked the young lieutenant .","('ask', 'demander', 'preguntar')",0,9,0
+""" if this man was murdered , how was it done ? "" asked the former .","('ask', 'demander', 'preguntar')",0,13,0
+"captain nemo stared at me . i had asked him nothing , but he read my thoughts , and on his own he answered the questions i was itching to address him .","('ask', 'demander', 'preguntar')",0,8,0
+""" well , captain , where are we going to begin ? "" asked pencroft next morning of the engineer .","('ask', 'demander', 'preguntar')",0,13,0
+""" will you go to the ship in the boat ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,12,0
+""" and the florid face ? "" i asked .","('ask', 'demander', 'preguntar')",0,8,0
+""" what is it ? "" asked d’artagnan , who did not at all comprehend the hilarity of his friend .","('ask', 'demander', 'preguntar')",0,6,0
+""" but who do you think i am ? "" asked fix , looking at him intently .","('ask', 'demander', 'preguntar')",0,10,0
+""" what is this oven for ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+""" enough ? "" asked m. de treville .","('ask', 'demander', 'preguntar')",0,4,0
+""" well ? "" asked cyrus harding .","('ask', 'demander', 'preguntar')",0,4,0
+""" but will we float off ? "" i asked him .","('ask', 'demander', 'preguntar')",0,9,0
+""" what is that ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,6,0
+""" the leave of absence monsieur has asked for , "" replied the lackey . "" for me !","('ask', 'demander', 'pedir')",1,7,1
+"i have asked for no leave of absence . ""","('ask', 'demander', 'pedir')",1,2,1
+""" what does all this mean ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,8,0
+"i asked where it was going : the driver named a place a long way off , and where i was sure mr . rochester had no connections .","('ask', 'demander', 'preguntar')",0,1,0
+"i asked for what sum he would take me there ; he said thirty shillings ; i answered i had but twenty ; well , he would try to make it do .","('ask', 'demander', 'preguntar')",0,1,0
+""" do you know where he is , sir ? "" asked aouda anxiously .","('ask', 'demander', 'preguntar')",0,11,0
+""" why not donkeys ? "" asked neb .","('ask', 'demander', 'preguntar')",0,6,0
+then he asked hans for his reason .,"('ask', 'demander', 'preguntar')",0,2,0
+""" but what must i do ? "" asked milady .","('ask', 'demander', 'preguntar')",0,8,0
+""" what does that word mean ? "" i asked uneasily .","('ask', 'demander', 'preguntar')",0,9,0
+""" but of what is he dying ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,9,0
+""" and that is ? "" i asked eagerly .","('ask', 'demander', 'pedir')",1,7,1
+""" will bazin go with us ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,8,0
+""" is that her ring ? "" i asked .","('ask', 'demander', 'preguntar')",0,8,0
+""" our path is barred to the south ? "" i asked him .","('ask', 'demander', 'preguntar')",0,11,0
+""" if you try to look at it , basil , on my word of honour i will never speak to you again as long as i live . i am quite serious . i do n't offer any explanation , and you are not to ask for any . but , remember , if you touch this screen , everything is over between us . ""","('ask', 'demander', 'pedir')",1,46,1
+""" and was this lady young and handsome ? "" asked the cardinal , with a certain degree of anxiety .","('ask', 'demander', 'preguntar')",0,10,0
+""" what is it then ? "" i asked .","('ask', 'demander', 'preguntar')",0,8,0
+""" are you ready ? "" asked felton .","('ask', 'demander', 'preguntar')",0,6,0
+""" how ? "" asked mr . fogg .","('ask', 'demander', 'preguntar')",0,4,0
+"i followed captain nemo down gangways located for easy transit , and i arrived amidships . there i found a sort of shaft heading upward between two watertight bulkheads . an iron ladder , clamped to the wall , led to the shaft 's upper end . i asked the captain what this ladder was for .","('ask', 'demander', 'preguntar')",0,48,0
+""" what are you doing ? "" asked milady , with surprise .","('ask', 'demander', 'preguntar')",0,7,0
+""" well , monsieur ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,6,0
+""" since , "" said d’artagnan , "" they have friends who ask it for them . ""","('ask', 'demander', 'pedir')",1,12,1
+"dorian shook his head . "" you must not ask me that , basil . i could not possibly let you stand in front of that picture . ""","('ask', 'demander', 'pedir')",1,9,1
+"soon i asked her "" if there were any dressmaker or plain - workwoman in the village ? ""","('ask', 'demander', 'preguntar')",0,2,0
+""" is it on this brixton case that you are employing them ? "" i asked .","('ask', 'demander', 'preguntar')",0,15,0
+"and while the three musketeers entered the ground floor room , the cardinal , without asking further information , ascended the staircase like a man who has no need of having his road pointed out to him .","('ask', 'demander', 'pedir')",1,15,1
+""" without instruments , without sextant ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,8,0
+""" what is the matter ? "" asked milady .","('ask', 'demander', 'preguntar')",0,7,0
+"a mild - looking , cleanly - attired young woman opened the door . in such a voice as might be expected from a hopeless heart and fainting frame -- a voice wretchedly low and faltering -- i asked if a servant was wanted here ?","('ask', 'demander', 'preguntar')",0,38,0
+"after a few moments , in her black silk dress , with old - fashioned thread mittens on her wrinkled hands , mrs . leaf bustled into the library . he asked her for the key of the schoolroom .","('ask', 'demander', 'pedir')",1,31,1
+""" have we any chance of escape , captain ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,11,0
+"an old woman opened : i asked was this the parsonage ? "" yes . ""","('ask', 'demander', 'preguntar')",0,6,0
+""" is the wind north or south ? "" asked mr . fogg quietly .","('ask', 'demander', 'preguntar')",0,9,0
+""" when mrs . charpentier paused , "" the detective continued , "" i saw that the whole case hung upon one point . fixing her with my eye in a way which i always found effective with women , i asked her at what hour her son returned .","('ask', 'demander', 'preguntar')",0,41,0
+"do not ask me , reader , to give a minute account of that day ; as before , i sought work ; as before , i was repulsed ; as before , i starved ; but once did food pass my lips . at the door of a cottage i saw a little girl about to throw a mess of cold porridge into a pig trough . "" will you give me that ? "" i asked .","('ask', 'demander', 'pedir')",1,2,1
+""" but what is the matter with my hands ! "" asked milady ; "" it seems as if my wrists had been crushed in a vice . ""","('ask', 'demander', 'preguntar')",0,11,0
+""" what vessel is that ? "" asked milady .","('ask', 'demander', 'preguntar')",0,7,0
+""" what are you going to do at portsmouth ? "" asked milady .","('ask', 'demander', 'preguntar')",0,11,0
+""" you think , then , that the fire at the palace of justice was not caused by chance ? "" asked richelieu , in the tone with which he would have put a question of no importance . "" i , monseigneur ? "" replied milady .","('ask', 'demander', 'preguntar')",0,21,0
+""" what orders ? "" asked milady .","('ask', 'demander', 'preguntar')",0,5,0
+""" but why did that man attack porthos rather than any other one of us ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,17,0
+""" have you enemies , then ? "" asked richelieu .","('ask', 'demander', 'preguntar')",0,8,0
+""" is there ony country where they talk i ' that way ? "" asked the old woman , looking up from her knitting .","('ask', 'demander', 'preguntar')",0,14,0
+"i told him everything i knew -- or , rather , everything i did n't know-- and i asked him what he had seen or heard on his part .","('ask', 'demander', 'preguntar')",0,18,0
+"passepartout entered and asked for mr . batulcar , who straightway appeared in person .","('ask', 'demander', 'preguntar')",0,3,0
+""" would you like a servant , sir ? "" asked passepartout .","('ask', 'demander', 'preguntar')",0,10,0
+""" he had n't time , bairn : he was gone in a minute , was your father . he had been a bit ailing like the day before , but naught to signify ; and when mr . st . john asked if he would like either o ' ye to be sent for , he fair laughed at him .","('ask', 'demander', 'preguntar')",0,42,0
+""" i shall come with you , dorian , if you wish it . i see i have missed my train . that makes no matter . i can go to - morrow . but do n't ask me to read anything to - night . all i want is a plain answer to my question . ""","('ask', 'demander', 'pedir')",1,37,1
+""" is not the archipelago of the pomoutous the nearest point to us in latitude ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,17,0
+"when they reached the top landing , dorian set the lamp down on the floor , and taking out the key , turned it in the lock . "" you insist on knowing , basil ? "" he asked in a low voice .","('ask', 'demander', 'preguntar')",0,38,0
+""" well , cyrus , "" asked the reporter , "" if lincoln island is not more than two or three thousand miles from new zealand or chile ? ""","('ask', 'demander', 'preguntar')",0,6,0
+"he asked where their masters were , and was informed that they had passed the night in the inn , and were then settling their bill with the host .","('ask', 'demander', 'preguntar')",0,1,0
+""" besides , what did i ask of you ? "" resumed porthos , with a movement of the shoulders full of good fellowship . "" a loan , nothing more !","('ask', 'demander', 'pedir')",1,6,1
+""" what has become of monseigneur athos ? "" asked he .","('ask', 'demander', 'preguntar')",0,9,0
+""" do you mean that we are going to die too ? "" asked the child , checking her sobs , and raising her tear - stained face .","('ask', 'demander', 'preguntar')",0,13,0
+""" do you know what has become of athos ? "" asked d’artagnan of planchet , as they galloped on .","('ask', 'demander', 'preguntar')",0,11,0
+""" and what is this tree which resembles a little palm ? "" asked harding .","('ask', 'demander', 'preguntar')",0,13,0
+""" do you believe in apparitions ? "" asked athos of porthos .","('ask', 'demander', 'preguntar')",0,8,0
+""" ah , ah ! you have credit with your landlord , then ? "" asked porthos .","('ask', 'demander', 'preguntar')",0,15,0
+""" then your grace knows her real name ? "" asked felton , in a sharp tone .","('ask', 'demander', 'preguntar')",0,10,0
+""" but come , what is this about ? "" asked porthos .","('ask', 'demander', 'preguntar')",0,10,0
+""" is she your child ? "" asked someone .","('ask', 'demander', 'preguntar')",0,7,0
+""" are we friends ? "" asked the detective .","('ask', 'demander', 'preguntar')",0,6,0
+""" st . john , who is it ? "" i heard one ask .","('ask', 'demander', 'preguntar')",0,13,0
+"cyrus harding felt this strongly , and he asked himself what it would be possible to do .","('ask', 'demander', 'preguntar')",0,8,0
+""" do not you feel a certain vibration of the soil ? "" asked cyrus harding .","('ask', 'demander', 'preguntar')",0,13,0
+""" i am off , lucy , "" he said , taking her two hands in his , and gazing tenderly down into her face ; "" i wo n't ask you to come with me now , but will you be ready to come when i am here again ? ""","('ask', 'demander', 'pedir')",1,30,1
+""" have you formed any plan , cyrus ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,10,0
+""" what horses ? "" asked athos .","('ask', 'demander', 'preguntar')",0,5,0
+""" would you not wish , captain , that ayrton and i should remain here ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,17,0
+"captain nemo was there waiting for me . he stood up , bowed , and asked if it suited me to come along .","('ask', 'demander', 'preguntar')",0,15,0
+""" the election of a general - in - chief , no doubt ? "" asked mr . fogg .","('ask', 'demander', 'preguntar')",0,15,0
+""" do you know him personally ? "" asked the governor .","('ask', 'demander', 'preguntar')",0,8,0
+""" but the lady ? "" asked porthos .","('ask', 'demander', 'preguntar')",0,6,0
+""" why about sir henry in particular ? "" i could not help asking .","('ask', 'demander', 'preguntar')",0,13,0
+""" but what has happened ? "" asked gideon spilett , quite stunned by this unexpected catastrophe .","('ask', 'demander', 'preguntar')",0,7,0
+""" shall i leave the things here , sir ? "" he asked campbell .","('ask', 'demander', 'preguntar')",0,12,0
+""" and what bastion is it ? "" asked a dragoon , with his saber run through a goose which he was taking to be cooked .","('ask', 'demander', 'preguntar')",0,8,0
+""" then , gentlemen , you will not oppose our executing the orders we have received ? "" asked one who appeared to be the leader of the party .","('ask', 'demander', 'preguntar')",0,18,0
+""" what if we are stopped , "" asked ferrier . hope slapped the revolver butt which protruded from the front of his tunic . "" if they are too many for us we shall take two or three of them with us , "" he said with a sinister smile .","('ask', 'demander', 'preguntar')",0,8,0
+""" by whose permission ? "" he asked .","('ask', 'demander', 'preguntar')",0,7,0
+""" whom must i announce to my lord duke ? "" asked patrick .","('ask', 'demander', 'preguntar')",0,11,0
+"conseil and i were soon dressed in these diving suits , as were captain nemo and one of his companions -- a herculean type who must have been prodigiously strong . all that remained was to encase one 's head in its metal sphere . but before proceeding with this operation , i asked the captain for permission to examine the rifles set aside for us .","('ask', 'demander', 'pedir')",1,53,1
+""" and can you guess , pencroft , "" asked the reporter , "" how it happened , or what can have occasioned the explosion ? ""","('ask', 'demander', 'preguntar')",0,9,0
+""" what ? "" asked his lordship .","('ask', 'demander', 'preguntar')",0,4,0
+""" well , ask mr . gray . he is one of her most intimate friends . ""","('ask', 'demander', 'preguntar')",0,3,0
+""" she assures me so , lady narborough , "" said dorian . "" i asked her whether , like marguerite de navarre , she had their hearts embalmed and hung at her girdle . she told me she did n't , because none of them had had any hearts at all . ""","('ask', 'demander', 'preguntar')",0,15,0
+""" does that astonish you , my boy ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,10,0
+""" you are wounded ? "" asked buckingham , as he opened the letter .","('ask', 'demander', 'preguntar')",0,6,0
+"having finished my task of gooseberry picking , i asked where the two ladies and their brother were now .","('ask', 'demander', 'preguntar')",0,9,0
+"during this time nothing new occurred in the camp at la rochelle ; only the king , who was bored , as always , but perhaps a little more so in camp than elsewhere , resolved to go incognito and spend the festival of st . louis at st . germain , and asked the cardinal to order him an escort of only twenty musketeers .","('ask', 'demander', 'pedir')",1,53,1
+""" had n't you better reserve that for your trial ? "" asked the inspector .","('ask', 'demander', 'preguntar')",0,12,0
+""" now , then , who are you ? "" asked the englishman .","('ask', 'demander', 'preguntar')",0,10,0
+""" are you afraid ? "" asked colonel proctor .","('ask', 'demander', 'preguntar')",0,6,0
+""" and who made this discovery ? "" he asked at length .","('ask', 'demander', 'preguntar')",0,9,0
+"what he ? "" asked athos .","('ask', 'demander', 'preguntar')",0,4,0
+""" what 's happening down there ? "" asked pencroft , examining the surface of the lake .","('ask', 'demander', 'preguntar')",0,8,0
+""" then , how did it happen ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,9,0
+""" why not ? "" asked the colonel .","('ask', 'demander', 'preguntar')",0,5,0
+""" but what importance do you attach to knowing that , my dear cyrus ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,16,0
+""" and ask at the station office if there is a message for me . ""","('ask', 'demander', 'preguntar')",0,2,0
+"the two combatants , their seconds , and the conductor passed through the cars to the rear of the train . the last car was only occupied by a dozen passengers , whom the conductor politely asked if they would not be so kind as to leave it vacant for a few moments , as two gentlemen had an affair of honour to settle . the passengers granted the request with alacrity , and straightway disappeared on the platform .","('ask', 'demander', 'preguntar')",0,36,0
+""" where is he going to ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+""" dead ? "" asked the captain .","('ask', 'demander', 'preguntar')",0,4,0
+""" will you let me go with you ? "" asked fix .","('ask', 'demander', 'preguntar')",0,10,0
+""" for how long a time ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,8,0
+""" and now what are we to do , and where do you wish me to conduct you ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,20,0
+just then captain nemo asked me what i knew about the shipwreck of the count de la pérouse .,"('ask', 'demander', 'preguntar')",0,4,0
+""" and could you kindly tell me what everybody knows ? "" he asked me in a gently ironic tone .","('ask', 'demander', 'preguntar')",0,13,0
+""" but what will they find ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+""" how ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,4,0
+"aouda , on seeing the locomotive come up , hurried out of the station , and asked the conductor , "" are you going to start ? ""","('ask', 'demander', 'preguntar')",0,16,0
+""" how do you do ? "" he asked . "" i am very well , sir . ""","('ask', 'demander', 'preguntar')",0,8,0
+""" you will ask for the host , and will repeat to him the word ’ forward ! ’ ""","('ask', 'demander', 'preguntar')",0,3,0
+""" what can top be barking in that way for ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,12,0
+""" and you , ayrton ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,7,0
+"on the staircase he met the pretty soubrette , who brushed gently against him as she passed , and then , blushing to the eyes , asked his pardon for having touched him in a voice so sweet that the pardon was granted instantly .","('ask', 'demander', 'pedir')",1,26,1
+"the host instantly made him a sign to follow , went out with him by a door which opened into a yard , led him to the stable , where a saddled horse awaited him , and asked him if he stood in need of anything else .","('ask', 'demander', 'preguntar')",0,37,0
+"she appeared to take a great interest in him , asked him whence he came , who were his friends , and whether he had not sometimes thought of attaching himself to the cardinal .","('ask', 'demander', 'preguntar')",0,10,0
+"milady changed the conversation without any appearance of affectation , and asked d’artagnan in the most careless manner possible if he had ever been in england .","('ask', 'demander', 'preguntar')",0,11,0
+""" and when can i see this young lady , for whom i already feel so great a sympathy ? "" asked milady .","('ask', 'demander', 'preguntar')",0,21,0
+"he looked at me : i happened to be near him , as i had been fastening the clasp of mrs . dent 's bracelet , which had got loose . "" will you play ? "" he asked . i shook my head . he did not insist , which i rather feared he would have done ; he allowed me to return quietly to my usual seat .","('ask', 'demander', 'preguntar')",0,38,0
+""" can the cannon support the shock of the pyroxyle ? "" asked the reporter , who was not less anxious than pencroft to try the artillery of granite house .","('ask', 'demander', 'preguntar')",0,12,0
+""" master , "" asked neb , a few days later , "" do you think all this could have happened if captain nemo had been still alive ? ""","('ask', 'demander', 'preguntar')",0,4,0
+""" what says the abbe ? "" asked athos , quietly .","('ask', 'demander', 'preguntar')",0,7,0
+"he took to his heels , and was soon at m. de treville ’s ; but instead of going into the saloon with the rest of the crowd , he asked to be introduced to m. de treville ’s office .","('ask', 'demander', 'pedir')",1,30,1
+"five minutes after , m. de treville was asking d’artagnan what he could do to serve him , and what caused his visit at so late an hour .","('ask', 'demander', 'preguntar')",0,8,0
+""" the captain ? "" asked mr . fogg .","('ask', 'demander', 'preguntar')",0,5,0
+"good god ! "" asked the poor woman , "" have i said anything that has wounded you ? ""","('ask', 'demander', 'preguntar')",0,4,0
+""" what 's the matter now ? "" asked harding .","('ask', 'demander', 'preguntar')",0,8,0
+""" is that your opinion , pencroft ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,9,0
+""" is n't what they have done already enough ? "" asked pencroft , who did not understand these scruples .","('ask', 'demander', 'preguntar')",0,11,0
+""" where can they have crossed ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+""" but what are these beasts ? "" was asked a second time , as the yelpings were again heard more loudly than before .","('ask', 'demander', 'preguntar')",0,9,0
+"dorian watched them as they plunged into the alder - clump , brushing the lithe swinging branches aside . in a few moments they emerged , dragging a body after them into the sunlight . he turned away in horror . it seemed to him that misfortune followed wherever he went . he heard sir geoffrey ask if the man was really dead , and the affirmative answer of the keeper . the wood seemed to him to have become suddenly alive with faces . there was the trampling of myriad feet and the low buzz of voices . a great copper- breasted pheasant came beating through the boughs overhead .","('ask', 'demander', 'preguntar')",0,56,0
+""" captain grant , "" asked cyrus harding , "" who can have suggested to you the idea , after having left tabor island , where you did not find ayrton , of coming a hundred miles farther northeast ? ""","('ask', 'demander', 'preguntar')",0,5,0
+""" then could you not use this nitro - glycerine for loading firearms ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,15,0
+""" do you think you shall like morton ? "" she asked of me , with a direct and naive simplicity of tone and manner , pleasing , if child - like .","('ask', 'demander', 'preguntar')",0,11,0
+""" what does this mean , monsieur cardinal ? "" asked the king in a severe tone .","('ask', 'demander', 'preguntar')",0,10,0
+""" and how will you prepare it ? "" i asked the canadian .","('ask', 'demander', 'preguntar')",0,10,0
+""" well , captain , what are we stopping for ? "" asked the sailor , impatient to enter the narrow passage .","('ask', 'demander', 'preguntar')",0,12,0
+""" how many people do you wish to bring with you ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,13,0
+"as he was about to start , harding asked him if he would not like one of them to accompany him , observing that the island was less safe than formerly .","('ask', 'demander', 'preguntar')",0,8,0
+"this was a question the young man asked himself , whom the demon of jealousy already gnawed , being in heart neither more nor less than an accepted lover .","('ask', 'demander', 'preguntar')",0,7,0
+""" your valise is then empty ? "" asked porthos , with simplicity .","('ask', 'demander', 'preguntar')",0,8,0
+""" why uninhabitable ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,5,0
+""" what 's the matter ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,7,0
+""" was it with that intention you followed me ? "" asked the young woman , with a coquettish smile , whose somewhat bantering character resumed its influence , and with whom all fear had disappeared from the moment in which she recognized a friend in one she had taken for an enemy .","('ask', 'demander', 'preguntar')",0,11,0
+""" you feel strong enough to walk a little way now ? "" he asked .","('ask', 'demander', 'preguntar')",0,14,0
+""" then monsieur is satisfied ? "" asked planchet .","('ask', 'demander', 'preguntar')",0,7,0
+phileas fogg asked if there was an express train about to leave for london .,"('ask', 'demander', 'preguntar')",0,2,0
+""" and you come ? "" asked milady .","('ask', 'demander', 'preguntar')",0,6,0
+""" what is the matter , pencroft ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,9,0
+""" what , it was not you ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,9,0
+""" can he swim ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,6,0
+""" well , captain harding , "" asked pencroft , "" what do you think of our vessel ? ""","('ask', 'demander', 'preguntar')",0,7,0
+"mr . fogg asked him if it was not too late to notify the reverend samuel wilson , of marylebone parish , that evening .","('ask', 'demander', 'preguntar')",0,3,0
+""" and we will call it?-- "" asked herbert .","('ask', 'demander', 'preguntar')",0,7,0
+""" why that question , my dear host ? "" asked d’artagnan . "" do you intend to sit up for me ? ""","('ask', 'demander', 'preguntar')",0,10,0
+"this time bonacieux became so pale that d’artagnan could not help perceiving it , and asked him what was the matter .","('ask', 'demander', 'preguntar')",0,15,0
+""" what time did the last train arrive from liverpool ? "" asked thomas flanagan .","('ask', 'demander', 'preguntar')",0,12,0
+""" what love ? "" asked the young girl .","('ask', 'demander', 'preguntar')",0,5,0
+""" well ? "" asked the cardinal , on seeing la houdiniere return .","('ask', 'demander', 'preguntar')",0,4,0
+""" whose house is that , constable ? "" asked the elder of the two gentlemen .","('ask', 'demander', 'preguntar')",0,9,0
+""" and how shall we get in ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,9,0
+""" are you quite sure of that , pencroft ? "" asked the engineer , looking at the sailor .","('ask', 'demander', 'preguntar')",0,11,0
+""" what about these savages ? "" conseil asked me . "" with all due respect to master , they do n't strike me as very wicked ! ""","('ask', 'demander', 'preguntar')",0,8,0
+""" eh ? what happened to master ? "" conseil asked , very startled . "" did master get bitten ? ""","('ask', 'demander', 'preguntar')",0,10,0
+""" does not this appear strange to you ? "" asked harding of pencroft .","('ask', 'demander', 'preguntar')",0,10,0
+""" is the fracture recent ? "" asked harding .","('ask', 'demander', 'preguntar')",0,7,0
+""" you think , then , i have something to dread ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,13,0
+""" well , "" asked herbert , "" what do you say , pencroft ? ""","('ask', 'demander', 'preguntar')",0,4,0
+"he still slowly moved his finger over his upper lip , and still his eye dwelt dreamily on the glowing grate ; thinking it urgent to say something , i asked him presently if he felt any cold draught from the door , which was behind him .","('ask', 'demander', 'preguntar')",0,30,0
+""" what do you mean ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,7,0
+"to reach england""--athos lowered his voice--""all france , covered with spies and creatures of the cardinal , must be crossed . a passport for embarkation must be obtained ; and the party must be acquainted with english in order to ask the way to london .","('ask', 'demander', 'preguntar')",0,40,0
+""" how badly ? what do you mean by that , you idiot ? "" asked d’artagnan . "" what has happened ? ""","('ask', 'demander', 'preguntar')",0,15,0
+"when , afterwards , pencroft asked the use of this collection of herbs,--","('ask', 'demander', 'preguntar')",0,5,0
+""" but the heart ? "" asked harding .","('ask', 'demander', 'preguntar')",0,6,0
+""" who told you that , my dear ? "" asked milady .","('ask', 'demander', 'preguntar')",0,10,0
+""" are they good to eat ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+""" what ! ca n't we carry him to granite house ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,13,0
+""" why so , planchet ? "" asked the young man .","('ask', 'demander', 'preguntar')",0,7,0
+"you should rather ask the name of the governess -- the nature of the event which requires her appearance . ""","('ask', 'demander', 'preguntar')",0,3,0
+""" she was married ? "" asked aramis .","('ask', 'demander', 'preguntar')",0,6,0
+"it happened the morning of january 15 . the captain , with whom i was strolling on the platform , asked me if i knew how salt water differs in density from sea to sea . i said no , adding that there was a lack of rigorous scientific observations on this subject .","('ask', 'demander', 'preguntar')",0,20,0
+""" why , captain ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,6,0
+"perhaps now you will ask how much you are worth ? ""","('ask', 'demander', 'preguntar')",0,4,0
+""" to talk about ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,6,0
+""" are we going to continue this pace all night ? "" asked planchet .","('ask', 'demander', 'preguntar')",0,12,0
+""" but neb ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,5,0
+""" you have asked for me ? "" said the musketeer .","('ask', 'demander', 'preguntar')",0,3,0
+""" you think that he has quitted the island ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,11,0
+""" living ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,4,0
+""" tell your good superior that in order that we may be as much together as possible , you ask her permission to share my repast . ""","('ask', 'demander', 'pedir')",1,19,1
+"herbert , not attaching much importance to his discovery , was going to throw away the grain in question ; but harding took it , examined it , found that it was in good condition , and looking the sailor full in the face--""pencroft , "" he asked quietly , "" do you know how many ears one grain of corn can produce ? ""","('ask', 'demander', 'preguntar')",0,47,0
+""" well , who am i ? "" he asked .","('ask', 'demander', 'preguntar')",0,9,0
+""" what o'clock is it ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,7,0
+""" what are they then ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,7,0
+"bessie asked if i would have a book : the word _ book _ acted as a transient stimulus , and i begged her to fetch gulliver 's travels from the library .","('ask', 'demander', 'preguntar')",0,1,0
+""" and what dream does she mean ? "" asked the dragoon , who had approached during the reading .","('ask', 'demander', 'preguntar')",0,9,0
+""" you are not hurt , herbert ? "" asked spilett .","('ask', 'demander', 'preguntar')",0,9,0
+""" what do you mean ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,7,0
+""" how so ? "" asked the musketeer .","('ask', 'demander', 'preguntar')",0,5,0
+""" pencroft , "" asked herbert , "" did n't you throw it out of the car ? ""","('ask', 'demander', 'preguntar')",0,4,0
+""" and have they not been seen again ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,10,0
+""" are they good to eat ? "" asked pencroft , who only regarded the representatives of the fauna in the island from one special point of view .","('ask', 'demander', 'preguntar')",0,8,0
+""" shall we leave him bound ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,8,0
+"cyrus harding knew this well , and sometimes he asked if some circumstance might not occur which they would be powerless to surmount .","('ask', 'demander', 'preguntar')",0,9,0
+"at the sixth cabaret , then , as we said , d’artagnan stopped , asked for a bottle of wine of the best quality , and placing himself in the darkest corner of the room , determined thus to wait till daylight ; but this time again his hopes were disappointed , and although he listened with all his ears , he heard nothing , amid the oaths , coarse jokes , and abuse which passed between the laborers , servants , and carters who comprised the honorable society of which he formed a part , which could put him upon the least track of her who had been stolen from him .","('ask', 'demander', 'pedir')",1,14,1
+""" about what age is he ? "" asked the lad .","('ask', 'demander', 'preguntar')",0,8,0
+""" have you noticed , mr . spilett , how deeply sunk his eyes are ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,17,0
+""" she ! what she ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,7,0
+""" and would lincoln island have been a part of that continent ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,14,0
+""" i do n't know . i asked aunt reed once , and she said possibly i might have some poor , low relations called eyre , but she knew nothing about them . ""","('ask', 'demander', 'preguntar')",0,7,0
+""" i think so too , miss . bessie said she was sure you would not refuse : but i suppose you will have to ask leave before you can get off ? ""","('ask', 'demander', 'pedir')",1,25,1
+""" and what are these masons ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,8,0
+"he began by asking m. bonacieux his name , age , condition , and abode .","('ask', 'demander', 'preguntar')",0,3,0
+""" but what would be the use of new continents ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,12,0
+""" indeed ? "" asked the commissary , with an air of doubt . "" if that is really so , how came you in the bastille ? ""","('ask', 'demander', 'preguntar')",0,4,0
+"on the way , pencroft asked him in the most natural tone , if by chance he happened to have a match or two .","('ask', 'demander', 'preguntar')",0,5,0
+""" do you hope , then , pencroft , that the villains have spared him ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,17,0
+"one morning at breakfast , diana , after looking a little pensive for some minutes , asked him , "" if his plans were yet unchanged . ""","('ask', 'demander', 'preguntar')",0,16,0
+cacambo asked in a respectful manner what was the established religion of el dorado .,"('ask', 'demander', 'preguntar')",0,1,0
+""" who are you , sir , "" asked she , "" who has the kindness to trouble yourself so particularly on my account ? ""","('ask', 'demander', 'preguntar')",0,8,0
+""" your excellency is safe and sound ? "" asked the host .","('ask', 'demander', 'preguntar')",0,9,0
+"how much have you in the world , jane ? "" he asked , smiling .","('ask', 'demander', 'preguntar')",0,12,0
+""" all we shall ask of your majesty , "" said cacambo , "" is only a few sheep laden with provisions , pebbles , and the clay of your country . ""","('ask', 'demander', 'pedir')",1,4,1
+""" are they both dead ? "" asked lord de winter , sternly .","('ask', 'demander', 'preguntar')",0,7,0
+""" is this carriage for us ? "" asked milady .","('ask', 'demander', 'preguntar')",0,8,0
+""" but , captain , "" asked herbert , "" what leads you to think that the brutishness of the unfortunate man began only a few months back ? ""","('ask', 'demander', 'preguntar')",0,6,0
+""" why so ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,5,0
+""" what is that ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,6,0
+""" ’ where has he gone ? ’ asked monsieur de cavois .","('ask', 'demander', 'preguntar')",0,8,0
+""" you hope , then , cyrus , to succeed in reforming the man ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,16,0
+""" what is this gentleman ’s name ? "" asked the commissary .","('ask', 'demander', 'preguntar')",0,9,0
+""" is she not safe at the mouth of the mercy ? "" asked cyrus harding .","('ask', 'demander', 'preguntar')",0,13,0
+""" and as to my other instructions ? "" asked the fair traveler .","('ask', 'demander', 'preguntar')",0,9,0
+""" what , without chastising this insolent boy ? "" asked the lady .","('ask', 'demander', 'preguntar')",0,10,0
+"the result of these reflections was that d’artagnan , without asking information of any kind , alighted , commended the horses to the care of his lackey , entered a small room destined to receive those who wished to be alone , and desired the host to bring him a bottle of his best wine and as good a breakfast as possible -- a desire which further corroborated the high opinion the innkeeper had formed of the traveler at first sight .","('ask', 'demander', 'pedir')",1,10,1
+"d’artagnan asked the poor girl what was the matter with her ; but she , as her only reply , drew a letter from her pocket and gave it to him .","('ask', 'demander', 'preguntar')",0,1,0
+""" and who is that other person ? "" asked milady , warmly . "" can you not tell me his name ? ""","('ask', 'demander', 'preguntar')",0,9,0
+""" and will you go ? "" asked kitty .","('ask', 'demander', 'preguntar')",0,7,0
+""" what ? "" asked pencroft .","('ask', 'demander', 'preguntar')",0,4,0
+""" very good ; and i will ask you also to do it blindly , without always asking the reason . ""","('ask', 'demander', 'pedir')",1,7,1
+""" are the guns ready ? "" asked cyrus harding .","('ask', 'demander', 'preguntar')",0,7,0
+"it was evident that the servants who waited in the antechamber were warned , for as soon as d’artagnan appeared , before even he had asked if milady were visible , one of them ran to announce him .","('ask', 'demander', 'preguntar')",0,25,0
+""" are you comfortable , herbert ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,8,0
+"so i addressed the housekeeper ; asked her to show me a room , told her i should probably be a visitor here for a week or two , had my trunk conveyed to my chamber , and followed it thither myself : i met bessie on the landing .","('ask', 'demander', 'pedir')",1,6,1
+""" bills upon spain ? "" asked the disturbed host .","('ask', 'demander', 'preguntar')",0,6,0
+she asked d’artagnan if he had a mistress .,"('ask', 'demander', 'preguntar')",0,1,0
+""" i tell you i am sure of it , "" continued the host . "" when i informed him that your lordship was the protege of monsieur de treville , and that you even had a letter for that illustrious gentleman , he appeared to be very much disturbed , and asked me where that letter was , and immediately came down into the kitchen , where he knew your doublet was . ""","('ask', 'demander', 'preguntar')",0,52,0
+""" what is to be done ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,8,0
+what was he to do ? asked poor neb .,"('ask', 'demander', 'preguntar')",0,6,0
+i asked if georgiana would accompany her .,"('ask', 'demander', 'preguntar')",0,1,0
+""" is this that bonacieux ? "" asked he , after a moment of silence .","('ask', 'demander', 'preguntar')",0,7,0
+""" do i look so ? "" asked the baron , rising and going a step backward .","('ask', 'demander', 'preguntar')",0,7,0
+""" is she there , grimaud ? "" asked athos .","('ask', 'demander', 'preguntar')",0,8,0
+""" and bazin ? "" asked athos .","('ask', 'demander', 'preguntar')",0,5,0
+""" alas , do you love nothing else in me ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,12,0
+"no happy reconciliation was to be had with him -- no cheering smile or generous word : but still the christian was patient and placid ; and when i asked him if he forgave me , he answered that he was not in the habit of cherishing the remembrance of vexation ; that he had nothing to forgive , not having been offended .","('ask', 'demander', 'preguntar')",0,29,0
+""" and you , my friend ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,8,0
+"upon which the stranger asked his name , and learning that it was porthos , and not d’artagnan , he assisted him to rise , brought him back to the hotel , mounted his horse , and disappeared . ""","('ask', 'demander', 'pedir')",1,4,1
+""" but what is a cable 's length ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,10,0
+""" and how do you know it ? "" asked milady , seizing both his hands , and endeavoring to read with her eyes to the bottom of his heart .","('ask', 'demander', 'preguntar')",0,9,0
+he then asked who was that lusty man who had been sent out of the world with so much ceremony .,"('ask', 'demander', 'preguntar')",0,2,0
+"' nobody asked your opinion , ' said alice .","('ask', 'demander', 'pedir')",1,2,1
+""" then , it is your opinion that our friend has perished in the waves ? "" again asked the reporter .","('ask', 'demander', 'preguntar')",0,18,0
+""" where are we ? "" asked my uncle irascibly , as if he felt much injured by being landed upon the earth again .","('ask', 'demander', 'preguntar')",0,6,0
+""" what do you think of the story chalais ’s esquire relates ? "" asked another musketeer , without addressing anyone in particular , but on the contrary speaking to everybody .","('ask', 'demander', 'preguntar')",0,14,0
+""" what 's the matter ? "" asked cyrus harding .","('ask', 'demander', 'preguntar')",0,7,0
+""" and why ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,5,0
+""" and what does he say ? "" asked porthos , in a self - sufficient tone .","('ask', 'demander', 'preguntar')",0,8,0
+"what he ? "" asked the cardinal .","('ask', 'demander', 'preguntar')",0,4,0
+""" an artistic explanation , captain nemo , "" i replied , "" but i 'm unable to rest content with it . so i 'll ask you for your own personal views . ""","('ask', 'demander', 'pedir')",1,26,1
+""" i asked after you , and came up as soon as i could . ""","('ask', 'demander', 'preguntar')",0,2,0
+""" who ? "" asked his eminence .","('ask', 'demander', 'preguntar')",0,4,0
+""" then , since you 've already mentioned the crossing of the israelites and the catastrophe that befell the egyptians , i would ask if you 've ever discovered any traces under the waters of that great historic event ? ""","('ask', 'demander', 'preguntar')",0,23,0
+""" what is he waiting for ? "" asked another .","('ask', 'demander', 'preguntar')",0,8,0
+almost every day i asked mrs . fairfax if she had yet heard anything decided : her answer was always in the negative .,"('ask', 'demander', 'preguntar')",0,4,0
+""" captain , "" asked the sailor , "" would it not be a good plan , before setting out , to build a canoe in which we could either ascend the river , or , if we liked , coast round the inland ?","('ask', 'demander', 'preguntar')",0,4,0
+""" he does -- he has asked me to be his wife . ""","('ask', 'demander', 'pedir')",1,6,1
+""" of wood ? "" asked the negro , looking still unconvinced .","('ask', 'demander', 'preguntar')",0,5,0
+"and then our gascon , with that large quantity of conceit which we know he possessed , compared himself with de wardes , and asked himself why , after all , he should not be beloved for himself ?","('ask', 'demander', 'preguntar')",0,24,0
+"when the transports of the two lovers were calmer , milady , who had not the same motives for forgetfulness that d’artagnan had , was the first to return to reality , and asked the young man if the means which were on the morrow to bring on the encounter between him and de wardes were already arranged in his mind .","('ask', 'demander', 'preguntar')",0,33,0
+""" and it 's by luck that you discovered this passageway ? "" i asked , more and more startled .","('ask', 'demander', 'preguntar')",0,14,0
+"and why so ? "" asked porthos , warmly .","('ask', 'demander', 'preguntar')",0,5,0
+""" and what was the end of this worthy man ? "" asked d’artagnan .","('ask', 'demander', 'preguntar')",0,12,0
+""" what is the matter ? "" my uncle asked .","('ask', 'demander', 'preguntar')",0,9,0
+""" and what is that ? "" asked milady .","('ask', 'demander', 'preguntar')",0,7,0
+"candide , seeing a milton , asked the senator if he did not think that author a great man .","('ask', 'demander', 'preguntar')",0,6,0
+""" who told you that i loved him ? "" asked milady , sharply .","('ask', 'demander', 'preguntar')",0,10,0
+""" you ? "" asked milady .","('ask', 'demander', 'preguntar')",0,4,0
+""" are n't you coming , captain ? "" i asked .","('ask', 'demander', 'preguntar')",0,10,0
+""" what will you do with the letter , then ? "" asked porthos .","('ask', 'demander', 'preguntar')",0,12,0
+""" what man ? "" asked the cardinal .","('ask', 'demander', 'preguntar')",0,5,0
+""" my good dame , "" asked d’artagnan , "" can you tell me what has become of one of my friends , whom we were obliged to leave here about a dozen days ago ? ""","('ask', 'demander', 'preguntar')",0,6,0
+""" at what distance from the sea did you leave this turtle ? "" asked the engineer , who , having suspended his work , was reflecting on this incident .","('ask', 'demander', 'preguntar')",0,14,0
+""" well , mr . naturalist , "" the canadian asked in a gently mocking tone , "" and how about that mediterranean ? ""","('ask', 'demander', 'preguntar')",0,10,0
+""" did these footprints begin at the water 's edge ? "" asked the reporter .","('ask', 'demander', 'preguntar')",0,12,0
+""" the world ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,5,0
+""" what has become of her , then ? "" asked rochefort , eagerly .","('ask', 'demander', 'preguntar')",0,10,0
+""" but am i to remain always alone in this vast and dismal chamber ? "" asked milady .","('ask', 'demander', 'preguntar')",0,16,0
+""" we ask you nothing , my friend , "" said he ; "" it is your right to be silent . ""","('ask', 'demander', 'preguntar')",0,2,0
+"in her turn , helen burns asked me to explain , and i proceeded forthwith to pour out , in my own way , the tale of my sufferings and resentments .","('ask', 'demander', 'preguntar')",0,6,0
+"lord glenarvan made known to the irishman the cause which had brought him to these parts , and asked if he knew whether a three - masted english vessel , the ' britannia , ' had been lost less than two years before on the west coast of australia .","('ask', 'demander', 'preguntar')",0,18,0
+""" what ? "" asked neb .","('ask', 'demander', 'preguntar')",0,4,0
+""" was it not this d’artagnan who wounded jussac one day , in that unfortunate encounter which took place near the convent of the carmes - dechausses ? "" asked the king , looking at the cardinal , who colored with vexation .","('ask', 'demander', 'preguntar')",0,29,0
+""" ' who are you ? ' asked lord glenarvan .","('ask', 'demander', 'preguntar')",0,7,0
+"pangloss , who was as inquisitive as he was disputative , asked him what was the name of the mufti who was lately strangled .","('ask', 'demander', 'preguntar')",0,11,0
+""" but , "" asked harding , in a still feeble voice , "" you did not , then , pick me up on the beach ? ""","('ask', 'demander', 'preguntar')",0,4,0
+""" and who ? "" asked m. de treville .","('ask', 'demander', 'preguntar')",0,5,0
+"do any of the footsteps still remain ? "" asked harding .","('ask', 'demander', 'preguntar')",0,9,0
+""" what ? "" asked neb , who overheard him .","('ask', 'demander', 'preguntar')",0,4,0
+""" shall we leave the cart in the wood ? "" asked neb .","('ask', 'demander', 'preguntar')",0,11,0
+i summoned strength to ask what had caused this calamity .,"('ask', 'demander', 'preguntar')",0,4,0
+"towards twelve o'clock , pencroft having asked the engineer if they could now remove him , harding , instead of replying , and by an effort which exhibited the most energetic will , got up .","('ask', 'demander', 'preguntar')",0,6,0
+""" is that your opinion , captain ? "" asked herbert .","('ask', 'demander', 'preguntar')",0,9,0
+""" will you live with us ? "" asked cyrus harding .","('ask', 'demander', 'preguntar')",0,8,0
+"it was open ! "" what do you say now ? "" asked the engineer , turning to the sailor and spilett .","('ask', 'demander', 'preguntar')",0,12,0
+""" but is n't there any mark or direction on these instruments , tools , or books , which would tell us something about them ? "" asked gideon spilett .","('ask', 'demander', 'preguntar')",0,27,0
+""" and do you always forget your eyes when you run ? "" asked porthos .","('ask', 'demander', 'preguntar')",0,13,0
+"now , can you tell me whether it is actually true that mr . rochester has asked you to marry him ?","('ask', 'demander', 'pedir')",1,16,1
+""" and of what religion are you , then , madame ? "" asked felton , with an astonishment which in spite of the empire he held over himself he could not entirely conceal .","('ask', 'demander', 'preguntar')",0,13,0
+""" what 's the matter ? "" asked the engineer .","('ask', 'demander', 'preguntar')",0,7,0
+""" what ? "" asked porthos .","('ask', 'demander', 'preguntar')",0,4,0
+""" what do you mean by tetragones ? "" asked d’artagnan , uneasily .","('ask', 'demander', 'preguntar')",0,9,0
+""" but has ayrton told the truth ? "" asked the sailor .","('ask', 'demander', 'preguntar')",0,9,0

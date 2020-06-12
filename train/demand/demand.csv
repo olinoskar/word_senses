@@ -1,0 +1,37 @@
+text,sense,label,ind,new_label
+""" and who put the torpedo there ? "" demanded pencroft , who did not like to yield .","('demand', 'demander', 'preguntar')",0,9,0
+"you ran downstairs and demanded of mrs . fairfax some occupation : the weekly house accounts to make up , or something of that sort , i think it was . i was vexed with you for getting out of my sight .","('demand', 'demander', 'pedir')",1,4,1
+""" what is that noise ? "" demanded milady .","('demand', 'demander', 'preguntar')",0,7,0
+""" buckingham had left england the day before , sent as ambassador to spain , to demand the hand of the infanta for king charles i , who was then only prince of wales .","('demand', 'demander', 'pedir')",1,16,1
+""" have i anything to pay ? "" demanded d’artagnan .","('demand', 'demander', 'preguntar')",0,8,0
+""" what ’s the matter now , planchet ? "" demanded d’artagnan .","('demand', 'demander', 'preguntar')",0,10,0
+""" where must we place him ? "" demanded the chief .","('demand', 'demander', 'preguntar')",0,8,0
+""" which route must i take ? "" demanded d’artagnan , in his turn .","('demand', 'demander', 'preguntar')",0,8,0
+""" what she ? "" demanded the host .","('demand', 'demander', 'preguntar')",0,5,0
+""" and what is this cause ? "" demanded aramis .","('demand', 'demander', 'preguntar')",0,8,0
+""" what does this mean ? "" demanded he of the cardinal .","('demand', 'demander', 'preguntar')",0,7,0
+"at daybreak d’artagnan entered the chamber , and demanded what was to be done .","('demand', 'demander', 'preguntar')",0,8,0
+""" does the letter contain anything valuable ? "" demanded the host , after a few minutes of useless investigation . "" zounds !","('demand', 'demander', 'preguntar')",0,9,0
+""" but am i not your nearest relative ? "" demanded milady , with a tone of the most touching ingenuousness .","('demand', 'demander', 'preguntar')",0,10,0
+""" to what country ? "" demanded porthos .","('demand', 'demander', 'preguntar')",0,6,0
+""" well ? "" demanded d’artagnan .","('demand', 'demander', 'preguntar')",0,4,0
+""" am i , then , to remain here eternally ? "" demanded milady , with a certain terror .","('demand', 'demander', 'preguntar')",0,12,0
+""" do you find yourself badly lodged , sister ? demand anything you want , and i will hasten to have you furnished with it . ""","('demand', 'demander', 'pedir')",1,10,1
+""" did you come from boulogne ? "" demanded she of milady .","('demand', 'demander', 'preguntar')",0,8,0
+""" and why not ? "" demanded d’artagnan .","('demand', 'demander', 'preguntar')",0,6,0
+"they had just prepared their beds and barricaded their door within , when someone knocked at the yard shutter ; they demanded who was there , and recognizing the voices of their lackeys , opened the shutter .","('demand', 'demander', 'preguntar')",0,21,0
+""" i do n’t know what you mean , nor do i even desire to know what you mean , "" replied the cardinal ; "" but i wish to please you , and see nothing out of the way in giving you what you demand with respect to so infamous a creature -- the more so as you tell me this d’artagnan is a libertine , a duelist , and a traitor . ""","('demand', 'demander', 'pedir')",1,45,1
+""" why did n’t the baron come himself ? "" demanded buckingham . "" i expected him this morning . ""","('demand', 'demander', 'preguntar')",0,10,0
+""" what for ? "" demanded porthos .","('demand', 'demander', 'preguntar')",0,5,0
+""" well , and what are you going to do at st . germain ? "" then demanded athos .","('demand', 'demander', 'preguntar')",0,17,0
+"it was the colonists ' history which he thus demanded , and for the first time .","('demand', 'demander', 'preguntar')",0,9,0
+""" what do you want , monsieur ? "" demanded the musketeer , recoiling a step , and with a foreign accent , which proved to d’artagnan that he was deceived in one of his conjectures .","('demand', 'demander', 'preguntar')",0,9,0
+""" who are you , then ? "" demanded d’artagnan , lowering the point of his sword , but without yet surrendering it .","('demand', 'demander', 'preguntar')",0,8,0
+"but when once they passed the line of circumvallation and found themselves in the open plain , d’artagnan , who was completely ignorant of what was going forward , thought it was time to demand an explanation .","('demand', 'demander', 'pedir')",1,34,1
+""" what did he say ? "" demanded porthos .","('demand', 'demander', 'preguntar')",0,7,0
+""" well ? "" eagerly demanded all his three friends .","('demand', 'demander', 'preguntar')",0,5,0
+"nevertheless , they soon came to understand each other . neither looked at the amount of the payment : the one was ready to accept whatever was offered ; the other was ready to give whatever was demanded . never was bargain more readily concluded .","('demand', 'demander', 'pedir')",1,37,1
+""" where ? "" demanded d’artagnan .","('demand', 'demander', 'preguntar')",0,4,0
+""" will you depart -- will you depart , if i give you that you demand ? ""","('demand', 'demander', 'pedir')",1,15,1
+"yes , "" continued he , "" a charming woman , who entertained kind views toward our friend d’artagnan , who , on his part , has given her some offense for which she tried to revenge herself a month ago by having him killed by two musket shots , a week ago by trying to poison him , and yesterday by demanding his head of the cardinal . ""","('demand', 'demander', 'pedir')",1,62,1
+""" what ! by demanding my head of the cardinal ? "" cried d’artagnan , pale with terror .","('demand', 'demander', 'pedir')",1,4,1

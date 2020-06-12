@@ -1,0 +1,100 @@
+text,sense,label,ind,new_label
+"the host gave them another chamber , and served them with fresh eggs and some water , which athos went himself to draw at the fountain .","('host', 'hôte', 'hostelero')",0,1,0
+""" you will ask for the host , and will repeat to him the word ’ forward ! ’ ""","('host', 'hôte', 'hostelero')",0,6,0
+"but at the same moment , his two auditors , accompanied by the host , fell upon d’artagnan with sticks , shovels and tongs .","('host', 'hôte', 'hostelero')",0,13,0
+"the host , fearful of consequences , with the help of his servants carried the wounded man into the kitchen , where some trifling attentions were bestowed upon him .","('host', 'hôte', 'hostelero')",0,1,0
+"without waiting for the permission of his host , d’artagnan went quickly into the house , and cast a rapid glance at the bed .","('host', 'hôte', 'huésped')",1,7,1
+""" well , how is it with this madman ? "" exclaimed he , turning round as the noise of the door announced the entrance of the host , who came in to inquire if he was unhurt .","('host', 'hôte', 'hostelero')",0,27,0
+""" your excellency is safe and sound ? "" asked the host .","('host', 'hôte', 'hostelero')",0,11,0
+""" he is better , "" said the host , "" he fainted quite away . ""","('host', 'hôte', 'hostelero')",0,8,0
+"d’artagnan made his way through the crowd , advanced toward the host , and pronounced the word "" forward ! ""","('host', 'hôte', 'hostelero')",0,11,0
+"the host instantly made him a sign to follow , went out with him by a door which opened into a yard , led him to the stable , where a saddled horse awaited him , and asked him if he stood in need of anything else .","('host', 'hôte', 'huésped')",1,1,1
+"at our entrance the host , as if he had never seen us , greeted us with the word "" _ sællvertu , _ "" which means "" be happy , "" and came and kissed us on the cheek .","('host', 'hôte', 'huésped')",1,4,1
+""" oh , no , your excellency , he is not the devil , "" replied the host , with a grin of contempt ; "" for during his fainting we rummaged his valise and found nothing but a clean shirt and eleven crowns -- which however , did not prevent his saying , as he was fainting , that if such a thing had happened in paris , you should have cause to repent of it at a later period . ""","('host', 'hôte', 'hostelero')",0,17,0
+""" i have told you this , good sir , "" resumed the host , "" in order that you may be on your guard . ""","('host', 'hôte', 'hostelero')",0,13,0
+""" everything is paid , "" replied the host , "" and liberally .","('host', 'hôte', 'hostelero')",0,8,0
+"the host , who was not endowed with great perspicacity , did not observe the expression which his words had given to the physiognomy of the stranger .","('host', 'hôte', 'hostelero')",0,1,0
+"at eccuis , the same scene was repeated . he found as provident a host and a fresh horse . he left his address as he had done before , and set off again at the same pace for pontoise .","('host', 'hôte', 'hostelero')",0,14,0
+""" captain nemo , "" i told my host , who had just stretched out on a couch , "" this is a library that would do credit to more than one continental palace , and i truly marvel to think it can go with you into the deepest seas . ""","('host', 'hôte', 'huésped')",1,8,1
+""" what the devil ! "" said the host to himself . "" can he be afraid of this boy ? ""","('host', 'hôte', 'hostelero')",0,8,0
+"in the meantime , the host , who entertained no doubt that it was the presence of the young man that drove the stranger from his hostelry , re - ascended to his wife ’s chamber , and found d’artagnan just recovering his senses .","('host', 'hôte', 'huésped')",1,5,1
+giving him to understand that the police would deal with him pretty severely for having sought a quarrel with a great lord -- for the opinion of the host the stranger could be nothing less than a great lord -- he insisted that notwithstanding his weakness d’artagnan should get up and depart as quickly as possible .,"('host', 'hôte', 'huésped')",1,28,1
+"d’artagnan , half stupefied , without his doublet , and with his head bound up in a linen cloth , arose then , and urged by the host , began to descend the stairs ; but on arriving at the kitchen , the first thing he saw was his antagonist talking calmly at the step of a heavy carriage , drawn by two large norman horses .","('host', 'hôte', 'hostelero')",0,27,0
+"by the way , planchet , i think you are right with respect to our host , and that he is decidedly a frightfully low wretch . ""","('host', 'hôte', 'huésped')",1,15,1
+"possessed by one single thought -- that of the promise he had made , and of the responsibility he had taken -- he retired last to his chamber , begged the host to procure him a map of the province , bent over it , examined every line traced upon it , perceived that there were four different roads from bethune to armentieres , and summoned the lackeys .","('host', 'hôte', 'hostelero')",0,31,0
+"the host , on seeing a young man followed by a lackey with two extra horses , advanced respectfully to the door .","('host', 'hôte', 'hostelero')",0,1,0
+i could only thank my host .,"('host', 'hôte', 'huésped')",1,5,1
+"the result of these reflections was that d’artagnan , without asking information of any kind , alighted , commended the horses to the care of his lackey , entered a small room destined to receive those who wished to be alone , and desired the host to bring him a bottle of his best wine and as good a breakfast as possible -- a desire which further corroborated the high opinion the innkeeper had formed of the traveler at first sight .","('host', 'hôte', 'hostelero')",0,45,0
+""" pay him , booby ! "" cried the stranger to his servant , without checking the speed of his horse ; and the man , after throwing two or three silver pieces at the foot of mine host , galloped after his master .","('host', 'hôte', 'hostelero')",0,38,0
+"the host desired himself to serve him ; which d’artagnan perceiving , ordered two glasses to be brought , and commenced the following conversation .","('host', 'hôte', 'hostelero')",0,1,0
+""" he is a coward , indeed , "" grumbled the host , drawing near to d’artagnan , and endeavoring by this little flattery to make up matters with the young man , as the heron of the fable did with the snail he had despised the evening before .","('host', 'hôte', 'hostelero')",0,11,0
+""" what she ? "" demanded the host .","('host', 'hôte', 'hostelero')",0,7,0
+""" your lordship does me much honor , "" said the host , "" and i thank you sincerely for your kind wish . ""","('host', 'hôte', 'hostelero')",0,11,0
+""" ah , it ’s all one , "" said the host ; "" i have lost two customers , but this one remains , of whom i am pretty certain for some days to come .","('host', 'hôte', 'hostelero')",0,11,0
+""" exactly so , "" said the host ; "" i remember it perfectly .","('host', 'hôte', 'hostelero')",0,7,0
+"the host had reckoned upon eleven days of confinement at a crown a day , but he had reckoned without his guest .","('host', 'hôte', 'hostelero')",0,1,0
+"my god , my dear host , tell me if anything has happened to him ? ""","('host', 'hôte', 'huésped')",1,5,1
+"hence , it resulted when d’artagnan proceeded to draw his sword in earnest , he found himself purely and simply armed with a stump of a sword about eight or ten inches in length , which the host had carefully placed in the scabbard .","('host', 'hôte', 'hostelero')",0,37,0
+but this deception would probably not have stopped our fiery young man if the host had not reflected that the reclamation which his guest made was perfectly just .,"('host', 'hôte', 'huésped')",1,14,1
+his threat completed the intimidation of the host .,"('host', 'hôte', 'hostelero')",0,7,0
+""" does the letter contain anything valuable ? "" demanded the host , after a few minutes of useless investigation . "" zounds !","('host', 'hôte', 'hostelero')",0,11,0
+""" bills upon spain ? "" asked the disturbed host .","('host', 'hôte', 'hostelero')",0,9,0
+""" the devil ! "" cried the host , at his wit ’s end .","('host', 'hôte', 'hostelero')",0,7,0
+a ray of light all at once broke upon the mind of the host as he was giving himself to the devil upon finding nothing .,"('host', 'hôte', 'hostelero')",0,13,0
+"they soon arrived at the silent , solitary inn . no doubt the host knew what illustrious visitor was expected , and had consequently sent intruders out of the way .","('host', 'hôte', 'hostelero')",0,13,0
+"the host opened the door of a large room , in which an old stove had just been replaced by a large and excellent chimney . "" i have this , "" said he .","('host', 'hôte', 'hostelero')",0,1,0
+""" i tell you i am sure of it , "" continued the host . "" when i informed him that your lordship was the protege of monsieur de treville , and that you even had a letter for that illustrious gentleman , he appeared to be very much disturbed , and asked me where that letter was , and immediately came down into the kitchen , where he knew your doublet was . ""","('host', 'hôte', 'hostelero')",0,13,0
+"he then drew two crowns majestically from his purse and gave them to the host , who accompanied him , cap in hand , to the gate , and remounted his yellow horse , which bore him without any further accident to the gate of st . antoine at paris , where his owner sold him for three crowns , which was a very good price , considering that d’artagnan had ridden him hard during the last stage .","('host', 'hôte', 'hostelero')",0,14,0
+""" then , "" continued the host , "" i replied that as from the moment we seemed not likely to come to a good understanding with respect to payment , i hoped that he would have at least the kindness to grant the favor of his custom to my brother host of the golden eagle ; but monsieur porthos replied that , my house being the best , he should remain where he was .","('host', 'hôte', 'hostelero')",0,6,0
+"i recollect . "" "" then i paid the host six . ""","('host', 'hôte', 'hostelero')",0,9,0
+""" what a brute of a host ! why did you give him six pistoles ? ""","('host', 'hôte', 'hostelero')",0,6,0
+d’artagnan had often meditated against the perfidious host one of those hearty vengeances which offer consolation while they are hoped for .,"('host', 'hôte', 'hostelero')",0,7,0
+""" do you remember me ? "" said he to the host , who advanced to greet him .","('host', 'hôte', 'hostelero')",0,11,0
+"the host became as pale as death ; for d’artagnan had assumed a threatening attitude , and planchet modeled himself after his master .","('host', 'hôte', 'hostelero')",0,1,0
+""" ah , monseigneur , do not mention it ! "" cried the host , in the most pitiable voice imaginable .","('host', 'hôte', 'hostelero')",0,13,0
+"there happened then that which you know , and of which your precipitate departure , "" added the host , with an acuteness that did not escape d’artagnan , "" appeared to authorize the issue .","('host', 'hôte', 'hostelero')",0,18,0
+""" so that since that time-- "" replied d’artagnan , totally unable to refrain from laughing at the pitiable face of the host .","('host', 'hôte', 'hostelero')",0,22,0
+""" yes , monsieur , you are right , "" said the host .","('host', 'hôte', 'hostelero')",0,12,0
+""" but he must be disturbed , "" cried the host ; "" here are two english gentlemen just arrived . ""","('host', 'hôte', 'hostelero')",0,10,0
+""" why that question , my dear host ? "" asked d’artagnan . "" do you intend to sit up for me ? ""","('host', 'hôte', 'huésped')",1,7,1
+"saying these words , d’artagnan went upstairs , leaving his host a little better satisfied with respect to two things in which he appeared to be very much interested -- his debt and his life .","('host', 'hôte', 'huésped')",1,10,1
+"d’artagnan , in fact , heard a great noise on the side next the cellar . he rose , and preceded by the host wringing his hands , and followed by planchet with his musketoon ready for use , he approached the scene of action .","('host', 'hôte', 'hostelero')",0,23,0
+""" has the host told you nothing , then ? ""","('host', 'hôte', 'hostelero')",0,3,0
+""" so much the worse for you , my dear host , so much the worse ! when i am happy , i wish all the world to be so ; but it appears that is not possible . ""","('host', 'hôte', 'huésped')",1,10,1
+"the host replied that he had no other worthy of their excellencies ; but the travelers declared they would sleep in the common chamber , each on a mattress which might be thrown upon the ground .","('host', 'hôte', 'hostelero')",0,1,0
+"the host insisted ; but the travelers were firm , and he was obliged to do as they wished .","('host', 'hôte', 'hostelero')",0,1,0
+"mine host ’s face does not please me at all ; it is too gracious . ""","('host', 'hôte', 'hostelero')",0,1,0
+"mousqueton ’s horse which had traveled for five or six hours without a rider the day before , might have been able to pursue the journey ; but by an inconceivable error the veterinary surgeon , who had been sent for , as it appeared , to bleed one of the host ’s horses , had bled mousqueton ’s .","('host', 'hôte', 'hostelero')",0,51,0
+""" you will not wait till he asks ; you will speak first , and tell him that i am gone on the lookout , because certain expressions of our host have given me reason to think the road is not safe . i will say two words about it to the cardinal ’s esquire likewise . the rest concerns myself ; do n’t be uneasy about that . ""","('host', 'hôte', 'hostelero')",0,30,0
+"athos entered without the least mistrust , and took out two pistoles to pay the bill . the host was alone , seated before his desk , one of the drawers of which was partly open .","('host', 'hôte', 'hostelero')",0,18,0
+""" monseigneur , "" replied porthos , "" he has gone as a scout , on account of some words of our host , which made him believe the road was not safe . ""","('host', 'hôte', 'hostelero')",0,22,0
+""" mercy ! "" cried the host , "" if the lackey has drunk only half as much as the master , i am a ruined man . ""","('host', 'hôte', 'hostelero')",0,6,0
+d’artagnan burst into a laugh which changed the shiver of the host into a burning fever .,"('host', 'hôte', 'hostelero')",0,11,0
+he was moistened before and behind with a greasy liquid which the host recognized as his best olive oil .,"('host', 'hôte', 'hostelero')",0,12,0
+"in the meantime the host and his wife hurried down with lamps into the cellar , which had so long been interdicted to them and where a frightful spectacle awaited them .","('host', 'hôte', 'hostelero')",0,4,0
+the host recognized him .,"('host', 'hôte', 'hostelero')",0,1,0
+""" go up , "" said the host ; "" she is still in her chamber . ""","('host', 'hôte', 'hostelero')",0,7,0
+then the lamentations of the host and hostess pierced the vault of the cellar . d’artagnan himself was moved by them .,"('host', 'hôte', 'hostelero')",0,5,0
+"the host armed himself with a spit , and rushed into the chamber occupied by the two friends .","('host', 'hôte', 'hostelero')",0,1,0
+""" some wine ! "" said athos , on perceiving the host .","('host', 'hôte', 'hostelero')",0,11,0
+"he then related to his friends , word for word , all that had passed between him and his host , and how the man who had abducted the wife of his worthy landlord was the same with whom he had had the difference at the hostelry of the jolly miller .","('host', 'hôte', 'huésped')",1,19,1
+""" you shall pay me for all this , "" cried the exasperated host .","('host', 'hôte', 'hostelero')",0,13,0
+the host drew back and burst into tears .,"('host', 'hôte', 'hostelero')",0,1,0
+""" oh , gentlemen , "" said the host , "" i have been wrong . i confess it , but pardon to every sin ! you are gentlemen , and i am a poor innkeeper . you will have pity on me . ""","('host', 'hôte', 'hostelero')",0,8,0
+the host approached with hesitation .,"('host', 'hôte', 'hostelero')",0,1,0
+our host has a well - furnished cellar the key of which never leaves him ; only this cellar has a ventilating hole .,"('host', 'hôte', 'hostelero')",0,1,0
+"but after all , as conseil noted , we enjoyed complete freedom , we were daintily and abundantly fed . our host had kept to the terms of his agreement . we could n't complain , and moreover the very uniqueness of our situation had such generous rewards in store for us , we had no grounds for criticism .","('host', 'hôte', 'huésped')",1,21,1
+"d’artagnan wished that answer might be prompt and favorable ; and having again recommended porthos to the care of mousqueton , and paid his bill to the host , he resumed his route with planchet , already relieved of one of his led horses .","('host', 'hôte', 'hostelero')",0,27,0
+""" and a magnificent one ! "" cried the host .","('host', 'hôte', 'hostelero')",0,9,0
+""" what ? "" asked the host , quite cheerful again .","('host', 'hôte', 'hostelero')",0,6,0
+""" why , this man is a cask ! "" said the host , aside . "" if he only remains here a fortnight , and pays for what he drinks , i shall soon re - establish my business . ""","('host', 'hôte', 'hostelero')",0,12,0
+"as he finished , the host entered with the wine ordered and a ham which , fortunately for him , had been left out of the cellar .","('host', 'hôte', 'hostelero')",0,5,0
+"this time it was not a host but a hostess who received him . d’artagnan was a physiognomist . his eye took in at a glance the plump , cheerful countenance of the mistress of the place , and he at once perceived there was no occasion for dissembling with her , or of fearing anything from one blessed with such a joyous physiognomy .","('host', 'hôte', 'hostelero')",0,6,0
+"they arrived at the drinking room of the parpaillot . it was seven o’clock in the morning , and daylight began to appear . the three friends ordered breakfast , and went into a room in which the host said they would not be disturbed .","('host', 'hôte', 'huésped')",1,38,1
+"unfortunately , the hour was badly chosen for a private conference . the morning drum had just been beaten ; everyone shook off the drowsiness of night , and to dispel the humid morning air , came to take a drop at the inn . dragoons , swiss , guardsmen , musketeers , light - horsemen , succeeded one another with a rapidity which might answer the purpose of the host very well , but agreed badly with the views of the four friends .","('host', 'hôte', 'hostelero')",0,70,0
+""" the breakfast for these gentlemen is ready , "" said the host .","('host', 'hôte', 'hostelero')",0,12,0
+the host obeyed .,"('host', 'hôte', 'hostelero')",0,1,0
+""" shall i give you the change , my officer ? "" said the host .","('host', 'hôte', 'hostelero')",0,14,0
+"the host had not quite so good a bargain as he at first hoped for , but he made amends by slipping in two bottles of anjou wine instead of two bottles of champagne .","('host', 'hôte', 'hostelero')",0,1,0
+"i am glad to think that our host , in the innocence of his icelandic soul , was blind to the transparent artifices of my uncle .","('host', 'hôte', 'huésped')",1,7,1
+""" get rid of those ideas , mr . land , "" i answered the harpooner . "" and above all , do n't let them lead you to flare up against our hosts , which would only make our situation worse . ""","('host', 'hôte', 'huésped')",1,33,1
