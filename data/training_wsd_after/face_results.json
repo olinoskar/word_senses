@@ -1,0 +1,1 @@
+{"accuracy": 0.8147226173541964, "classifier": {"model": "GaussianNB", "param": {}}, "senses": [{"name": "('face', 'face', 'caro')", "ratio": 0.17880794701986755}, {"name": "('face', 'visage', 'caro')", "ratio": 0.07947019867549669}, {"name": "('face', 'visage', 'rostro')", "ratio": 0.7417218543046358}], "total": 151, "number_of_senses": 3}

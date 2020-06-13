@@ -1,0 +1,1 @@
+{"accuracy": 0.7079133064516129, "classifier": {"model": "RFC", "param": {"criterion": "entropy", "max_depth": 16, "n_estimators": 85}}, "senses": [{"name": "('paris', 'paris', 'paris')", "ratio": 1.0}], "total": 127, "number_of_senses": 2}

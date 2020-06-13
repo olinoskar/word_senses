@@ -1,0 +1,1 @@
+{"accuracy": 0.9978813559322034, "classifier": {"model": "SVC", "param": {"C": 1.692468001324739, "degree": 2, "gamma": 1578.4967831056376, "kernel": "poly"}}, "senses": [{"name": "('cry', 'cri', 'gritar')", "ratio": 0.1504237288135593}, {"name": "('cry', '\u00e9crier', 'exclamar')", "ratio": 0.8495762711864406}], "total": 472, "number_of_senses": 2}

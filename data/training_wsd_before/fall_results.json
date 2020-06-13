@@ -1,0 +1,1 @@
+{"accuracy": 0.9019905533063428, "classifier": {"model": "SVC", "param": {"C": 2.0303993110556515, "degree": 3, "gamma": 281.50890235668885, "kernel": "poly"}}, "senses": [{"name": "('fall', 'chute', 'caer')", "ratio": 0.1111111111111111}, {"name": "('fall', 'tomber', 'caer')", "ratio": 0.8888888888888888}], "total": 153, "number_of_senses": 3}

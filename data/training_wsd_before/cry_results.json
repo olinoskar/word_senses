@@ -1,0 +1,1 @@
+{"accuracy": 0.9385593220338984, "classifier": {"model": "kNN", "param": {"algorithm": "ball_tree", "leaf_size": 24, "metric": "chebyshev", "n_neighbors": 6}}, "senses": [{"name": "('cry', 'cri', 'gritar')", "ratio": 0.1504237288135593}, {"name": "('cry', '\u00e9crier', 'exclamar')", "ratio": 0.8495762711864406}], "total": 472, "number_of_senses": 3}

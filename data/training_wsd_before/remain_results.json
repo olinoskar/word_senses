@@ -1,0 +1,1 @@
+{"accuracy": 0.4634576612903226, "classifier": {"model": "RFC", "param": {"criterion": "entropy", "max_depth": 7, "n_estimators": 95}}, "senses": [{"name": "('remain', 'rester', 'permanecer')", "ratio": 0.576}, {"name": "('remain', 'rester', 'quedar')", "ratio": 0.424}], "total": 125, "number_of_senses": 3}

@@ -1,0 +1,1 @@
+{"accuracy": 0.993421052631579, "classifier": {"model": "kNN", "param": {"algorithm": "kd_tree", "leaf_size": 4, "metric": "euclidean", "n_neighbors": 9}}, "senses": [{"name": "('fall', 'chute', 'caer')", "ratio": 0.1111111111111111}, {"name": "('fall', 'tomber', 'caer')", "ratio": 0.8888888888888888}], "total": 153, "number_of_senses": 2}

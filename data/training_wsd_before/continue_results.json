@@ -1,0 +1,1 @@
+{"accuracy": 0.9085623678646934, "classifier": {"model": "RFC", "param": {"criterion": "gini", "max_depth": 13, "n_estimators": 16}}, "senses": [{"name": "('continue', 'continuer', 'continuar')", "ratio": 1.0}], "total": 175, "number_of_senses": 2}
