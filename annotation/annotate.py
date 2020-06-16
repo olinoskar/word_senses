@@ -24,7 +24,7 @@ def main():
             df = pd.read_csv(path_anno.format(word))
             break
         except FileNotFoundError as e:
-            print(e)
+
             try:
                 df = pd.read_csv(path.format(word, word))
                 df['wordnet_sense'] = [None] * len(df)
