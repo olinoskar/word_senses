@@ -48,7 +48,8 @@ def main():
 
     print_old_stats()
 
-    sys.exit()
+
+    
 
     df = get_data_from_urls(urls)
 
@@ -103,11 +104,6 @@ def get_book_urls():
             continue
 
         urls.add(url)
-
-
-
-
-        print(url)
     pprint(urls)
 
     urls = ['http://farkastranslations.com/' + url for url in urls]
@@ -148,13 +144,19 @@ def print_old_stats():
     df = pd.read_csv(FNAME_OCCURENCES)
     df = df.dropna()
 
-    short_words = set([word for word in df['Lemma'] if len(word) <= 3])
+    df = df[df['Occurences'] > 80]
+
+    print('Before removing stopwords:', len(df))
+
+    short_words = set([word for word in df['Lemma'] if len(word) <= 2])
 
     stop_words = set(stopwords.words('english')) 
     stop_words.add('-PRON-')
     stop_words = stop_words.union(short_words) 
 
     df = df[~df['Lemma'].isin(stop_words)]
+
+    print('After removing stopwords:', len(df))
     print(df[:50])
 
 
