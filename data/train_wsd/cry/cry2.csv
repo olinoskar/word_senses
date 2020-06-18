@@ -1,0 +1,473 @@
+text,sense,label,ind,new_label
+""" but they will come back ! "" cried ayrton .","('cry', 'écrier', 'exclamar')",0,8,0
+""" be ready to fire , my friends ! "" cried harding .","('cry', 'écrier', 'exclamar')",1,10,0
+""" no , upon my honor ! "" cried his majesty ’s guardsman .","('cry', 'écrier', 'exclamar')",0,8,0
+""" electric ? "" cried herbert .","('cry', 'écrier', 'exclamar')",0,4,0
+""" what , monsieur ! "" cried d’artagnan , "" and do you suppose-- ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" aramis , aramis ! "" cried d’artagnan , looking at his friend with an air of doubt .","('cry', 'écrier', 'exclamar')",0,6,0
+""" by us , you mean ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,8,0
+""" i recognize him ! "" cried pencroft , and it seemed as if his gun went off by itself .","('cry', 'écrier', 'exclamar')",0,6,0
+""" that 's capital ! "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,6,0
+""" a jacamar ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,5,0
+""" yes , pray , accursed woman ! "" cried the baron ; "" your prayer is so much the more generous from your being , i swear to you , in the power of a man who will never pardon you ! "" and he went out .","('cry', 'écrier', 'exclamar')",0,9,0
+""" it is not more difficult than that , "" cried the reporter , striking the sailor on the shoulder .","('cry', 'écrier', 'exclamar')",0,10,0
+""" dead ! "" cried ayrton , half rising from his bed , notwithstanding his weakness .","('cry', 'écrier', 'exclamar')",0,4,0
+""" indeed ; "" i cried , keeping up wonderfully , "" of course it is a german translation ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" what letter ? "" cried aramis , eagerly .","('cry', 'écrier', 'exclamar')",0,5,0
+""" eucalypti ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,4,0
+""" these are something like trees ! "" cried neb ; "" but are they good for anything ? ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" but with what weapon ? "" cried the reporter .","('cry', 'écrier', 'exclamar')",0,7,0
+""" d’artagnan , d’artagnan , "" cried aramis , "" you are killing me ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" twenty thousand pounds ! "" cried sullivan . "" twenty thousand pounds , which you would lose by a single accidental delay ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" thanks , d’artagnan , thanks ! "" cried aramis , almost in a state of delirium .","('cry', 'écrier', 'exclamar')",0,8,0
+""" what 's this ? "" he cried .","('cry', 'écrier', 'exclamar')",0,7,0
+""" be off , you wretch ! "" cried aramis , throwing his skullcap in his face . "" return whence you came ; take back those horrible vegetables , and that poor kickshaw ! order a larded hare , a fat capon , mutton leg dressed with garlic , and four bottles of old burgundy . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" what horror ! "" cried the queen .","('cry', 'écrier', 'exclamar')",0,5,0
+""" i will not suffer it ! no , no , i would rather die ! "" cried the queen , in whom the imperious blood of spain and austria began to rise . the chancellor made a profound reverence .","('cry', 'écrier', 'exclamar')",0,17,0
+""" never ? "" cried the reporter .","('cry', 'écrier', 'exclamar')",0,4,0
+""" there , monsieur , there is that letter ! "" cried the queen , with a broken and trembling voice ; "" take it , and deliver me from your odious presence . ""","('cry', 'écrier', 'exclamar')",0,11,0
+""" what ! "" cried d’artagnan , "" is your first witness monsieur porthos ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" birds ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,4,0
+""" what ! "" cried he , in an accent of greater astonishment than before , "" your second witness is monsieur aramis ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+"he quickened his pace until we had decreased the distance which divided us by about half . then , still keeping a hundred yards behind , we followed into oxford street and so down regent street . once our friends stopped and stared into a shop window , upon which holmes did the same . an instant afterwards he gave a little cry of satisfaction , and , following the direction of his eager eyes , i saw that a hansom cab with a man inside which had halted on the other side of the street was now proceeding slowly onward again .","('cry', 'cri', 'gritar')",2,62,2
+""" oh , my ' bonadventure ! ' my poor ' bonadventure ! ' "" cried pencroft , almost broken - hearted at the destruction of the vessel of which he was so proud .","('cry', 'écrier', 'exclamar')",0,15,0
+""" top has found something ! "" cried neb , who ran towards a thicket , in the midst of which the dog had disappeared , barking .","('cry', 'écrier', 'exclamar')",0,7,0
+"almost instantly a female head was put out at the window , with two fingers placed upon her mouth , either to enjoin silence or to send him a kiss . d’artagnan uttered a slight cry of joy ; this woman , or rather this apparition -- for the carriage passed with the rapidity of a vision -- was mme . bonacieux .","('cry', 'cri', 'gritar')",2,35,2
+""" we are cut off ! "" cried neb .","('cry', 'écrier', 'exclamar')",0,7,0
+""" halloo ! "" cried jussac , advancing toward them and making a sign to his men to do so likewise , "" halloo , musketeers ? fighting here , are you ?","('cry', 'écrier', 'exclamar')",1,4,0
+""" that 's not it , "" cried my uncle , "" there 's no sense in it . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" hurrah ! "" cried pencroft , who was always ready with this cry of triumph .","('cry', 'cri', 'gritar')",2,13,2
+""" withdraw , young man , "" cried jussac , who doubtless , by his gestures and the expression of his countenance , had guessed d’artagnan ’s design .","('cry', 'écrier', 'exclamar')",1,7,0
+""" ah , monseigneur , do not mention it ! "" cried the host , in the most pitiable voice imaginable .","('cry', 'écrier', 'exclamar')",0,11,0
+""" well , yes , my brave fellow , "" cried the reporter .","('cry', 'écrier', 'exclamar')",0,10,0
+""" well , then , athos , porthos , aramis , and d’artagnan , forward ! "" cried athos .","('cry', 'écrier', 'exclamar')",1,17,0
+""" come , gentlemen , have you decided ? "" cried jussac for the third time .","('cry', 'écrier', 'exclamar')",1,10,0
+""" ah ! you resist , do you ? "" cried jussac .","('cry', 'écrier', 'exclamar')",0,10,0
+the queen uttered a piercing cry at finding herself surprised -- for in her trouble she did not at first recognize the young woman who had been given to her by laporte .,"('cry', 'cri', 'gritar')",2,5,2
+""" you , oh , heaven , you ! "" cried the queen ; "" but look me in the face .","('cry', 'écrier', 'exclamar')",0,10,0
+"she felt by intuition the flame of the opposing passions which burned with the blood in the veins of the young fanatic . as a skillful general , seeing the enemy ready to surrender , marches toward him with a cry of victory , she rose , beautiful as an antique priestess , inspired like a christian virgin , her arms extended , her throat uncovered , her hair disheveled , holding with one hand her robe modestly drawn over her breast , her look illumined by that fire which had already created such disorder in the veins of the young puritan , and went toward him , crying out with a vehement air , and in her melodious voice , to which on this occasion she communicated a terrible energy :","('cry', 'cri', 'gritar')",2,40,2
+""" miserable scoundrel ! "" cried d’artagnan , "" you were all in the plot , then ! and i really do n’t know what prevents me from exterminating you all . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" who art thou ? who art thou ? "" cried he , clasping his hands . "" art thou a messenger from god ; art thou a minister from hell ; art thou an angel or a demon ; callest thou thyself eloa or astarte ? ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" yes , without doubt , it is necessary , "" cried the queen ; "" but how am i to act ? how can it be effected ? ""","('cry', 'écrier', 'exclamar')",0,11,0
+""" aha , clever saknussemm ! "" he cried . "" you had first written out your sentence the wrong way . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" but athos ! "" cried d’artagnan , whose impatience was increased by the disregard of the authorities , "" athos , where is he ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" round the world ? "" cried fix .","('cry', 'écrier', 'exclamar')",0,6,0
+"speak , speak ! "" cried felton , "" i can understand you now . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" do that , "" cried she , "" and you will have saved my life , you will have saved my honor ! ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" but where is athos now ? "" cried d’artagnan . "" where is athos ? ""","('cry', 'écrier', 'exclamar')",0,8,0
+"though alone against all and with a wound in his thigh , bicarat wished to hold out ; but jussac , who had risen upon his elbow , cried out to him to yield .","('cry', 'écrier', 'exclamar')",1,28,0
+""" oh , mr . spilett , how i admire and envy you ! "" cried herbert , in a fit of very natural enthusiasm .","('cry', 'écrier', 'exclamar')",0,15,0
+""" but , "" cried the young officer , "" speak , then , speak ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+"we had risen to depart when baskerville gave a cry , of triumph , and diving into one of the corners of the room he drew a brown boot from under a cabinet .","('cry', 'cri', 'gritar')",2,9,2
+""" how ? you refuse ? "" cried the cardinal , with astonishment .","('cry', 'écrier', 'exclamar')",0,7,0
+""" but he must be disturbed , "" cried the host ; "" here are two english gentlemen just arrived . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" stand on one side , d’artagnan , stand on one side , "" cried athos . "" i am going to fire ! ""","('cry', 'écrier', 'exclamar')",1,14,0
+""" why , this is a victory ! "" cried the king , all radiant , "" a complete victory ! ""","('cry', 'écrier', 'exclamar')",0,9,0
+""" and you were right , "" cried aramis and porthos , with one voice .","('cry', 'écrier', 'exclamar')",0,7,0
+""" be silent , madame , "" cried felton , "" and do not speak to me thus ; i came to entreat you to promise me upon your honor , to swear to me by what you hold most sacred , that you will make no attempt upon your life . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" he who wounded jussac ! "" cried the king , "" he , a boy !","('cry', 'écrier', 'exclamar')",0,7,0
+""" mercy ! "" cried the host , "" if the lackey has drunk only half as much as the master , i am a ruined man . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" the cardinal ? "" cried mme . bonacieux . "" have you seen the cardinal ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+"passepartout , not less surprised , rushed out and speedily returned , crying : "" monsieur , no more railway ! ""","('cry', 'écrier', 'exclamar')",0,12,0
+""" ah , you are a cardinalist , then , monsieur , are you ? "" cried she ; "" and you serve the party of those who maltreat your wife and insult your queen ? ""","('cry', 'écrier', 'exclamar')",0,16,0
+""" why , captain , "" cried herbert , "" that fire was blazing like a star of the first magnitude ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" it ’s the same thing , "" cried the young woman .","('cry', 'écrier', 'exclamar')",0,8,0
+""" the sea , the sea everywhere ! "" they cried , as if their lips could not restrain the words which made islanders of them .","('cry', 'écrier', 'exclamar')",0,10,0
+""" down into the cellar ? "" cried the old servant .","('cry', 'écrier', 'exclamar')",0,7,0
+"this cry was generally heeded ; for the musketeers were known to be enemies of the cardinal , and were beloved on account of the hatred they bore to his eminence .","('cry', 'cri', 'gritar')",2,1,2
+""" and a magnificent one ! "" cried the host .","('cry', 'écrier', 'exclamar')",0,7,0
+"a fierce cry seemed to give the lie to her favourable report : the clothed hyena rose up , and stood tall on its hind - feet .","('cry', 'cri', 'gritar')",2,2,2
+""" what does that mean ? "" cried neb .","('cry', 'écrier', 'exclamar')",0,7,0
+""" the sound ! "" he cried .","('cry', 'écrier', 'exclamar')",0,6,0
+"but he had scarcely looked at it , when he uttered a cry , and the glass almost fell from his hands .","('cry', 'cri', 'gritar')",2,12,2
+""" but who do you think it is ? "" cried neb .","('cry', 'écrier', 'exclamar')",0,10,0
+""" my master always , and everywhere ! "" cried neb .","('cry', 'écrier', 'exclamar')",0,9,0
+"they set noiselessly to work , and the parsee on one side and passepartout on the other began to loosen the bricks so as to make an aperture two feet wide . they were getting on rapidly , when suddenly a cry was heard in the interior of the temple , followed almost instantly by other cries replying from the outside . passepartout and the guide stopped . had they been heard ? was the alarm being given ? common prudence urged them to retire , and they did so , followed by phileas fogg and sir francis . they again hid themselves in the wood , and waited till the disturbance , whatever it might be , ceased , holding themselves ready to resume their attempt without delay . but , awkwardly enough , the guards now appeared at the rear of the temple , and there installed themselves , in readiness to prevent a surprise .","('cry', 'cri', 'gritar')",2,41,2
+""" oh , do not kill me ! "" cried the bandit . "" pardon , pardon , my officer , and i will tell you all . ""","('cry', 'écrier', 'exclamar')",0,9,0
+"at this moment sir francis and the guide seized phileas fogg , who , in an instant of mad generosity , was about to rush upon the pyre . but he had quickly pushed them aside , when the whole scene suddenly changed . a cry of terror arose . the whole multitude prostrated themselves , terror - stricken , on the ground .","('cry', 'cri', 'gritar')",2,45,2
+"but at that moment , top barked angrily , and neb , who was looking for the first steps , uttered a cry . there was no longer a ladder !","('cry', 'cri', 'gritar')",2,22,2
+""" if it is a joke , "" cried pencroft , "" it is a very stupid one !","('cry', 'écrier', 'exclamar')",0,8,0
+""" but , "" cried the bandit , "" that is only another way of killing me . how can i go and fetch that letter under the fire of the bastion ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" horror ! "" cried d’artagnan . "" what do you tell me ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" some one , "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,5,0
+""" we could defend it , ' , cried herbert .","('cry', 'écrier', 'exclamar')",0,8,0
+""" pardon , monsieur ; pity ! in the name of that young lady you love , and whom you perhaps believe dead but who is not ! "" cried the bandit , throwing himself upon his knees and leaning upon his hand -- for he began to lose his strength with his blood .","('cry', 'écrier', 'exclamar')",0,29,0
+""" heavens , athos , a murder ? "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,9,0
+""" stop , stop ! "" cried he , regaining strength by force of terror . "" i will go -- i will go ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" ah ! a note ! "" cried herbert , pointing to a paper lying on the table .","('cry', 'écrier', 'exclamar')",0,7,0
+""" your honour is giving me a fortune ! "" cried he .","('cry', 'écrier', 'exclamar')",0,10,0
+""" and against whom ? "" cried the king .","('cry', 'écrier', 'exclamar')",0,6,0
+"a slight shock , the dull noise of three balls which penetrated the flesh , a last cry , a convulsion of agony , proved to d’artagnan that the would - be assassin had saved his life .","('cry', 'cri', 'gritar')",2,17,2
+""" the idea came into your mind to avenge yourself on this man , did it not ? "" cried felton .","('cry', 'écrier', 'exclamar')",0,19,0
+""" claw cape , "" cried neb directly , who also wished to be godfather to some part of his domain .","('cry', 'écrier', 'exclamar')",0,5,0
+""" as to that , "" cried d’artagnan , after a moment of reflection , "" i shall surmount it , be assured . ""","('cry', 'écrier', 'exclamar')",0,6,0
+"all here was in order ; but a cry escaped the colonists when they saw that the door , which they had closed on their departure , was now wide open .","('cry', 'cri', 'gritar')",2,8,2
+""" then , "" continued milady , "" then i collected all my strength ; i recalled to my mind that the moment of vengeance , or rather , of justice , had struck . i looked upon myself as another judith ; i gathered myself up , my knife in my hand , and when i saw him near me , stretching out his arms to find his victim , then , with the last cry of agony and despair , i struck him in the middle of his breast .","('cry', 'cri', 'gritar')",2,76,2
+""" the cardinal ’s ? "" cried d’artagnan , breaking into a loud laugh , he having heard , as may be remembered , thanks to the broken boards , every syllable of the conversation between the mercer and his wife .","('cry', 'écrier', 'exclamar')",0,6,0
+""" pardieu , "" cried d’artagnan , "" it will be a double amusing affair to save the queen with the cardinal ’s money ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" oh , i am already grandly recompensed ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,10,0
+""" ’ very well , ’ cried i , ’ then the place of my punishment will be that of my tomb .","('cry', 'écrier', 'exclamar')",0,6,0
+"a cry of disappointment , almost a cry of despair , escaped them !","('cry', 'cri', 'gritar')",2,1,2
+"a cry of disappointment , almost a cry of despair , escaped them !","('cry', 'cri', 'gritar')",2,7,2
+""" very good ! excellent ! "" cried my uncle , to the great scandal of the professor of natural history .","('cry', 'écrier', 'exclamar')",0,7,0
+""" what are you going to do ? "" cried mme . bonacieux ; "" you will ruin us all ! ""","('cry', 'écrier', 'exclamar')",0,9,0
+""" ’ you ? ’ cried i. ’ you ? ’","('cry', 'écrier', 'exclamar')",0,5,0
+""" what a magnificent beast ! "" cried neb .","('cry', 'écrier', 'exclamar')",0,7,0
+""" pardieu ! "" cried d’artagnan , "" you could not have arrived in better time ; the dinner can not have had time to get cold ! can it , gentlemen ? "" added the young man , turning to the two guards , whom he introduced to his friends .","('cry', 'écrier', 'exclamar')",0,4,0
+""" men in this place ? "" cried the reporter .","('cry', 'écrier', 'exclamar')",0,7,0
+"i did as requested . as he took the cup from my hand , adele , thinking the moment propitious for making a request in my favour , cried out--","('cry', 'écrier', 'exclamar')",0,28,0
+""" but , "" cried felton , "" that is a fleur - de - lis which i see there . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" athos , you make me tremble ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,9,0
+""" pardon ! pardon ! "" cried felton , "" oh , pardon ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" a famous fellow , "" cried my uncle ; "" but he little thinks of the marvellous part he has to play in the future . ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" ventrebleu ! "" cried d’artagnan , rising from the table , the story of the present day making him forget that of the preceding one .","('cry', 'écrier', 'exclamar')",0,4,0
+""" kangaroos ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,4,0
+"but at that moment a cry was heard , and a great orang , who had hidden himself in the passage , rushed into the room , pursued by neb .","('cry', 'cri', 'gritar')",2,5,2
+"you pretend to pardon me , and you poison me ! "" "" i ! "" cried d’artagnan . "" i , wretch ?","('cry', 'écrier', 'exclamar')",0,16,0
+""" ah ! "" cried he , on perceiving d’artagnan , "" ah ! this is frightful !","('cry', 'écrier', 'exclamar')",0,4,0
+"but this is droll , "" cried d’artagnan , consoled , and holding his sides with laughter .","('cry', 'écrier', 'exclamar')",0,6,0
+""" buckingham , the executioner of this angelic creature ! "" cried felton .","('cry', 'écrier', 'exclamar')",0,11,0
+""" he must have been holding it as a signal , "" said i. "" let us see if there is any answer . "" i held it as he had done , and stared out into the darkness of the night . vaguely i could discern the black bank of the trees and the lighter expanse of the moor , for the moon was behind the clouds . and then i gave a cry of exultation , for a tiny pin - point of yellow light had suddenly transfixed the dark veil , and glowed steadily in the centre of the black square framed by the window .","('cry', 'cri', 'gritar')",2,74,2
+""" oh , my god ! "" cried mme . bonacieux , "" he will rouse the whole quarter . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" to her and to you ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,8,0
+""" lord de winter ! "" cried felton .","('cry', 'écrier', 'exclamar')",0,6,0
+""" oh , what an abyss ; what an abyss ! "" cried felton .","('cry', 'écrier', 'exclamar')",0,12,0
+"there lived in harmony several couples of kingfishers perched on a stone , grave , motionless , watching for fish , then darting down , they plunged in with a sharp cry , and reappeared with their prey in their beaks .","('cry', 'cri', 'gritar')",2,31,2
+""" well , then , we will live and die together ! "" cried he , pressing his lips to those of the prisoner .","('cry', 'écrier', 'exclamar')",0,13,0
+""" you , aramis ? "" cried the three friends . "" you ! and how ? ""","('cry', 'écrier', 'exclamar')",0,6,0
+"felton uttered a cry , and rushed toward her . he was too late ; milady had stabbed herself .","('cry', 'cri', 'gritar')",2,3,2
+"porthos ! "" cried athos , and laughed aloud .","('cry', 'écrier', 'exclamar')",0,3,0
+"a cry of pain broke from the lad 's lips , and he leaped to his feet , tearing his hands away from lord henry 's grasp .","('cry', 'cri', 'gritar')",2,1,2
+""" and prepare our second corn - field ! "" cried the sailor with a triumphant air .","('cry', 'écrier', 'exclamar')",0,10,0
+""" ah , if we only had a knife ! "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,11,0
+""" not at all ; it interests me very much , "" cried d’artagnan ; "" and at this moment i have absolutely nothing to do . ""","('cry', 'écrier', 'exclamar')",0,12,0
+""" am i to believe that ? "" i cried .","('cry', 'écrier', 'exclamar')",0,9,0
+"the hesitation created some suspicion in the three friends , and athos , advancing a few paces in front of the others , cried in a firm voice , "" who goes there ? ""","('cry', 'écrier', 'exclamar')",1,23,0
+""" monsieur the cardinal ! "" cried the stupefied musketeer .","('cry', 'écrier', 'exclamar')",0,6,0
+""" these are onagers ! "" cried herbert , "" animals something between the zebra and the quagga ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" d’artagnan , you restore me to life ! "" cried aramis .","('cry', 'écrier', 'exclamar')",0,10,0
+""" greenland ? "" i cried .","('cry', 'écrier', 'exclamar')",0,5,0
+"a cry of terror broke from dorian gray 's lips , and he rushed between the painter and the screen . "" basil , "" he said , looking very pale , "" you must not look at it . i do n't wish you to . ""","('cry', 'cri', 'gritar')",2,1,2
+"suddenly my uncle uttered a cry . i thought his foot must have slipped and that he had fallen down one of the holes . but , no ; i saw him , with arms outstretched and legs straddling wide apart , erect before a granite rock that stood in the centre of the crater , just like a pedestal made ready to receive a statue of pluto . he stood like a man stupefied , but the stupefaction soon gave way to delirious rapture .","('cry', 'cri', 'gritar')",2,5,2
+""" to london ! "" cried porthos ; "" and what the devil are we going to do in london ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" well said , "" cried aramis ; "" you do n’t often speak , athos , but when you do speak , it is like st . john of the golden mouth .","('cry', 'écrier', 'exclamar')",0,5,0
+""" oh , saved , saved ! "" cried she .","('cry', 'écrier', 'exclamar')",0,8,0
+"the pilot , at first , did not seem to comprehend ; he could scarcely realise so much determination and tenacity . then he cried , "" well -- yes ! your honour is right . to shanghai ! ""","('cry', 'écrier', 'exclamar')",0,24,0
+""" ah , captain , i understand ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,9,0
+""" confound her ! "" cried john bunsby , pushing back the rudder with a desperate jerk .","('cry', 'écrier', 'exclamar')",0,5,0
+""" a scar on his temple ! "" cried d’artagnan ; "" and with that , white teeth , a piercing eye , dark complexion , black hair , and haughty carriage -- why , that ’s my man of meung . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" now , axel , "" cried the professor with enthusiasm , "" now we are really going into the interior of the earth . at this precise moment the journey commences . ""","('cry', 'écrier', 'exclamar')",0,6,0
+the stranger cried that he acknowledged no other king but his eminence .,"('cry', 'écrier', 'exclamar')",0,2,0
+"they were divers , easily recognized by their cry , which much resembles the braying of a donkey .","('cry', 'cri', 'gritar')",2,8,2
+""" i do not retreat , mordieu ! "" cried the citizen , swearing in order to rouse his courage .","('cry', 'écrier', 'exclamar')",0,9,0
+""" ma - madame ! "" cried he ; "" is that you ?","('cry', 'écrier', 'exclamar')",0,6,0
+"the telescope , a formidable instrument mounted upon a tripod , stood upon the flat leads of the house . frankland clapped his eye to it and gave a cry of satisfaction .","('cry', 'cri', 'gritar')",2,29,2
+""" ah , monsieur porthos , "" cried the procurator ’s wife , when she was assured that no one who was a stranger to the population of the locality could either see or hear her , "" ah , monsieur porthos , you are a great conqueror , as it appears ! ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" it ca n't be a coincidence , "" he cried , at last springing from his chair and pacing wildly up and down the room ; "" it is impossible that it should be a mere coincidence . the very pills which i suspected in the case of drebber are actually found after the death of stangerson . and yet they are inert . what can it mean ? surely my whole chain of reasoning can not have been false . it is impossible ! and yet this wretched dog is none the worse . ah , i have it ! i have it ! ""","('cry', 'écrier', 'exclamar')",1,10,0
+""" why , "" cried pencroft , "" were we obliged to throw overboard all the weapons we had with us in the car , all our implements , even our pocket - knives ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" a servant ! "" cried mr . batulcar , caressing the thick grey beard which hung from his chin . "" i already have two who are obedient and faithful , have never left me , and serve me for their nourishment and here they are , "" added he , holding out his two robust arms , furrowed with veins as large as the strings of a bass - viol .","('cry', 'écrier', 'exclamar')",0,5,0
+"the settlers heard successively the song of birds , the cry of quadrupeds , and a sort of clacking which they might have believed to have escaped from the lips of a native .","('cry', 'cri', 'gritar')",2,10,2
+""" i would rather be here than in the hands of the southerners , "" cried the sailor , "" especially since the captain has been kind enough to come and join us again . ""","('cry', 'écrier', 'exclamar')",0,15,0
+""" good lord , how quickly men forget ! "" cried the procurator ’s wife , raising her eyes toward heaven .","('cry', 'écrier', 'exclamar')",0,10,0
+"the night was quiet enough . toward two o’clock in the morning somebody endeavored to open the door ; but as planchet awoke in an instant and cried , "" who goes there ? "" somebody replied that he was mistaken , and went away .","('cry', 'écrier', 'exclamar')",1,27,0
+""" ah , this time , "" cried d’artagnan , springing to his sword , "" this time he will not escape me ! ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" well then , "" cried the sailor , "" i am quite ready to be captain -- as soon as you can make a craft that 's able to keep at sea ! ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" it is evident , "" i cried , "" the marine deposits formed in the second period , these shales , limestones , and sandstones . we are turning away from the primary granite . we are just as if we were people of hamburg going to lübeck by way of hanover ! ""","('cry', 'écrier', 'exclamar')",0,7,0
+"it was passepartout 's fault . abandoning his position , clearing the footlights without the aid of his wings , and , clambering up to the right - hand gallery , he fell at the feet of one of the spectators , crying , "" ah , my master ! my master ! ""","('cry', 'écrier', 'exclamar')",0,42,0
+""" well ! "" cried he , throwing his sword upon the bed , "" this man must be the devil in person ; he has disappeared like a phantom , like a shade , like a specter . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" oh , do n’t talk of such things ! "" cried the procurator ’s wife , bursting into tears .","('cry', 'écrier', 'exclamar')",0,11,0
+""" fear not for water , "" cried a third . "" he who could draw it from the rocks will not now abandon his own chosen people . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" who are you , and what do you want ? "" cried she .","('cry', 'écrier', 'exclamar')",0,12,0
+""" tell me who this man was ! "" cried the young officer .","('cry', 'écrier', 'exclamar')",0,9,0
+""" a coal mine ! "" i cried .","('cry', 'écrier', 'exclamar')",0,7,0
+""" but observe , "" cried d’artagnan , "" that there is a woman in the affair -- a woman carried off , a woman who is doubtless threatened , tortured perhaps , and all because she is faithful to her mistress . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" it is not madame bonacieux about whom i am anxious , "" cried d’artagnan , "" but the queen , whom the king abandons , whom the cardinal persecutes , and who sees the heads of all her friends fall , one after the other . ""","('cry', 'écrier', 'exclamar')",0,13,0
+"the cry had been loud on account of its vehemence , but it had pealed out from somewhere far off on the shadowy plain . now it burst upon our ears , nearer , louder , more urgent than before .","('cry', 'cri', 'gritar')",2,1,2
+"again the agonized cry swept through the silent night , louder and much nearer than ever . and a new sound mingled with it , a deep , muttered rumble , musical and yet menacing , rising and falling like the low , constant murmur of the sea .","('cry', 'cri', 'gritar')",2,3,2
+""" a seal hunt ! "" cried the sailor , turning towards gideon spilett .","('cry', 'écrier', 'exclamar')",0,6,0
+""" well now , and the ladder , "" cried the sailor ; "" who can the gentleman have been who sent us that down ? ""","('cry', 'écrier', 'exclamar')",0,9,0
+""" and one for me -- the best for last ! "" cried d’artagnan , furious , nailing him to the earth with a fourth thrust through his body .","('cry', 'écrier', 'exclamar')",0,12,0
+"neb ! "" cried the engineer .","('cry', 'écrier', 'exclamar')",0,3,0
+""" who goes there ? "" cried he , as soon as he perceived the horsemen .","('cry', 'écrier', 'exclamar')",1,6,0
+""" ah , traitor , "" cried buckingham , "" you have killed me ! ""","('cry', 'écrier', 'exclamar')",1,6,0
+"felton cast his eyes round for means of escape , and seeing the door free , he rushed into the next chamber , in which , as we have said , the deputies from la rochelle were waiting , crossed it as quickly as possible , and rushed toward the staircase ; but upon the first step he met lord de winter , who , seeing him pale , confused , livid , and stained with blood both on his hands and face , seized him by the throat , crying , "" i knew it ! i guessed it !","('cry', 'écrier', 'exclamar')",0,90,0
+""" gentlemen , gentlemen , "" cried d’artagnan , who began to get a glimpse of the result of the adventure , "" the thing is serious . let us try not to jest , if we can .","('cry', 'écrier', 'exclamar')",0,6,0
+"at the cry uttered by the duke and the scream of patrick , the man whom felton had met in the antechamber rushed into the chamber .","('cry', 'cri', 'gritar')",2,2,2
+""" he took you for buckingham ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,8,0
+""" he appears to have broken his neck by falling over these rocks . my friend and i were strolling on the moor when we heard a cry . ""","('cry', 'écrier', 'exclamar')",1,27,0
+""" she has blown up ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,7,0
+""" the gascon is the devil ! "" cried athos ; "" nothing escapes him . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" oh , my lord ! "" cried the baron , "" i shall never console myself . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" what a country ! "" cried he . "" mere cattle stop the trains , and go by in a procession , just as if they were not impeding travel ! parbleu ! i should like to know if mr . fogg foresaw this mishap in his programme ! and here 's an engineer who does n't dare to run the locomotive into this herd of beasts ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" i heard a cry also . that was what brought me out . i was uneasy about sir henry . ""","('cry', 'cri', 'gritar')",2,4,2
+""" there are two ways out of the room , "" cried ferrier ; "" there is the door , and there is the window . which do you care to use ? ""","('cry', 'écrier', 'exclamar')",1,11,0
+"this time the descent commenced by the new gallery . hans walked first as was his custom . we had not gone a hundred yards when the professor , moving his lantern along the walls , cried :","('cry', 'écrier', 'exclamar')",0,36,0
+""" save me , gentlemen , for the love of heaven , save me ! "" cried he .","('cry', 'écrier', 'exclamar')",0,16,0
+""" a moment , "" cried d’artagnan , making them a sign to replace in the scabbard their half - drawn swords . "" it is not courage that is needed ; it is prudence . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" what a lucky chance it would be if we could capture it ! "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,15,0
+""" and yet , "" cried porthos , "" we will not leave-- ""","('cry', 'écrier', 'exclamar')",0,5,0
+at last i failed utterly ; i uttered a cry and fell .,"('cry', 'cri', 'gritar')",2,9,2
+""" that proctor on this train ! "" cried fix . "" well , reassure yourself , madam ; before he settles with mr . fogg ; he has got to deal with me ! it seems to me that i was the more insulted of the two . ""","('cry', 'écrier', 'exclamar')",0,8,0
+patrick uttered a loud cry .,"('cry', 'cri', 'gritar')",2,4,2
+""" that is the very truth , "" cried the mercer ; "" but monsieur does not tell you-- ""","('cry', 'écrier', 'exclamar')",0,8,0
+"at this cry all the crowd re - entered the apartment , and throughout the palace and town there was nothing but consternation and tumult .","('cry', 'cri', 'gritar')",2,2,2
+""" nine from seven , "" cried the sentinel .","('cry', 'écrier', 'exclamar')",1,6,0
+""" what a monster ! "" cried neb .","('cry', 'écrier', 'exclamar')",0,6,0
+""" what is that stupid fellow troubling himself about ? "" cried the cavalier whom milady had designated as her brother , stooping down to the height of the coach window . "" why does not he go about his business ? ""","('cry', 'écrier', 'exclamar')",0,11,0
+""" hum ! "" cried colonel proctor ; "" but we are not going to stay here , i imagine , and take root in the snow ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" and above all others , "" cried d’artagnan , as if carried away by his enthusiasm , "" to that of the king and the cardinal . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" just heaven , what have i read ? "" cried the duke .","('cry', 'écrier', 'exclamar')",0,10,0
+"hans , almost thrown off his feet by the violence of the shock , uttered a cry of grief and disappointment , of which i soon under- . stood the cause , when plunging my hands into the spouting torrent , i withdrew them in haste , for the water was scalding hot .","('cry', 'cri', 'gritar')",2,16,2
+""" the water is at the boiling point , "" i cried .","('cry', 'écrier', 'exclamar')",0,11,0
+""" you are laughing , "" cried the sailor , "" and why ?","('cry', 'écrier', 'exclamar')",0,6,0
+""" what ! prudent ! "" cried colonel proctor , whom this word seemed to excite prodigiously . "" at full speed , do n't you see , at full speed ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+"over a species of altar , and beneath a canopy of blue velvet , surmounted by white and red plumes , was a full - length portrait of anne of austria , so perfect in its resemblance that d’artagnan uttered a cry of surprise on beholding it . one might believe the queen was about to speak .","('cry', 'cri', 'gritar')",2,41,2
+all at once he uttered a terrible cry .,"('cry', 'cri', 'gritar')",2,7,2
+""" ah ! it 's you , is it , englishman ? "" cried the colonel ; "" it 's you who are going to play a spade ! ""","('cry', 'écrier', 'exclamar')",0,13,0
+""" o , divine providence ; sacred author of all things ! "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,13,0
+""" this will take us a long way , "" he cried , "" and without much difficulty ; for the projections in the rock form quite a staircase . ""","('cry', 'écrier', 'exclamar')",0,11,0
+""" they are binding her ; they are going to drag her away , "" cried d’artagnan to himself , springing up from the floor .","('cry', 'écrier', 'exclamar')",0,15,0
+""" he has agents , then , throughout the world ? "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,12,0
+"patrick ! "" cried the duke , opening the door of the chapel , "" patrick ! ""","('cry', 'écrier', 'exclamar')",0,3,0
+""" well , where the devil are you going now ? "" cried athos .","('cry', 'écrier', 'exclamar')",1,12,0
+""" it is he ! "" cried d’artagnan , pale with anger , and with the sweat on his brow , "" it is he ! let me overtake him ! "" "" he ?","('cry', 'écrier', 'exclamar')",0,6,0
+""" here , top ! "" cried cyrus harding , who did not like his dog to venture into the treacherous water .","('cry', 'écrier', 'exclamar')",1,6,0
+""" sixteen leagues ? "" i cried .","('cry', 'écrier', 'exclamar')",0,6,0
+""" and that name of a town or village is written in her hand ! "" cried athos .","('cry', 'écrier', 'exclamar')",0,16,0
+""" my husband in the bastille ! "" cried mme . bonacieux . "" oh , my god ! what has he done ? poor dear man , he is innocence itself ! ""","('cry', 'écrier', 'exclamar')",0,8,0
+"the conductor was fighting beside mr . fogg , when he was shot and fell . at the same moment he cried , "" unless the train is stopped in five minutes , we are lost ! ""","('cry', 'écrier', 'exclamar')",0,21,0
+""" stay , monsieur , "" cried passepartout ; "" i will go . ""","('cry', 'écrier', 'exclamar')",1,6,0
+""" villainous host ! "" cried he , "" he has given us anjou wine instead of champagne , and fancies we know no better !","('cry', 'écrier', 'exclamar')",0,5,0
+""" what ! by demanding my head of the cardinal ? "" cried d’artagnan , pale with terror .","('cry', 'écrier', 'exclamar')",0,12,0
+""" ah , mr.--mr . fogg ! "" cried she , clasping his hands and covering them with tears .","('cry', 'écrier', 'exclamar')",0,8,0
+""" you , sir ! "" cried fix , coming up ; "" you go alone in pursuit of the indians ? ""","('cry', 'écrier', 'exclamar')",0,6,0
+"you are right , "" cried the affrighted mme . bonacieux ; "" let us fly ! let us save ourselves . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" no , sir , you shall not go alone , "" cried the captain , touched in spite of himself . "" no ! you are a brave man . thirty volunteers ! "" he added , turning to the soldiers .","('cry', 'écrier', 'exclamar')",0,12,0
+""" water ! "" cried pencroft , "" water as fuel for steamers and engines ! water to heat water ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+"i will warn them . "" "" what the devil are you going to do ? "" cried d’artagnan , "" you will be shot . ""","('cry', 'écrier', 'exclamar')",0,17,0
+""" take care , athos ! "" cried d’artagnan ; "" do n’t you see they are aiming ? ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" oh , "" cried herbert , his countenance full of animation , "" how i should like to thank him , he who saved you first , and who has now saved us ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" but this is infamous ! "" cried he .","('cry', 'écrier', 'exclamar')",0,7,0
+""" top has seen something , "" cried one of the men .","('cry', 'écrier', 'exclamar')",0,7,0
+"a terrible cry of anguish burst from me . upon earth , in the midst of the darkest night , light never abdicates its functions altogether . it is still subtle and diffusive , but whatever little there may be , the eye still catches that little . here there was not an atom ; the total darkness made me totally blind .","('cry', 'cri', 'gritar')",2,2,2
+"i listened , i watched in the darkness for an answer , a cry , a mere breath of sound , but nothing came . some minutes passed . a whole world of ideas had opened in my mind . i thought that my weakened voice could never penetrate to my companions .","('cry', 'cri', 'gritar')",2,13,2
+""" it is my cousin ! "" cried the procurator ’s wife . "" come in , come in , monsieur porthos ! ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" twenty - five minutes past nine ! "" cried m. de treville , looking at the clock ; "" why , that ’s impossible ! ""","('cry', 'écrier', 'exclamar')",0,9,0
+""" oh , "" cried the novice , "" as to friends , you would have them wherever you want , you appear so good and are so beautiful ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" here , master , "" cried neb ; "" here 's something to employ our time !","('cry', 'écrier', 'exclamar')",0,6,0
+""" oh , you know her , then , that lovely and noble queen , that you speak of her thus ! "" cried the novice , with enthusiasm .","('cry', 'écrier', 'exclamar')",0,23,0
+""" bravo ! "" cried porthos . "" decidedly , athos , you were born to be a general , and the cardinal , who fancies himself a great soldier , is nothing beside you . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" why , then , only see ! "" cried the novice ; "" we shall soon be well acquainted , almost friends . if you know monsieur de treville , you must have visited him ? ""","('cry', 'écrier', 'exclamar')",0,9,0
+"milady became as pale as the sheets in which she was lying , and mistress as she was of herself , could not help uttering a cry , seizing the hand of the novice , and devouring her with looks .","('cry', 'cri', 'gritar')",2,26,2
+""" you know monsieur d’artagnan ! "" cried the novice , in her turn seizing the hands of milady and devouring her with her eyes .","('cry', 'écrier', 'exclamar')",0,7,0
+""" it 's a very rare bird -- practically extinct -- in england now , but all things are possible upon the moor . yes , i should not be surprised to learn that what we have heard is the cry of the last of the bitterns . ""","('cry', 'cri', 'gritar')",2,40,2
+"when i came to myself , i was stretched in half darkness , covered with thick coats and blankets . my uncle was watching over me , to discover the least sign of life . at my first sigh he took my hand ; when i opened my eyes he uttered a cry of joy .","('cry', 'cri', 'gritar')",2,52,2
+""" he lives ! he lives ! "" he cried .","('cry', 'écrier', 'exclamar')",0,9,0
+""" a fine job you have made of it , mr . spilett , "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,15,0
+the king looked at the cardinal as if to interrogate him ; but he had not time to address any question to him -- a cry of admiration burst from every mouth .,"('cry', 'cri', 'gritar')",2,25,2
+""" oh , pardon me , pardon me ! "" cried she , sinking upon the shoulders of milady . "" pardon me , i love him so much ! ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" how , sire ? "" cried the young queen , affecting surprise , "" you are giving me , then , two more : i shall have fourteen . ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" a document ! "" cried gideon spilett .","('cry', 'écrier', 'exclamar')",0,5,0
+""" oh , the great man ! "" cried d’artagnan . "" i comprehend now . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" he is living , "" cried neb , who was bending over him .","('cry', 'écrier', 'exclamar')",0,6,0
+""" good god ! "" cried she , "" two thousand livres ! why , that is a fortune ! ""","('cry', 'écrier', 'exclamar')",0,5,0
+"upon gaining this advantage d’artagnan was near uttering a cry of surprise ; it was not aramis who was conversing with the nocturnal visitor , it was a woman !","('cry', 'cri', 'gritar')",2,9,2
+""" and i did well ! "" cried andrew speedy ; "" for i have gained at least forty thousand dollars by it ! "" he added , more sedately , "" do you know one thing , captain-- ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" you at last ? "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,6,0
+""" oh ! "" cried mme . bonacieux , darting to the window , "" can it be he ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" but where and when shall i see you again ? "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,12,0
+""" the sea ! "" i cried .","('cry', 'écrier', 'exclamar')",0,6,0
+""" oh , do n’t let that disturb you , "" cried mme . coquenard . "" my husband has five or six valises ; you shall choose the best . there is one in particular which he prefers in his journeys , large enough to hold all the world . ""","('cry', 'écrier', 'exclamar')",0,11,0
+"but at the sight of the young man , who detached himself from the wall like a statue walking from its niche , and at the noise of the steps which she heard resound behind her , mme . bonacieux uttered a little cry and fled .","('cry', 'cri', 'gritar')",2,43,2
+"the unfortunate woman was exhausted , not by fatigue , but by terror , and when d’artagnan placed his hand upon her shoulder , she sank upon one knee , crying in a choking voice , "" kill me , if you please , you shall know nothing ! ""","('cry', 'écrier', 'exclamar')",1,30,0
+""" that is top barking ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,7,0
+""" wonderful , magnificent , splendid ! "" cried my uncle . "" here is the entire flora of the second period of the world -- the transition period . these , humble garden plants with us , were tall trees in the early ages . look , axel , and admire it all . never had botanist such a feast as this ! ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" what the devil shall we do now , gentlemen ? "" cried athos .","('cry', 'écrier', 'exclamar')",0,12,0
+milady uttered a cry of joy ; this man was the comte de rochefort -- the demoniacal tool of his eminence .,"('cry', 'cri', 'gritar')",2,3,2
+""" there , now ! did n’t i say so ? "" cried planchet .","('cry', 'écrier', 'exclamar')",0,12,0
+""" what ! the tide ! "" i cried .","('cry', 'écrier', 'exclamar')",0,8,0
+""" his name ; his name ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,8,0
+"the remembrance of the scene at st . germain presented itself to the mind of the presumptuous gascon . as quick as thought , he tore open the letter , in spite of the cry which kitty uttered on seeing what he was going to do , or rather , what he was doing .","('cry', 'cri', 'gritar')",2,34,2
+""" here is the tide rising , "" i cried .","('cry', 'écrier', 'exclamar')",0,9,0
+""" how beautiful it is ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,7,0
+""" ah ! "" cried aouda , pressing his hand to her heart .","('cry', 'écrier', 'exclamar')",0,4,0
+"come , come , madame ! "" cried d’artagnan , seizing her hands , and surveying her with an ardent glance , "" come , be more generous . confide in me . have you not read in my eyes that there is nothing but devotion and sympathy in my heart ? ""","('cry', 'écrier', 'exclamar')",0,7,0
+"there was a cry heard , and a crash . the cry was so horrible in its agony that the frightened servants woke and crept out of their rooms . two gentlemen , who were passing in the square below , stopped and looked up at the great house . they walked on till they met a policeman and brought him back . the man rang the bell several times , but there was no answer . except for a light in one of the top windows , the house was all dark . after a time , he went away and stood in an adjoining portico and watched .","('cry', 'cri', 'gritar')",2,3,2
+"there was a cry heard , and a crash . the cry was so horrible in its agony that the frightened servants woke and crept out of their rooms . two gentlemen , who were passing in the square below , stopped and looked up at the great house . they walked on till they met a policeman and brought him back . the man rang the bell several times , but there was no answer . except for a light in one of the top windows , the house was all dark . after a time , he went away and stood in an adjoining portico and watched .","('cry', 'cri', 'gritar')",2,11,2
+""" beware of what you do ! "" cried the young woman , in a manner so serious as to make d’artagnan start in spite of himself .","('cry', 'écrier', 'exclamar')",0,8,0
+""" good god , "" cried kitty , "" there is my mistress calling me !","('cry', 'écrier', 'exclamar')",0,5,0
+""" here am i , milady , here am i ! "" cried kitty , springing forward to meet her mistress .","('cry', 'écrier', 'exclamar')",0,12,0
+""" ah ! i wish i had never seen you ! "" cried d’artagnan , with that ingenuous roughness which women often prefer to the affectations of politeness , because it betrays the depths of the thought and proves that feeling prevails over reason .","('cry', 'écrier', 'exclamar')",0,12,0
+""" and will you make the same promise to my love ? "" cried d’artagnan , beside himself with joy .","('cry', 'écrier', 'exclamar')",0,13,0
+"at herbert 's cry , pencroft , letting his gun fall , rushed towards him .","('cry', 'cri', 'gritar')",2,3,2
+""" it is a man , then , who expects you ? "" cried d’artagnan . "" a man ! ""","('cry', 'écrier', 'exclamar')",0,13,0
+""" here are the burrows ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,7,0
+""" holy virgin ! "" cried she , "" what will become of us ? a man killed in my apartment ! if the peace - officers come , we are undone . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" i 'll pay the villains off ! "" cried the sailor , shaking his fist in a menacing manner .","('cry', 'écrier', 'exclamar')",0,9,0
+""" ah , you do not love me ! "" cried kitty , "" and i am very wretched . ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" your brother ! "" cried mme . bonacieux .","('cry', 'écrier', 'exclamar')",0,5,0
+""" and her husband found out that she had a fleur - de - lis on her shoulder ? "" cried porthos .","('cry', 'écrier', 'exclamar')",0,20,0
+""" it is not aramis ! "" cried he .","('cry', 'écrier', 'exclamar')",0,7,0
+""" you pardon me ? "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,6,0
+""" from tours ! "" cried aramis . "" a thousand pardons , gentlemen ; but no doubt this man brings me the news i expected . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" oh , that would be too much ! "" cried mme . bonacieux , "" so much happiness is not in store for me ! ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" seven thousand livres ! "" cried porthos . "" that poor little diamond was worth seven thousand livres ? ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" in the name of heaven , my lord ! "" cried mme . bonacieux , throwing herself between the combatants and seizing the swords with her hands .","('cry', 'écrier', 'exclamar')",0,11,0
+""" my lord ! "" cried d’artagnan , enlightened by a sudden idea , "" my lord ! pardon me , monsieur , but you are not-- ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" ' how , ' cried i , ' in my mother 's chapel ! '","('cry', 'écrier', 'exclamar')",0,5,0
+"for a moment she remained trembling and reeling to and fro upon the threshold — then , with a low moaning cry , fell heavily inward upon the person of her brother , and in her violent and now final death - agonies , bore him to the floor a corpse , and a victim to the terrors he had anticipated .","('cry', 'cri', 'gritar')",2,21,2
+""" capital ! "" cried athos ; "" you are the king of poets , my dear aramis . you speak like the apocalypse , and you are as true as the gospel .","('cry', 'écrier', 'exclamar')",0,4,0
+""" good lord , how cold i am ! "" cried planchet , as soon as he had lost sight of his master ; and in such haste was he to warm himself that he went straight to a house set out with all the attributes of a suburban tavern , and knocked at the door .","('cry', 'écrier', 'exclamar')",0,10,0
+"aramis uttered a cry of joy at the sight of the seal , kissed the superscription with an almost religious respect , and opened the epistle , which contained what follows :","('cry', 'cri', 'gritar')",2,3,2
+buckingham saw this apparition in the glass ; he uttered a cry . it was the queen !,"('cry', 'cri', 'gritar')",2,11,2
+""" something tells me , "" cried herbert , "" that a man as energetic as captain harding would not let himself be drowned like other people .","('cry', 'écrier', 'exclamar')",0,6,0
+""" golden dreams ! "" cried aramis .","('cry', 'écrier', 'exclamar')",0,5,0
+"on this day , as it was raining in torrents , the settlers were assembled in the great hall in granite house , when the lad cried out all at once,--","('cry', 'écrier', 'exclamar')",0,26,0
+""" my lord , "" cried the queen , "" you forget that i have never said that i love you . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" oh ! "" cried he , "" those are not gulls nor sea - mews ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+"d’artagnan uttered a cry of surprise , which was not quite free from joy .","('cry', 'cri', 'gritar')",2,3,2
+""" ah , my yellow horse , "" cried he .","('cry', 'écrier', 'exclamar')",0,8,0
+""" good god ! "" cried he , laughing , "" i quite despair of my poor michon ; she will never write like monsieur de voiture . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" provided it grows ! "" cried the sailor .","('cry', 'écrier', 'exclamar')",0,6,0
+""" well , "" cried the professor , "" as we have no guns we can not hunt , that 's all . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" what do you mean ? "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,7,0
+""" four months ! "" cried the professor . "" we have time to go and to return ; and with what is left i will give a grand dinner to my friends at the johannæum . ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" how so ? "" i cried .","('cry', 'écrier', 'exclamar')",0,6,0
+"monsieur porthos ! "" cried the procurator ’s wife . "" i have been wrong ; i see it . i ought not to have driven a bargain when it was to equip a cavalier like you . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" stop , in the name of heaven , monsieur porthos ! "" cried she . "" stop , and let us talk . ""","('cry', 'écrier', 'exclamar')",0,13,0
+"he flew as he spoke these words , crying out aloud in spanish , "" make way ; make way for the reverend father colonel . ""","('cry', 'écrier', 'exclamar')",1,8,0
+"the procurator ’s wife hung upon the arm of porthos , and in the violence of her grief she cried out , "" monsieur porthos , i am ignorant of all such matters ! how should i know what a horse is ? how should i know what horse furniture is ? ""","('cry', 'écrier', 'exclamar')",0,19,0
+""" ah ! i should say those are foxes ! "" cried herbert , when he saw the troop rapidly decamping .","('cry', 'écrier', 'exclamar')",0,11,0
+""" that ’s the man ! "" cried d’artagnan , "" again he , forever he !","('cry', 'écrier', 'exclamar')",0,7,0
+""" oh , my god , my god , "" cried mme . bonacieux , "" what is it ? ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" come , then , come , then ! "" cried milady , trying to drag the young woman along by the arm .","('cry', 'écrier', 'exclamar')",0,10,0
+""" planchet ! "" cried d’artagnan , beside himself with joy .","('cry', 'écrier', 'exclamar')",0,4,0
+"but more was to come , when , with a rush through clouds of bone dust , he laid his hand upon a bare skull , and cried with a voice trembling with excitement :","('cry', 'écrier', 'exclamar')",0,27,0
+"all at once she uttered a loud cry of joy , and darted toward the door ; she had recognized the voice of d’artagnan .","('cry', 'cri', 'gritar')",2,7,2
+""" d’artagnan ! d’artagnan ! "" cried she , "" is it you ?","('cry', 'écrier', 'exclamar')",0,6,0
+""" your companion ! "" cried d’artagnan , becoming more pale than the white veil of his mistress . "" of what companion are you speaking , dear constance ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" her name , her name ! "" cried d’artagnan . "" my god , can you not remember her name ? ""","('cry', 'écrier', 'exclamar')",0,8,0
+"i can not see ! "" "" help , help , my friends ! her hands are icy cold , "" cried d’artagnan . "" she is ill ! great god , she is losing her senses ! ""","('cry', 'écrier', 'exclamar')",0,21,0
+""" well , captain , "" cried pencroft , "" a bullet does not always reach its mark . ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" there are people who laugh at the horse that would not dare to laugh at the master , "" cried the young emulator of the furious treville .","('cry', 'écrier', 'exclamar')",0,20,0
+""" and i , "" cried d’artagnan , "" will allow no man to laugh when it displeases me ! ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" ah ! "" cried neb , "" if my master was here , he would know what to do ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+"then , collecting all her strength , she took the head of the young man between her hands , looked at him for an instant as if her whole soul passed into that look , and with a sobbing cry pressed her lips to his .","('cry', 'cri', 'gritar')",2,39,2
+""" constance , constance ! "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,6,0
+"the young man uttered a cry , and fell by the side of his mistress as pale and as icy as herself .","('cry', 'cri', 'gritar')",2,5,2
+""" but i do see , "" i cried , darting upon an object lying on the sand .","('cry', 'écrier', 'exclamar')",0,8,0
+""" that ring comes from milady ? "" cried athos , with a voice in which it was easy to detect strong emotion .","('cry', 'écrier', 'exclamar')",0,8,0
+""" why , this fellow must be the devil in person ! "" cried the stranger .","('cry', 'écrier', 'exclamar')",0,13,0
+""" but i have not told you that i know him ! "" cried bonacieux , in despair .","('cry', 'écrier', 'exclamar')",0,13,0
+""" ah , monsieur ! "" cried planchet , as soon as he perceived his master , "" here is more trouble . i thought you would never come in . ""","('cry', 'écrier', 'exclamar')",0,6,0
+the three friends uttered a cry of surprise .,"('cry', 'cri', 'gritar')",2,5,2
+""" thou marvellous genius ! "" he cried , "" thou hast not forgotten one indication which might serve to lay open to mortals the road through the terrestrial crust ; and thy fellow - creatures may even now , after the lapse of three centuries , again trace thy footsteps through these deep and darksome ways . you reserved the contemplation of these wonders for other eyes besides your own . your name , graven from stage to stage , leads the bold follower of your footsteps to the very centre of our planet 's core , and there again we shall find your own name written with your own hand . i too will inscribe my name upon this dark granite page . but for ever henceforth let this cape that advances into the sea discovered by yourself be known by your own illustrious name -- cape saknussemm . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" forward ! forward ! "" i cried .","('cry', 'écrier', 'exclamar')",0,7,0
+""" why , i am ready to tell everything , "" cried bonacieux , "" at least , all that i know .","('cry', 'écrier', 'exclamar')",0,11,0
+""" my wife escaped ! "" cried bonacieux .","('cry', 'écrier', 'exclamar')",0,6,0
+""" accursed rock ! "" i cried in a passion , finding myself suddenly confronted by an impassable obstacle .","('cry', 'écrier', 'exclamar')",0,6,0
+""" but how was it with saknussemm ? "" i cried .","('cry', 'écrier', 'exclamar')",0,10,0
+""" by my faith , i ask no better , "" cried bonacieux ; "" i shall not be sorry to see the face of an acquaintance . ""","('cry', 'écrier', 'exclamar')",0,11,0
+""" hans , to work ! "" cried my uncle .","('cry', 'écrier', 'exclamar')",0,7,0
+""" but , "" cried bonacieux , "" this is not monsieur d’artagnan whom you show me . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" this insolent boy chastises others , "" cried he ; "" and i hope that this time he whom he ought to chastise will not escape him as before . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" in the name of heaven , sir , "" cried she , "" what means all that is passing ?","('cry', 'écrier', 'exclamar')",0,10,0
+""" you are right , "" cried the gentleman ; "" begone then , on your part , and i will depart as quickly on mine . ""","('cry', 'écrier', 'exclamar')",0,6,0
+"scarcely had he gone ten steps when his ears began to tingle , a faintness seized him , a cloud of blood passed over his eyes , and he fell in the middle of the street , crying still , "" coward ! coward ! coward ! ""","('cry', 'écrier', 'exclamar')",1,37,0
+""" but i tell you , monsieur commissary , "" cried bonacieux , in his turn , "" there is not the least doubt about the matter .","('cry', 'écrier', 'exclamar')",0,10,0
+"then when she had no longer any doubt , she cried , in a state of stupor , "" what , my brother , is it you ? ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" oh , unhappy woman ! "" cried the commissary . "" how ?","('cry', 'écrier', 'exclamar')",0,7,0
+""" do as i bade you , "" cried the commissary , "" and preserve absolute secrecy .","('cry', 'écrier', 'exclamar')",0,8,0
+""" what do you mean ? "" i cried .","('cry', 'écrier', 'exclamar')",0,8,0
+""" yes , where is this letter ? "" cried d’artagnan . "" in the first place , i warn you that that letter is for monsieur de treville , and it must be found , he will know how to find it . ""","('cry', 'écrier', 'exclamar')",1,9,0
+""" the torch ! the torch ! "" cried the professor .","('cry', 'écrier', 'exclamar')",0,8,0
+"i think it does indeed ! "" cried the gascon , who reckoned upon this letter for making his way at court . "" it contained my fortune ! ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" follow you ! "" cried bonacieux , "" follow you at this hour ! where , my god ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" that letter is not lost ! "" cried he .","('cry', 'écrier', 'exclamar')",0,8,0
+""" what ! "" cried my uncle . "" have we lost our provisions ? ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" how clumsy i am ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,7,0
+""" for everything , "" cried d’artagnan , who knew beforehand that he had not much to risk in engaging himself thus .","('cry', 'écrier', 'exclamar')",0,5,0
+he had walked as one walks in a dream ; he had a glimpse of objects as through a fog . his ears had perceived sounds without comprehending them ; he might have been executed at that moment without his making a single gesture in his own defense or uttering a cry to implore mercy .,"('cry', 'cri', 'gritar')",2,51,2
+""" well , let us consume it then , "" i cried .","('cry', 'écrier', 'exclamar')",0,11,0
+""" do not overwhelm me with happiness , "" cried d’artagnan , throwing himself on his knees , and covering with kisses the hands abandoned to him .","('cry', 'écrier', 'exclamar')",0,9,0
+""" what ’s the manner ? "" cried athos . "" has she left armentieres ? ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" like a fish ? "" cried herbert , much surprised at the proposal .","('cry', 'écrier', 'exclamar')",0,6,0
+""" my uncle , "" i cried , "" we are lost now , utterly lost ! ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" so i have been told already , monseigneur , "" cried bonacieux , giving his interrogator the title he had heard the officer give him , "" but i swear to you that i know nothing about it . ""","('cry', 'écrier', 'exclamar')",0,11,0
+""" she said that ? "" cried the cardinal , with violence .","('cry', 'écrier', 'exclamar')",0,6,0
+""" hurrah ! "" he cried , rushing towards the game , of which he made himself master in an instant .","('cry', 'écrier', 'exclamar')",0,5,0
+""" not if it were my own brother ! "" cried d’artagnan , as if carried away by his enthusiasm .","('cry', 'écrier', 'exclamar')",0,10,0
+""" see , see , my uncle ! "" i cried .","('cry', 'écrier', 'exclamar')",0,10,0
+""" good - bye to gateshead ! "" cried i , as we passed through the hall and went out at the front door .","('cry', 'écrier', 'exclamar')",0,8,0
+""" you love me , you ! "" cried he .","('cry', 'écrier', 'exclamar')",0,8,0
+"milady recoiled , uttering a cry .","('cry', 'cri', 'gritar')",2,5,2
+""" de wardes ; i know it , "" cried d’artagnan .","('cry', 'écrier', 'exclamar')",0,9,0
+""" ah , porthos ! "" cried one of his companions , "" do n’t try to make us believe you obtained that baldric by paternal generosity . it was given to you by that veiled lady i met you with the other sunday , near the gate st . honor . ""","('cry', 'écrier', 'exclamar')",0,6,0
+"milady had sunk into a chair , with her hands extended , as if to conjure this terrible apparition . perceiving her brother - in - law , she uttered a terrible cry .","('cry', 'cri', 'gritar')",2,32,2
+"milady was about to cry out , "" immediately , "" but she reflected that such precipitation would not be very gracious toward d’artagnan .","('cry', 'écrier', 'exclamar')",0,4,0
+"these suckling - pigs were really delicious , and pencroft was devouring his share with great gusto , when all at once a cry and an oath escaped him .","('cry', 'cri', 'gritar')",2,23,2
+""" what ! not iceland ? "" cried the professor .","('cry', 'écrier', 'exclamar')",0,7,0
+""" a malignant fever ! "" cried harding .","('cry', 'écrier', 'exclamar')",0,6,0
+""" it is he ! "" cried bonacieux . "" he !","('cry', 'écrier', 'exclamar')",0,6,0
+"at the sight of his friend , porthos uttered a loud cry of joy ; and mousqueton , rising respectfully , yielded his place to him , and went to give an eye to the two stewpans , of which he appeared to have the particular inspection .","('cry', 'cri', 'gritar')",2,11,2
+""" no , monseigneur , no , it is not he ! "" cried bonacieux ; "" no , i was deceived . this is quite another man , and does not resemble him at all . monsieur is , i am sure , an honest man . ""","('cry', 'écrier', 'exclamar')",0,13,0
+""" the queen and the duke ? "" cried richelieu .","('cry', 'écrier', 'exclamar')",0,8,0
+""" ah ! "" i cried , "" here is an inhabitant of this happy land ! ""","('cry', 'écrier', 'exclamar')",0,5,0
+""" are you going to give me a lesson , porthos ? "" cried aramis , from whose usually mild eye a flash passed like lightning .","('cry', 'écrier', 'exclamar')",0,13,0
+""" no ! a hundred times no ! a thousand times no ! "" cried the sailor , springing up from the table .","('cry', 'écrier', 'exclamar')",0,14,0
+""" officer ! "" cried grimaud .","('cry', 'écrier', 'exclamar')",1,4,0
+""" oh , grace , grace , pardon ! "" cried the wretch , falling on her knees .","('cry', 'écrier', 'exclamar')",0,10,0
+towards three o'clock in the morning herbert uttered a piercing cry .,"('cry', 'cri', 'gritar')",2,10,2
+""" is the child dumb ? "" cried the professor , who , proud of his knowledge of many languages , now tried french : "" _ comment appellet - on cette montagne , mon enfant ? _ ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" what 's the matter ? "" he cried , rousing himself , and collecting his ideas with the promptitude usual to seamen .","('cry', 'écrier', 'exclamar')",0,8,0
+""" farewell , then ! "" he cried , and fled like a madman .","('cry', 'écrier', 'exclamar')",0,7,0
+"suddenly pencroft , uttering a cry , pointed to the table . on it lay a little oblong box , of which the cover bore these words:--""sulphate of quinine . ""","('cry', 'cri', 'gritar')",2,5,2
+""" five days , "" cried neb , "" to build a boat ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+"it is top ! "" cried herbert , who had just awoke ; and all three rushed towards the opening of the chimneys .","('cry', 'écrier', 'exclamar')",0,5,0
+"suddenly , to my intense astonishment , i noticed a strange fact , and i uttered a cry of surprise .","('cry', 'cri', 'gritar')",2,17,2
+""" it is top ! "" cried herbert .","('cry', 'écrier', 'exclamar')",0,6,0
+""" ha ! "" cried martin , "" here are fourscore volumes of the memoirs of the academy of sciences ; perhaps there may be something curious and valuable in this collection . ""","('cry', 'écrier', 'exclamar')",0,4,0
+""" see there , "" he cried , as soon as he was able to speak . "" after our arrival at cape saknussemm the north pole of the needle of this confounded compass began to point south instead of north . ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" exactly ! "" cried herbert , "" a fine breeze is blowing from the northeast , which will soon do our business for us . ""","('cry', 'écrier', 'exclamar')",0,4,0
+"then she broke the silence to cry out ,","('cry', 'écrier', 'exclamar')",0,6,0
+""" i , "" cried bonacieux , "" i deceive your eminence ! ""","('cry', 'écrier', 'exclamar')",0,4,0
+"i have touched the hand of the great man ! "" cried bonacieux . "" the great man has called me his friend ! ""","('cry', 'écrier', 'exclamar')",0,11,0
+milady uttered a cry of terror and sank upon her knees .,"('cry', 'cri', 'gritar')",2,3,2
+""" oh , my god ! "" cried she , "" my god ! are you going to drown me ? ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" d’artagnan , d’artagnan ! "" cried she ; "" remember that i loved you ! ""","('cry', 'écrier', 'exclamar')",1,6,0
+""" athos ! "" cried the two musketeers .","('cry', 'écrier', 'exclamar')",0,4,0
+""" it was they ! "" cried the cardinal , looking at the clock ; "" and now it is too late to have them pursued . the duchess is at tours , and the duke at boulogne .","('cry', 'écrier', 'exclamar')",0,6,0
+""" great god ! "" cried d’artagnan , loosing his hold of her dress , and remaining mute , motionless , and frozen .","('cry', 'écrier', 'exclamar')",0,5,0
+""" a surgeon ! "" cried m. de treville , "" mine !","('cry', 'écrier', 'exclamar')",1,5,0
+""" living ? "" he cried .","('cry', 'écrier', 'exclamar')",0,5,0
+""" good heavens ! "" cried d’artagnan , "" is the poor fellow worse , then ? ""","('cry', 'écrier', 'exclamar')",0,5,0
+"no sooner had candide uttered the names of the baron and pangloss , than the two slaves gave a great cry , ceased rowing , and let fall their oars out of their hands .","('cry', 'cri', 'gritar')",2,20,2
+""" oh ! the stupids ! "" cried the sailor , "" to have let at least fifty meals escape ! ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" you , monsieur d’artagnan ! "" cried grimaud , "" impossible . ""","('cry', 'écrier', 'exclamar')",0,7,0
+""" oh ! what stupids we were ! "" cried neb .","('cry', 'écrier', 'exclamar')",0,9,0
+d’artagnan raised his head and uttered a cry of joy .,"('cry', 'cri', 'gritar')",2,7,2
+""" do n’t laugh , my friend ! "" cried d’artagnan ; "" for heaven ’s sake , do n’t laugh , for upon my soul , it ’s no laughing matter ! ""","('cry', 'écrier', 'exclamar')",0,9,0
+""" i had one , sir , and , thank god , such as i could wish , "" cried d’artagnan ; "" but it was perfidiously stolen from me . ""","('cry', 'écrier', 'exclamar')",0,19,0
+"and he pronounced these words with such a solemn air and with such a real appearance of terror , that athos eagerly seized his hand , crying , "" are you wounded , my friend ?","('cry', 'écrier', 'exclamar')",0,26,0
+""" ah ! "" cried the musketeer , as if he had received a ball in his heart .","('cry', 'écrier', 'exclamar')",1,4,0
+""" i defy your eminence to prove it , "" cried treville , with his gascon freedom and military frankness ; "" for one hour before , monsieur athos , who , i will confide it to your majesty , is really a man of the highest quality , did me the honor after having dined with me to be conversing in the saloon of my hotel , with the duc de la tremouille and the comte de chalus , who happened to be there . ""","('cry', 'écrier', 'exclamar')",0,10,0
+""" ordination ! "" cried d’artagnan , who could not believe what the hostess and bazin had successively told him ; and he gazed , half stupefied , upon the three persons before him .","('cry', 'écrier', 'exclamar')",0,4,0
+""" oh , sir , if you know who this man is , "" cried d’artagnan , "" tell me who he is , and whence he is . i will then release you from all your promises -- even that of procuring my admission into the musketeers ; for before everything , i wish to avenge myself . ""","('cry', 'écrier', 'exclamar')",0,14,0
+""" an admirable subject ! "" cried the jesuit .","('cry', 'écrier', 'exclamar')",0,6,0
+""" my master ! my master ! "" cried neb .","('cry', 'écrier', 'exclamar')",0,8,0
+""" see what an exordium ! "" cried the jesuit .","('cry', 'écrier', 'exclamar')",0,7,0
+""" what do you say , monsieur ? "" cried the cardinal , astonished ; "" and of what woman are you speaking thus ? ""","('cry', 'écrier', 'exclamar')",0,9,0
+"top and jup were to remain with the engineer , herbert , and neb , for a bark or a cry at a wrong moment would give the alarm .","('cry', 'cri', 'gritar')",2,20,2
+""" police affairs ! "" cried the king , taking up treville ’s words , "" police affairs ! and what do you know about them , monsieur ?","('cry', 'écrier', 'exclamar')",0,5,0
+""" stop there ! "" cried the jesuit , "" for that thesis touches closely upon heresy . there is a proposition almost like it in the augustinus of the heresiarch jansenius , whose book will sooner or later be burned by the hands of the executioner .","('cry', 'écrier', 'exclamar')",0,5,0
+""" desideras diabolum , unhappy man ! "" cried the jesuit .","('cry', 'écrier', 'exclamar')",0,8,0
+"d’artagnan , in a state of fury , crossed the antechamber at three bounds , and was darting toward the stairs , which he reckoned upon descending four at a time , when , in his heedless course , he ran head foremost against a musketeer who was coming out of one of m. de treville ’s private rooms , and striking his shoulder violently , made him utter a cry , or rather a howl .","('cry', 'cri', 'gritar')",2,70,2
+""" repeat it ! repeat it ! "" cried d’artagnan ; "" it will make a little change . ""","('cry', 'écrier', 'exclamar')",0,8,0
+""" oh ! "" cried neb , "" suppose it 's jam !","('cry', 'écrier', 'exclamar')",0,4,0
+""" good ! "" cried d’artagnan , "" i will be there ten minutes before twelve . ""","('cry', 'écrier', 'exclamar')",1,4,0
+""" please god ! "" cried aramis , transported .","('cry', 'écrier', 'exclamar')",0,5,0
+""" there it is , "" cried the jesuit ; "" the world still speaks within you in a loud voice , altisimm voce .","('cry', 'écrier', 'exclamar')",0,6,0
+""" buckingham in paris ! "" cried he , "" and why does he come ? ""","('cry', 'écrier', 'exclamar')",0,6,0
+""" bless me ! "" cried porthos , making strong efforts to disembarrass himself of d’artagnan , who was wriggling about his back ; "" you must be mad to run against people in this manner . ""","('cry', 'écrier', 'exclamar')",1,5,0
+""" how did they act with regard to the marechale d’ancre ? "" cried the king , in the highest state of choler ; "" first her closets were thoroughly searched , and then she herself . ""","('cry', 'écrier', 'exclamar')",0,13,0
+""" presently , presently , "" cried the latter , "" when you have n’t your cloak on . ""","('cry', 'écrier', 'exclamar')",1,6,0
