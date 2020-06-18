@@ -1,6 +1,8 @@
 import pandas as pd
 from pprint import pprint
 import time
+import git
+import os
 
 
 import nltk
@@ -14,8 +16,10 @@ def main():
     
     c = Color()
 
-    path_anno = 'annotated/{}.csv'
-    path = '../data/train_wsd/{}/{}.csv'
+    root = git_root()
+
+    path_anno = os.path.join(root, 'annotation/annotated/{}.csv')
+    path = os.path.join(root, 'data/train_wsd/{}/{}.csv')
 
     while True:
         q = c.bold("Which word do you want to annotate? ")
@@ -37,11 +41,9 @@ def main():
     data = [(s.name(), s.pos(), s.definition(), s.examples()) for s in synsets]
     df_wordnet = pd.DataFrame(data, columns = ['Name', 'POS', 'Definition', 'Examples'])
 
-
-
-
-
     run(word, df, df_wordnet)
+
+
 
 
 def run(word, df, df_wordnet):
@@ -53,9 +55,11 @@ def run(word, df, df_wordnet):
     text_indices  = list(df[df['wordnet_sense'].isnull()].index)
     index = text_indices[0]
 
+    while True:
 
-
-    while len(text_indices) > 0:
+        time.sleep(0.45)
+        print('\n\n' + '=' * 30 + '\n\n')
+        time.sleep(0.45)
 
 
         print("WordNet senses.")
@@ -89,12 +93,12 @@ def run(word, df, df_wordnet):
             if sense in df_wordnet.index:
                 df.loc[index, 'wordnet_sense'] = sense
                 print(c.header('Text labeled!'))
-                time.sleep(0.45)
-                print('\n\n' + '=' * 30 + '\n\n')
-                time.sleep(0.45)
-
+                
                 text_indices = text_indices[1:]
-                index = text_indices[0]
+                if len(text_indices) == 0:
+                    break
+                else:
+                    index = text_indices[0]
             else:
                 time.sleep(0.5)
                 print("\nNot a WordNet sense!\n")
@@ -107,16 +111,39 @@ def run(word, df, df_wordnet):
                 text_indices = text_indices[1:] + [index]
                 index = text_indices[0]
             elif inp == 'save':
-                fname = 'annotated/{}.csv'.format(word)
-                print('Saving progress to', fname)
+                save(word, df)
+            else:
                 time.sleep(0.5)
-                print(df)
-                df.to_csv(fname)
-                time.sleep(0.5)
-
-
+                print("\nInput not valid!\n")
+                time.sleep(1.5)
 
         print('\n\n\n')
+
+
+    print('\nGreat work! All texts have now been annotated.')
+    q = c.bold('Would you like to save? (yes/no) ')
+
+    if input(q).lower() == 'yes':
+        save(word, df)
+    else:
+        time.sleep(0.5)
+        print("\nNot saving!\n")
+        time.sleep(0.5)
+
+
+
+def save(word, df):
+
+    root = git_root()
+    fname = os.path.join(root, 'annotation/annotated/{}.csv'.format(word))
+    print('Saving progress to', fname)
+    time.sleep(0.5)
+    print(df)
+    df.to_csv(fname)
+    time.sleep(0.5)
+
+
+
 
 def examine_senses(df_wordnet):
     c = Color()
@@ -173,7 +200,10 @@ class Color:
     def header(self, string):
         return self.HEADER + string + self.ENDC
 
-
+def git_root(path = os.getcwd()):
+    git_repo = git.Repo(path, search_parent_directories=True)
+    git_root = git_repo.git.rev_parse("--show-toplevel")
+    return git_root
 
 
 
